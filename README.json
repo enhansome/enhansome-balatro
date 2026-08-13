@@ -1,0 +1,3397 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Balatro Mobile Maker",
+          "description": "Create a mobile Balatro app from your Steam version of Balatro. by @blake502",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-10T01:58:39Z",
+            "owner": "blake502",
+            "repo": "balatro-mobile-maker",
+            "stars": 1727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Immolate",
+          "description": "An OpenCL seed searcher for Balatro. by @MathIsFun_",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-04-04T21:58:24Z",
+            "owner": "SpectralPack",
+            "repo": "Immolate",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "balatro-save-loader",
+          "description": "A simple save loader/modder for balatro. by @WilsontheWolf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-14T21:58:47Z",
+            "owner": "WilsontheWolf",
+            "repo": "balatro-save-loader",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Modpack Manager",
+          "description": "Install, update, and customize modpacks in one streamlined tool. by [@Dimserene]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-30T02:20:01Z",
+            "owner": "Dimserene",
+            "repo": "Balatro-ModpackManager",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BalatroWebSiteTemplate",
+          "description": "Use web pages to show your Jokers. like this. by @notmario",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-12T06:29:23Z",
+            "owner": "notmario",
+            "repo": "balatrowebsitetemplate",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Seed Oracle",
+          "description": "Balatro Seed Searcher with visual drag&drop filter builder coded in C# and AvaloniaUI. by @OptimusPi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T19:05:36Z",
+            "owner": "OptimusPi",
+            "repo": "BalatroSeedOracle",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatrolator",
+          "description": "Score calculator for Balatro. by @kleinfreund",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-10T18:43:22Z",
+            "owner": "kleinfreund",
+            "repo": "balatrolator",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "balatro-sprites-i18n",
+          "description": "Internationalization toolchain to translate Balatro's sprites. by @Signez",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-17T13:09:17Z",
+            "owner": "Signez",
+            "repo": "balatro-sprites-i18n",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "balatro-completionist-plus-plus-tracker",
+          "description": "Browser‑based Completionist++ tracker. by @blackfan321",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-19T21:37:30Z",
+            "owner": "blackfan321",
+            "repo": "balatro-completionist-plus-plus-tracker",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Ultimate Speedup Mod",
+          "description": "A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by @sse2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-28T15:40:00Z",
+            "owner": "sse2",
+            "repo": "balatro-ultimate-speedup-mod",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro.antihypertensive",
+          "description": "Save Manager for Balatro, macOS only. by @miku1958",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-02-25T08:42:05Z",
+            "owner": "miku1958",
+            "repo": "Balatro.antihypertensive",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro4J",
+          "description": "An seed searcher and database based in Immolate coded in Java. by @alex-cova",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-02-21T23:18:32Z",
+            "owner": "alex-cova",
+            "repo": "balatro4j",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ouija",
+          "description": "A JSON-powered, Immolate-based seed searcher for Balatro. by @OptimusPi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-06T00:39:24Z",
+            "owner": "OptimusPi",
+            "repo": "Ouija",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Motely",
+          "description": "A C# CPU SIMD seed searcher for Balatro. by @tacodiva",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-04T05:08:39Z",
+            "owner": "Tacodiva",
+            "repo": "Motely",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PerkeoApp",
+          "description": "A Balatro iOS companion app coded in Swift. by @alex-cova",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T01:56:48Z",
+            "owner": "alex-cova",
+            "repo": "perkeoapp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatrones",
+          "description": "Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by @bconlon1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-02-28T23:49:02Z",
+            "owner": "bconlon1",
+            "repo": "Balatrones-Modpack-Manager",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JokerDeck",
+          "description": "A mod manager for Balatro with mod browsing, one-click install, instant enable/disable on browser and locally, dependency detection and more. by @Ch3rryC0d3r",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T20:20:39Z",
+            "owner": "Ch3rryC0d3r",
+            "repo": "JokerDeck",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Steamodded",
+          "description": "A Balatro ModLoader. by @Steamo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-13T15:40:10Z",
+            "owner": "Steamodded",
+            "repo": "smods",
+            "stars": 954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lovely",
+          "description": "A runtime lua injector for games built with LÖVE. by @ethangreen-dev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-11T03:17:09Z",
+            "owner": "ethangreen-dev",
+            "repo": "lovely-injector",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balamod",
+          "description": "Mod loader, Injector and Decompiler that supports in-game code injection for Balatro. by @UwUDev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-11T11:09:03Z",
+            "owner": "balamod",
+            "repo": "balamod",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NANEINF",
+          "description": "A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by @3XPLwastaken",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-08T03:19:27Z",
+            "owner": "3XPLwastaken",
+            "repo": "naneINF-Balatro-Modloader",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Mod Loaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Balatrobot",
+          "description": "A Botting API for Balatro. by @Besteon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-28T23:33:52Z",
+            "owner": "besteon",
+            "repo": "balatrobot",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FederAPI",
+          "description": "An API library mod that allows to register vouchers, blinds, tarots, sounds, etc. by @itayfeder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-26T18:46:53Z",
+            "owner": "itayfeder",
+            "repo": "FederAPI-Balatro",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EnhanceAPI",
+          "description": "Allows for the easy addition of custom enhancements. by @Numbuh214",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-05T02:25:03Z",
+            "owner": "Numbuh214",
+            "repo": "EnhanceAPI",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sound Util",
+          "description": "Allows you to play custom sounds. by @infarctus",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-10-12T22:55:14Z",
+            "owner": "Infarctus",
+            "repo": "Balatro-Custom-Sound-Player",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "After-Five-Api",
+          "description": "An api for adding custom hand poker hands, 6 of a kind, 7 royal flush, 8 eights whatever you want. by @RakibRyan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-31T11:57:42Z",
+            "owner": "RakibRyan",
+            "repo": "After-Five-Api",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OddityAPI",
+          "description": "Adds Oddities to the game as a concept. Doesn't add any content on its own. by @AutumnMood",
+          "children": []
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "5 legendary challenges",
+          "description": "5 more challenges, each featuring a legendary joker. by @Betmma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-09T14:50:15Z",
+            "owner": "betmma",
+            "repo": "my_balatro_mods",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoldenChallenge",
+          "description": "Adds the challenge \"Golden\". by @Mysthaps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-06-19T06:27:06Z",
+            "owner": "Mysthaps",
+            "repo": "BalatroMods",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Riff-Raffling",
+          "description": "start with a negative eternal riffraff you have to get money and win with just common jokers. by @UppedHealer8521",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-19T05:33:02Z",
+            "owner": "UppedHealer8521",
+            "repo": "Riff-Raffling",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stylish Sleeves Challenge",
+          "description": "Adds the Stylish Sleeves Challenge to the game: The effects of all base game decks apply, X2 base blind score. by @Aure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-02-24T22:47:01Z",
+            "owner": "Aurelius7309",
+            "repo": "StylishSleeves",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feed the Vampire",
+          "description": "Adds a challenge that just gives you Pareidolia, Midas Mask, and Vampire. by @Morpline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-02-26T03:27:23Z",
+            "owner": "morpline",
+            "repo": "FeedTheVampire",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Last Stand",
+          "description": "Adds the Last Stand Challenge to the game: Start with $250; after defeating each Boss Blind, earn $10; you cannot earn money through any other means (including selling cards). by @Tucaonormal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-05T04:11:04Z",
+            "owner": "Tucaonormal",
+            "repo": "LastStand",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nihility",
+          "description": "Adds the Nihility Challenge to the game: All cards are debuffed. Start with Joker, so Round 1 is beatable. by @ascriptmaster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-12T01:02:39Z",
+            "owner": "ascriptmaster",
+            "repo": "Balatro-Nihility",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Challenges"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bunco",
+          "description": "Adds 30+ Jokers and new gameplay mechanics, such as Exotic Suits. by @Firch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-20T06:39:48Z",
+            "owner": "Firch",
+            "repo": "Bunco",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mika's Mod Collection",
+          "description": "A collection of 60 Jokers, 2 Tarots, 1 Spectral and 7 Decks! by @Mikadoe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-28T22:00:55Z",
+            "owner": "MikaSchoenmakers",
+            "repo": "MikasBalatro",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDM_0's Stuff",
+          "description": "Adds more Jokers and Challenges to the game. by @SDM_0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-18T00:24:59Z",
+            "owner": "SDM0",
+            "repo": "SDM_0-s-Stuff",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "arachnei's balatro mods",
+          "description": "Collection of balatro mods. by @arachnei",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-28T18:18:45Z",
+            "owner": "nicholassam6425",
+            "repo": "balatro-mods",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fortlatro",
+          "description": "A Fortnite X Balatro collab featuring 44 Jokers, 2 Decks, 2 Tarots, 1 Spectral, 21 Consumables, 5 Enhancements, 3 Seals, 2 Booster Packs, and 2 Blinds. by @EricTheToon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-25T03:28:29Z",
+            "owner": "EricTheToon",
+            "repo": "Fortlatro",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wiwiweb's Balatro mods",
+          "description": "Various mods for Balatro. by @Wiwiweb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-19T03:40:54Z",
+            "owner": "Wiwiweb",
+            "repo": "BalatroMods",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Myst's Balatro Mods",
+          "description": "A collection of mods made by Myst for the game Balatro. by @Mysthaps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-06-19T06:27:06Z",
+            "owner": "Mysthaps",
+            "repo": "BalatroMods",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sylvie's Silliness",
+          "description": "A few decks, jokers, etc. Have fun! by @NewtTheFish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-22T21:46:06Z",
+            "owner": "NewtTheFish",
+            "repo": "SylvieSilly",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Collections"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Codex Arcanum",
+          "description": "Adds a new set of cards: Alchemy! by @itayfeder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-07-25T10:24:03Z",
+            "owner": "itayfeder",
+            "repo": "Codex-Arcanum",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Redux-Arcanum] (https://github.com/jumbocarrot0/Redux-Arcanum",
+          "description": ") - tweaks of Codex-Arcanum. by jumbocarrot0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-08-25T06:35:51Z",
+            "owner": "jumbocarrot0",
+            "repo": "Redux-Arcanum",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deluxe Consumables Cards",
+          "description": "Add Deluxe versions of consumables. by @JeffVi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-10-29T19:02:24Z",
+            "owner": "JeffVi",
+            "repo": "DX-Tarots",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Autumn Circus",
+          "description": "A modularized Balatro mod adding a variety of content! by AutumnMood",
+          "children": []
+        }
+      ],
+      "title": "Consumable cards"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Absolute Deck",
+          "description": "Absolute Deck of PolyGlass! by @Steamo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2026-06-25T14:04:19Z",
+            "owner": "Steamodded",
+            "repo": "examples",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deck of 4",
+          "description": "Create a special deck that only contains 4s! by @Steamo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2026-06-25T14:04:19Z",
+            "owner": "Steamodded",
+            "repo": "examples",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultimate Random Deck",
+          "description": "Ultimate Random Deck! by @Steamo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2026-06-25T14:04:19Z",
+            "owner": "Steamodded",
+            "repo": "examples",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "High Card Deck and Jokers",
+          "description": "Create a deck that references the HighCard Franchise! by @Kenny Stone",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-23T18:38:07Z",
+            "owner": "Ken-Shi",
+            "repo": "Balatro_HighCardMod",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Randomizer Deck",
+          "description": "The Randomizer Deck randomizes itself, jokers, vouchers, planets, costs etc. by @Hellyom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-04T20:12:54Z",
+            "owner": "Hellyom",
+            "repo": "HellyomBalatroMods",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eccentric Deck",
+          "description": "All Ranks and Suits in deck are randomized but heavily biased towards a specific type. Enhancements, editions and seals are also biasely added to some cards. by @Mojimoon",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-04-07T06:48:46Z",
+            "owner": "mojimoon",
+            "repo": "MojiBalatro",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joker Only Deck",
+          "description": "All Consumables and Vouchers are banned, together with related Jokers, Tags and Booster Packs. by @Mojimoon",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-04-07T06:48:46Z",
+            "owner": "mojimoon",
+            "repo": "MojiBalatro",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sylvie's Silliness",
+          "description": "A few decks, jokers, etc. Have fun! by @NewtTheFish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-22T21:46:06Z",
+            "owner": "NewtTheFish",
+            "repo": "SylvieSilly",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enchanted Deck",
+          "description": "Start the game with some of your cards already be enhanced! by @Encarvlucas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-14T15:51:37Z",
+            "owner": "encarvlucas",
+            "repo": "EncarvlucasBalatroMods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "French Tarot Cavalier Card",
+          "description": "Add the card rank Cavalier from the game of French Tarot. by @Desmero",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-02-26T15:32:45Z",
+            "owner": "Desmero",
+            "repo": "FrenchTarotCavalierCard",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pauper Deck",
+          "description": "Shop has no Jokers. Open a Jumbo Pack after each Blind. Only Jokers earn you money. by @AiksiLotl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-22T17:39:53Z",
+            "owner": "AiksiLotl",
+            "repo": "Pauper-Deck",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deck Inversion Challenge Konfiguration",
+          "description": "Replaces all vanilla decks with inversed versions of them! by @tgreenmonkey",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-01T23:18:21Z",
+            "owner": "tgreenmonkey",
+            "repo": "Deck-Inversion-Challenge-Konfiguration",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DNA Splice Deck",
+          "description": "Adds a deck that gives a DNA joker at run start. by @jlwoolf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-16T05:33:36Z",
+            "owner": "jlwoolf",
+            "repo": "balatro-dna-splice",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmallWorldDeck",
+          "description": "A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the Small World ruleset for Balatro multiplayer. by @jacksoncmu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-13T17:26:04Z",
+            "owner": "jacksoncmu",
+            "repo": "smallworld-deck-balatro",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Decks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gold's Cards",
+          "description": "Adds the enhancement \"Rainbow Cards\" to the game, which give 3x mult, as well as 4 new tarot cards and 1 new spectral. by @Goldfighter5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-30T21:55:27Z",
+            "owner": "Goldfighter5",
+            "repo": "Golds-Cards",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X Card",
+          "description": "discord - Adds the enhancement \"X Card\" to the game. X Cards have wild ranks, but two X Cards in the same hand cannot mimic the same rank. by @Numbuh214",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-13T21:08:46Z",
+            "owner": "Numbuh214",
+            "repo": "X-Card",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Enhancements"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Card Sleeves",
+          "description": "Adds fancy sleeves which not only keep the cards cosy, but also apply the modifier of the deck it represents (e.g. get +$10 at start with Yellow Sleeve). by @Larswijn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-21T22:36:17Z",
+            "owner": "larswijn",
+            "repo": "CardSleeves",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saturn",
+          "description": "introduces some Quality of Life features for better game experience on endless mode.. by @OceanRamen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-22T11:55:04Z",
+            "owner": "OceanRamen",
+            "repo": "Saturn",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better Mouse And Gamepad",
+          "description": "Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by @Kooluve",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-13T17:44:10Z",
+            "owner": "Kooluve",
+            "repo": "Better-Mouse-And-Gamepad",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quick Restart",
+          "description": "Quickly reroll ante 1 tags by clicking f2. by @arachnei",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-28T18:18:45Z",
+            "owner": "nicholassam6425",
+            "repo": "balatro-mods",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flush Hotkeys",
+          "description": "Adds hotkeys for selecting flushes, full houses and other hand types. by @Agoraaa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-15T14:51:09Z",
+            "owner": "Agoraaa",
+            "repo": "FlushHotkeys",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stickers Always Shown",
+          "description": "The joker's stickers are always shown!. by @SirMaiquis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-23T05:52:14Z",
+            "owner": "SirMaiquis",
+            "repo": "Balatro-Stickers-Always-Shown",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hermit Level Up",
+          "description": "github - Adds a level system for The Hermit, increasing its money cap with each level. by @LnxFCA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-18T23:09:32Z",
+            "owner": "LnxFCA",
+            "repo": "balatro-mods",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lock-the-deal",
+          "description": "Allows locking of a joker, tarot card or planet card in shop to be purchased later. @LnxFCA",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-18T23:09:32Z",
+            "owner": "LnxFCA",
+            "repo": "balatro-mods",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Milck QOL",
+          "description": "Add keyboard shortcuts to the game. by Milck",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-03T17:25:56Z",
+            "owner": "Mi1cK",
+            "repo": "Milcks-QOL",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hotkeys Collection",
+          "description": "Adds hotkeys / keyboard shortcuts for a wide range of Balatro game actions, designed to be able to play most common hands without having to click very often. by @DorkDad141 based on @Agoraaa's mod",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-09T16:56:49Z",
+            "owner": "DorkDad141",
+            "repo": "keyboard-shortcuts",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UltraHand",
+          "description": "Click on the card in the collection menu to spawn, ignoring the card count limit. by @xioxin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-11T08:51:47Z",
+            "owner": "xioxin",
+            "repo": "BalatroMods",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Faster Stakes Unlock",
+          "description": "Winning a run with a stake unlocks the stake 2 levels below for all decks. by @Wiwiweb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-19T03:40:54Z",
+            "owner": "Wiwiweb",
+            "repo": "BalatroMods",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BalatroQuickLoad",
+          "description": "I made this module for quick file reads. Repeatedly switching to the main menu was too painful. by @TsunamiinFantasy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-04T15:26:19Z",
+            "owner": "TsunamiinFantasy",
+            "repo": "BalatroQuickLoad",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "House Rules",
+          "description": "a mod that adds difficulty modifiers to your runs. by @Mysthaps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-06-19T06:27:06Z",
+            "owner": "Mysthaps",
+            "repo": "BalatroMods",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfinteScore",
+          "description": "A mod to increase the score cap from 1.7e308 to effectively infinite. by @JamestheJellyfish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-11T16:05:19Z",
+            "owner": "jamesthejellyfish",
+            "repo": "InfiniteScoreMod",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RandomSprite",
+          "description": "Randomizes the sprites of all Jokers, Vouchers, Boosters and comsumables. This will also randomize all modded cards into vanilla sprites. by @Mysthaps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-06-19T06:27:06Z",
+            "owner": "Mysthaps",
+            "repo": "BalatroMods",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better Stakes",
+          "description": "Rework of orange and gold stakes, making them less challenging and reducing the need to reset for a good start. by @kjossul",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-14T12:01:24Z",
+            "owner": "kjossul",
+            "repo": "BetterStakes",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IncreaseJokerCap",
+          "description": "Increase Base Joker Capacity. by @Akita Attribute",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-02T04:54:26Z",
+            "owner": "AkitaAttribute",
+            "repo": "IncreaseJokerCap",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neow Blessings",
+          "description": "Neow has transformed into a cute little card! Choose between 4 blessings at the start of your run, inspired from Slay the Spire. by @kjossul",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-28T13:24:14Z",
+            "owner": "kjossul",
+            "repo": "NeowBlessings",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Collection Fix",
+          "description": "Fixes the collection to work with amounts of cards that aren't the base game's. by @Golden Epsilon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-02-27T18:52:04Z",
+            "owner": "GoldenEpsilon",
+            "repo": "Balatro_CollectionFix",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IncreaseSoulProbability",
+          "description": "Increase Soul Spectral Card Probability To Spawn. by @Akita Attribute",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-02T04:51:55Z",
+            "owner": "AkitaAttribute",
+            "repo": "IncreaseSoulProbability",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RerollPacks",
+          "description": "Reroll packs when rerolling the shop. by @DorkDad141",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-04T21:48:16Z",
+            "owner": "DorkDad141",
+            "repo": "balatro",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GameSpeed Display and Spacereroll",
+          "description": "Always display the speed. Press the shift key to change speed and space key to reroll in shop, also disable the FPS display. by @snowylight",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-16T07:54:32Z",
+            "owner": "snowylight",
+            "repo": "GameSpeed-Display-and-Spacereroll",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Masquerade",
+          "description": "Allows multiple card sprites to coexist and be randomly picked when displayed. by @Amavoleda",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-02-25T01:58:08Z",
+            "owner": "Amvoled",
+            "repo": "Masquerade",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReplaceJokers",
+          "description": "A mod to replace all jokers. Can be used to make runs that only have a select few jokers. by @Akita Attribute",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-09T23:50:27Z",
+            "owner": "AkitaAttribute",
+            "repo": "ReplaceJokers",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rumble",
+          "description": "Enables controller rumble support. by @WilsontheWolf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-03T00:06:25Z",
+            "owner": "WilsontheWolf",
+            "repo": "balatro-mods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Survival Mode",
+          "description": "This mod adds two new game modes: Survival and Survival+. by @Aure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-01T21:42:14Z",
+            "owner": "Aurelius7309",
+            "repo": "Survival",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "+1 Shop slot for High Stakes",
+          "description": "Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by @Encarvlucas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-14T15:51:37Z",
+            "owner": "encarvlucas",
+            "repo": "EncarvlucasBalatroMods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Add +1 Shop to Every Run",
+          "description": "Adds Overstock Voucher (+1 card slot in Shop) to all runs. by @Encarvlucas",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-14T15:51:37Z",
+            "owner": "encarvlucas",
+            "repo": "EncarvlucasBalatroMods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurinko",
+          "description": "Lets plant cards generate with editions by @MathIsFun0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-21T04:20:12Z",
+            "owner": "MathIsFun0",
+            "repo": "JensBalatroCollection",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metal Card Falling Sound Effect",
+          "description": "Replaces default steel card activation sound with metal pipe falling sound effect. by @Muddie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-14T23:26:35Z",
+            "owner": "MOONLIT3",
+            "repo": "metal_card_falling",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Always Show Seed rekindled",
+          "description": "Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by @RakibRyan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-03T13:13:51Z",
+            "owner": "RakibRyan",
+            "repo": "always-show-seed-rekindled-balatro",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DisableVerdantLeaf",
+          "description": "Disable Verdant Leaf (All cards debuffed until 1 Joker Sold) on specific challenge runs. by @V-rtualized",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-03-11T21:43:11Z",
+            "owner": "V-rtualized",
+            "repo": "DisableVerdantLeaf",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hand of Six Smods",
+          "description": "Allows you to select 6 cards to play. by @RakibRyan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-28T01:55:56Z",
+            "owner": "RakibRyan",
+            "repo": "Hand-of-six-smods",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JimboStats",
+          "description": "Automatic Run History Tracking Platform. by , @AxBolduc, @mwithington",
+          "children": []
+        }
+      ],
+      "title": "Functionality"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Divvy's Preview",
+          "description": "Simulate and preview the score that your hand will get! by @DivvyCr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-26T19:32:23Z",
+            "owner": "DivvyCr",
+            "repo": "Balatro-Preview",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JokerDisplay",
+          "description": "Adds a small window under vanilla Jokers that displays useful information. by @nh6574",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-19T22:37:55Z",
+            "owner": "nh6574",
+            "repo": "JokerDisplay",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deck Creator",
+          "description": "GUI mod for creating, saving, loading, and sharing your own customizable decks! by @Nyoxide",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-22T18:20:52Z",
+            "owner": "adambennett",
+            "repo": "Balatro-DeckCreator",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Hand Preview",
+          "description": "Adds a window showing the possible poker hands that you can make with your current hand! by @Toeler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-14T03:07:14Z",
+            "owner": "Toeler",
+            "repo": "Balatro-HandPreview",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "More Speed",
+          "description": "More Speed options! by @Steamo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2026-06-25T14:04:19Z",
+            "owner": "Steamodded",
+            "repo": "examples",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SystemClock",
+          "description": "Adds a draggable, resizable, customizable clock to the game screen. by @Breezebuilder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-15T03:44:30Z",
+            "owner": "Breezebuilder",
+            "repo": "SystemClock",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Divvy's History",
+          "description": "View your last played hand! by @DivvyCr",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-27T22:04:10Z",
+            "owner": "DivvyCr",
+            "repo": "Balatro-History",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jimbo's Histories | Run Reviewer",
+          "description": "Review run after it has ended. by @MilcK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-02-26T15:09:46Z",
+            "owner": "Mi1cK",
+            "repo": "Jimbos-Histories",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trance",
+          "description": "discord - A mod that lets you change Balatro's colors. by @MathIsFun_",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-09T21:19:52Z",
+            "owner": "SpectralPack",
+            "repo": "Trance",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BalatrOverlay",
+          "description": "Helpful game overlay. by @cantlookback",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-15T11:25:17Z",
+            "owner": "cantlookback",
+            "repo": "BalatrOverlay",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taikomochi",
+          "description": "New zen game mode, loosing is not the end of the run, just restart the ante. by @Amvoled",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-20T15:50:12Z",
+            "owner": "Amvoled",
+            "repo": "Taikomochi",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gay Mod",
+          "description": "Changes a \"Straight\" into a \"Gay\". Also changes \"Venus\" into \"Penis\" as a bonus. by @FosterBarnes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-08-02T08:45:15Z",
+            "owner": "fosterbarnes",
+            "repo": "balatroGayPenis",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JokerSellValue",
+          "description": "QOL mod for Jokers in Buffoon Packs and the shop. by @OppositeWolf770",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-12-11T01:03:33Z",
+            "owner": "OppositeWolf770",
+            "repo": "JokerSellValue",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Safety",
+          "description": "Presents a confirmation dialogue when you select a dangerous action (like using ankh or hex). by @Zei33",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-10T13:07:46Z",
+            "owner": "Zei33",
+            "repo": "balatro-safety-steamodded",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hold For Final Hand Score",
+          "description": "Pauses a moment for the final Chip X Mult count, and another moment for the final hand chip total. Especially noticeable on big hands that trigger flames. by @Wiwiweb",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-19T03:40:54Z",
+            "owner": "Wiwiweb",
+            "repo": "BalatroMods",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roulette",
+          "description": "Adds a roulette to the game so you can lose all your money and loose your run faster, obviously. by @Hellyom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-04T20:12:54Z",
+            "owner": "Hellyom",
+            "repo": "HellyomBalatroMods",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wheel of Fortune Tracker + Guarantee",
+          "description": "Track your Nope! rate for The Wheel of Fortune, OR Guarantee the \"1 in 4\" success rate for The Wheel of Fortune. by @sabslikesobs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-28T19:35:23Z",
+            "owner": "angerson",
+            "repo": "pitywheel",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fold Button",
+          "description": "Quickly forfeit your runs with the 'Fold' button! by @happinyz",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-02-28T08:03:02Z",
+            "owner": "happinyz",
+            "repo": "BalatroFoldButton",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SilkTouch",
+          "description": "enable mobile like touch ui everywhere for smoother frictionless gameplay @HuyTheKiller",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-05T14:50:40Z",
+            "owner": "HuyTheKiller",
+            "repo": "SilkTouch",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YippeeGameOver",
+          "description": "Replaces Jimbo in the win screen with tbh. by @Mysthaps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-06-19T06:27:06Z",
+            "owner": "Mysthaps",
+            "repo": "BalatroMods",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colour Selector",
+          "description": "Mod for selecting and changing the colours of the main menu background. by @EmperorGesar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-19T08:44:23Z",
+            "owner": "EmperorGesar",
+            "repo": "Balatro-Colour-Selector",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deselect All",
+          "description": "Adds a deselect all button to deselect all highlighted cards. by @Zei33",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-10T13:22:01Z",
+            "owner": "Zei33",
+            "repo": "deselect-all-steamodded",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JCursor",
+          "description": "Allow customize the cursor. by @Jie65535",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-31T04:46:26Z",
+            "owner": "jie65535",
+            "repo": "JMods",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "No Background",
+          "description": "discord - Disables the background on start. by @WilsontheWolf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-03T00:06:25Z",
+            "owner": "WilsontheWolf",
+            "repo": "balatro-mods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brainstorm Reroll Button",
+          "description": "For use with Brainstorm. Adds an Auto Reroll button to the escape menu and game over screen. by @Jdbye",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-11T22:23:08Z",
+            "owner": "Jdbye",
+            "repo": "BalatroMods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manual Flip",
+          "description": "Adds a hotkey function to flip selected playing cards and Jokers. by @ssyangchn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-13T12:09:12Z",
+            "owner": "ssyangchn",
+            "repo": "ManualFlip",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectral Recolouring",
+          "description": "discord - Adds a shader to allow easy recolouring of spectral cards. by @Eremel_",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GLSL",
+            "last_commit": "2024-06-09T20:20:56Z",
+            "owner": "Eremel",
+            "repo": "SpectralRecolours",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Hand Preview RU",
+          "description": "Russian translation for Balatro Hand Preview by @ZarenOFF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-29T07:44:13Z",
+            "owner": "ZarenOFF",
+            "repo": "Balatro-HandPreview-RU",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Stats",
+          "description": "Records your all-time personal best for every scaling Joker (shown right on the card) and every poker hand level, and expands the Card Stats screen to page through every card instead of the top 10. by @jagodben",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-27T01:38:27Z",
+            "owner": "jagodben",
+            "repo": "Balatro-Record-Stats-Mod",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exit Button",
+          "description": "Add an \"Exit\" button into the \"Escape\" menu. by @RakibRyan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-03T13:14:14Z",
+            "owner": "RakibRyan",
+            "repo": "exit-button-rekindled-balatro",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simple fps display",
+          "description": "a simple lightweight mod that shows fps by @RakibRyan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-03T13:48:42Z",
+            "owner": "RakibRyan",
+            "repo": "simple-fps-display-balatro",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Incantation",
+          "description": "discord - Enables the ability to stack identical consumables. by @jenwalter666, @MathIsFun_",
+          "children": []
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Betmma Jokers",
+          "description": "5 More Jokers! by @Betmma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-09T14:50:15Z",
+            "owner": "betmma",
+            "repo": "my_balatro_mods",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LobotomyCorp",
+          "description": "A Balatro mod. Face the Fear, Build the Future. by @Mysthaps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-15T14:47:06Z",
+            "owner": "Mysthaps",
+            "repo": "LobotomyCorp",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sculio",
+          "description": "A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by @crmykybord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-28T21:21:51Z",
+            "owner": "crmykybord",
+            "repo": "Sculio",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JankJonklers",
+          "description": "A small pack of Jokers for the game. by @Lyman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-16T18:57:57Z",
+            "owner": "spikeof2010",
+            "repo": "JankJonklers",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JellyMod",
+          "description": "A pack of 17 Jokers and 22 new \"reverse\" tarot cards. by @JamestheJellyfish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-23T16:42:25Z",
+            "owner": "jamesthejellyfish",
+            "repo": "JellyMod",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joker Evolution",
+          "description": "discord - Gives a few jokers strong evolutions! by @SDM_0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-11-20T14:42:26Z",
+            "owner": "SDM0",
+            "repo": "Joker-Evolution",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BBBalatro",
+          "description": "Adds 15 well-designed jokers and counting. by @BBBalatroMod",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-12T18:21:46Z",
+            "owner": "BBBalatroMod",
+            "repo": "BBBalatro",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D6 Jokers",
+          "description": "discord - Adds D6 Jokers that have their effects determined by a die roll. by @ItsFlowwey",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-24T03:38:43Z",
+            "owner": "GauntletGames-2086",
+            "repo": "D6-Jokers",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MystJokers",
+          "description": "Adds more Jokers to the game. Before you install, read below. by @Mysthaps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-06-19T06:27:06Z",
+            "owner": "Mysthaps",
+            "repo": "BalatroMods",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AncientJokerFix",
+          "description": "Fixes Ancient Joker to only pick suits in your deck. by @gabepesco",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-31T00:51:00Z",
+            "owner": "gabepesco",
+            "repo": "BalatroAncientJokerFix",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Date A Live",
+          "description": "Adds 19 jokers from anime DATE A LIVE. by @snowylight",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-23T15:44:05Z",
+            "owner": "snowylight",
+            "repo": "DatealiveBalatro",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MultiJokers",
+          "description": "Adds a couple of custom jokers to the game. by @John Maged, ,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-19T13:20:49Z",
+            "owner": "iJohnMaged",
+            "repo": "multi-jokers",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Milatro",
+          "description": "Adds 30 new vanilla inspired Jokers to allow for new builds and synergies. by @MilanKapitein",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-20T06:59:07Z",
+            "owner": "milankapitein",
+            "repo": "milatro-mod",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multipack",
+          "description": "More crazy packs! You can even choose booster packs from a \"multipack\". by @snowylight",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-17T05:09:20Z",
+            "owner": "snowylight",
+            "repo": "Multipack",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bad Apple Joker",
+          "description": "Adds the Bad Apple Joker to the game. by @JamestheJellyfish",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-17T22:04:40Z",
+            "owner": "jamesthejellyfish",
+            "repo": "BadAppleBalatro",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CheesyJokers",
+          "description": "Might as well make my own joker pack since so may other people are doing it. by @ilikecheese",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-04T05:24:45Z",
+            "owner": "ilikecheese0",
+            "repo": "CheesyJokers",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "House of Hearts",
+          "description": "Balatro University community project made for the House of Hearts event organised by American Heart Association. by",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-07T11:34:25Z",
+            "owner": "PLagger7",
+            "repo": "House-of-Hearts",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Balatrio Bros",
+          "description": "discord - The entirety of Super Mario Bros. for the NES, now playable inside Balatro! by @DPS2004",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-11-06T03:37:17Z",
+            "owner": "DPS2004",
+            "repo": "Super-Balatrio-Bros",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BIG BANG",
+          "description": "trailer - Once there was an explosion. A bang which caused a naneinf in a round. (2 jokers & 1 challenge). by @ZJWCY",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-31T03:26:53Z",
+            "owner": "ZJWCY",
+            "repo": "Balatro_BIG_BANG_by_ZJWCY",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FloundersJokers",
+          "description": "Adds a variety of different jokers. by",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-08-13T05:58:12Z",
+            "owner": "Flounderlul",
+            "repo": "FloundersJokers",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Olympus",
+          "description": "adding Greek mythology based Jokers. by @AbhinavR314",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-05T05:18:23Z",
+            "owner": "AbhinavR314",
+            "repo": "BalatroOlympus",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ro-Balatro",
+          "description": "discord - A fusion between Balatro and Roblox. by @AlexZGreat",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-07-03T22:07:52Z",
+            "owner": "AlexZGreat",
+            "repo": "Ro-Balatro",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "5CEBalatro",
+          "description": "do jokers have meat? by @DPS2004,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-21T01:14:10Z",
+            "owner": "DPS2004",
+            "repo": "5CEBalatro",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emergence",
+          "description": "This mod features one (1) custom Joker, and a custom deck that revolves around its mechanics. by @Snoresville",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-14T03:18:45Z",
+            "owner": "Snoresville",
+            "repo": "balatro-emergence-joker",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LushMod",
+          "description": "Pack with 9 jokers with some interesting effects. by @lusciousdev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-01T06:21:11Z",
+            "owner": "lusciousdev",
+            "repo": "LushMod",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ror2funnyitems",
+          "description": "Adds the funny items from Risk of Rain 2. by @aou",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-13T15:49:44Z",
+            "owner": "lemonfsh",
+            "repo": "ror2funnyitems",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seven Sins",
+          "description": "A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by @AlexDavies8",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-06T15:55:18Z",
+            "owner": "yunidev-uk",
+            "repo": "balatro-mods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Themed Jokers",
+          "description": "A bunch of themed Jokers. by @Blizzow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-04T06:37:53Z",
+            "owner": "BlizzowX",
+            "repo": "Balatro---Themed-Jokers---OUTDATED",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harambe's Chosen",
+          "description": "Cavendish went extinct... just as planned. This mod adds a third, legendary, banana joker to the chain! by @Joolean",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-08T09:42:20Z",
+            "owner": "JulianDeclercq",
+            "repo": "balatro-harambes-chosen",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mor jokers",
+          "description": "discord - Adds mor jokers. by @Morpline and @Blizzow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-02T04:12:39Z",
+            "owner": "morpline",
+            "repo": "morjokers",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Panley Joker",
+          "description": "Adds the Panley Joker to the game. by @RedrcknRbn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-16T23:46:46Z",
+            "owner": "RedrcknRbn",
+            "repo": "Panley-Joker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PiJoker",
+          "description": "A joker based on Pi. by @Beeks17",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-29T03:55:44Z",
+            "owner": "erachlin",
+            "repo": "PiJoker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quilombo",
+          "description": "Adds 7 custom jokers with interesting effects. by @acetna",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-29T15:53:42Z",
+            "owner": "acetna",
+            "repo": "Quilombo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restart Run Button",
+          "description": "Adds a Restart Run button to the escape menu and game over screen. Useful on mobile or for those who were annoyed that the built in R hotkey to restart the run doesn't work on the game over screen. by @Jdbye",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-11T22:23:08Z",
+            "owner": "Jdbye",
+            "repo": "BalatroMods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slay the Princess",
+          "description": "Adds 31 new Jokers and a new deck based on Slay the Princess. by @Kastamera",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-24T23:55:03Z",
+            "owner": "Kastamera",
+            "repo": "SlayThePrincess",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Star Rail Events",
+          "description": "New consumable cards based on iconic events from Honkai: Star Rail by @snowylight",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-26T02:30:29Z",
+            "owner": "snowylight",
+            "repo": "Starrailevents",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tag Team",
+          "description": "This mod features one (1) custom Joker. by @Snoresville",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-21T13:46:35Z",
+            "owner": "Snoresville",
+            "repo": "balatro-double-tag-joker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Blunt",
+          "description": "This mod features one (1) custom Joker. by @Snoresville",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-21T12:06:16Z",
+            "owner": "Snoresville",
+            "repo": "balatro-blunt-joker",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Betmma Jokers Mobile Friendly",
+          "description": "The same Betmma mods with compatible shaders, allowing them to work on mobile devices. by @RakibRyan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-26T06:52:33Z",
+            "owner": "RakibRyan",
+            "repo": "Betmma-Jokers-Mobile-friendly",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rule Breaker Joker",
+          "description": "Extend balatro hand beyond 5 cards per round. +1 card per joker. by @RakibRyan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-30T09:03:12Z",
+            "owner": "RakibRyan",
+            "repo": "Rule-Breaker-Joker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zilliax",
+          "description": "Assemble Functional Modules to create your own Zilliax! by @snowylight",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-04-16T03:02:47Z",
+            "owner": "snowylight",
+            "repo": "Zilliax",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Jokers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Green Seal",
+          "description": "Add a green seal which will increase the hand size for a given round by 1 when discarded. A card with the green seal will also apply a X0.75 mult if the card is scored. by @AxBolduc",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-08T02:25:33Z",
+            "owner": "AxBolduc",
+            "repo": "GreenSeal",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dice Seals",
+          "description": "adds seals that mess with probability. by @Flounder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-07T22:39:45Z",
+            "owner": "Flounderlul",
+            "repo": "Dice-Seals",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silver Seal",
+          "description": "A mod for Baltro that adds in a silver seal which will apply a random edition to the card. Once the card is played a second time a new edition will be applied. The edition will only count after you have played the card atleast once. @mwithington, @AxBolduc",
+          "children": []
+        }
+      ],
+      "title": "Seals"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Six Suits",
+          "description": "This mod adds two new suits to the game: Stars and Moons. by @Aure and",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-23T13:47:08Z",
+            "owner": "Aurelius7309",
+            "repo": "SixSuits",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InkAndColor",
+          "description": "This mod is based on sixsuits(check them out), Adds two new suits: Ink & Color. by @RattlingSnow353",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-18T23:13:27Z",
+            "owner": "RattlingSnow353",
+            "repo": "InkAndColor",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hanafuda Hybrid",
+          "description": "Turns the regular set of playing cards into hybrid hanafuda cards, and adjusts their base chip value accordingly. by @Shirou97",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-15T16:17:37Z",
+            "owner": "tvroonhove",
+            "repo": "HanafudaHybridMod",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Musical Suit",
+          "description": "Adds a new suit (Notes ♪). with new jokers, tarot, and blind. by @itayfeder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-23T14:26:42Z",
+            "owner": "itayfeder",
+            "repo": "MusicalSuit",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Suits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tags Preview",
+          "description": "Uncommon, Rare, Foil, Holographic, Polychrome and Negative Tags show the Joker you will receive in the shop. by",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-04-26T14:35:47Z",
+            "owner": "JKd3vLD",
+            "repo": "BalatroTagPreview",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DNA Splice Tag",
+          "description": "Adds a tag that gives a free DNA joker in the shop. by @jlwoolf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-03-16T05:33:36Z",
+            "owner": "jlwoolf",
+            "repo": "balatro-dna-splice",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tag Manager",
+          "description": "Tag Manager is a mod to control tags in the game, you can manage the Ante when they can start appearing. by @SirMaiquis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-08-17T21:24:28Z",
+            "owner": "SirMaiquis",
+            "repo": "Balatro-TagManager",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tags"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dark Mode",
+          "description": "discord - Changes card textures into a stylized dark mode. by @Carroton",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-06-03T20:40:56Z",
+            "owner": "CarrotonMan",
+            "repo": "balatrodarkmode",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro '95",
+          "description": "discord - Make Balatro look like a Windows 95 game! by , @Sparks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HLSL",
+            "last_commit": "2024-08-30T10:26:01Z",
+            "owner": "Sparktimus",
+            "repo": "Balatro95",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recast Contrast",
+          "description": "Just a branched off version of the Enhanced Enhancements texture pack that only has the high-contrast card colors! by @LunaAstraCassiopeia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-12-03T10:37:51Z",
+            "owner": "LunaAstraCassiopeia",
+            "repo": "LunasBalatroMods",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Re;Shuffled",
+          "description": "A full game reskin with every joker, consumable, and blind replaced. by @XenoCHeart and the Balatro Discord",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-14T20:27:00Z",
+            "owner": "XenoCHeart",
+            "repo": "Crimsons-Ultimate-Card-Collection",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro-Texture-Packs",
+          "description": "I just wanted an easier way to share my (or others) texture packs. by @Alexse13",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-09T20:56:24Z",
+            "owner": "alexse13dev",
+            "repo": "Balatro-Texture-Packs",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BalaQuints",
+          "description": "A texture mod adding characters from The Quintessential Quintuplets into the game! by @Luuumine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-18T00:17:04Z",
+            "owner": "luuumine",
+            "repo": "BalaQuints",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wilds Texture Pack",
+          "description": "Retextures all planet cards to astral bodies from the game Outer Wilds. by @NataKilar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-23T18:28:14Z",
+            "owner": "NataKilar",
+            "repo": "Balatro-Wilds",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baldatro",
+          "description": "Baldatro is a mod that makes all the jokers bald, thats it, enjoy! by @SirMaiquis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-07-15T22:00:58Z",
+            "owner": "SirMaiquis",
+            "repo": "Balatro-Baldatro",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EclipseTextures",
+          "description": "Aims to give most of the game's textures a dark mode makeover, without many changes to the vanilla look. by @aleksxar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-15T16:33:28Z",
+            "owner": "beznac",
+            "repo": "EclipseTextures",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gross Balatro",
+          "description": "Replaces Gros Michel with actor Michael Gross (and Cavendish with Michael J. Fox as Alex P. Keaton). by",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-06-18T06:16:59Z",
+            "owner": "chrishanel",
+            "repo": "grossBalatro",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improved Booster Tarots",
+          "description": "A Retexture of all of the \"booster\" tarots to make them look like their effects. by @Ardition",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-01T11:39:11Z",
+            "owner": "Ard1tion",
+            "repo": "Improved-Booster-Tarots",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ogtextures",
+          "description": "the original textures from balatro 0.8.8. by @UppedHealer8521",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-22T06:11:33Z",
+            "owner": "UppedHealer8521",
+            "repo": "Ogtextures",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Textures"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Betmma Vouchers",
+          "description": "10 More Vouchers! by @Betmma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-04-09T14:50:15Z",
+            "owner": "betmma",
+            "repo": "my_balatro_mods",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Betmma Vouchers Mobile Friendly",
+          "description": "The same Betmma Vouchers mod with compatible shaders, allowing it to work on mobile devices. by @RakibRyan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-26T06:52:33Z",
+            "owner": "RakibRyan",
+            "repo": "Betmma-Jokers-Mobile-friendly",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Vouchers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Distro",
+          "description": "Adds Discord Rich Presence support. by @DVRP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-09-11T17:24:19Z",
+            "owner": "dvrp0",
+            "repo": "distro",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Card Back Injection",
+          "description": "systematically loads all the card back files into the system. by @Kenny Stone",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-28T18:30:11Z",
+            "owner": "Ken-Shi",
+            "repo": "Balatro_CardBackInjection",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Utils"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mods (Require Balamod)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Center Hook",
+          "description": "An api/hook to add center cards (joker, voucher, booster pack, consumable cards) to the game. by @arachnei",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-28T18:18:45Z",
+            "owner": "nicholassam6425",
+            "repo": "balatro-mods",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seal API",
+          "description": "Easier to add Seal. by @jacobr1227",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-22T20:16:38Z",
+            "owner": "jacobr1227",
+            "repo": "double_seals",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "API"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "arachnei's balatro mods",
+          "description": "Collection of balatro mods. by @arachnei",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-28T18:18:45Z",
+            "owner": "nicholassam6425",
+            "repo": "balatro-mods",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro-CommunityPack",
+          "description": "see https://discord.com/channels/1116389027176787968/1215516228525760543",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-26T04:28:42Z",
+            "owner": "GoldenEpsilon",
+            "repo": "Balatro-CommunityPack",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Collections"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Quick Restart",
+          "description": "Quickly reroll ante 1 tags by clicking f2. by @arachnei",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-28T18:18:45Z",
+            "owner": "nicholassam6425",
+            "repo": "balatro-mods",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flush Hotkeys",
+          "description": "Adds hotkeys for selecting flushes, full houses and other hand types. by @Agoraaa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-09-15T14:51:09Z",
+            "owner": "Agoraaa",
+            "repo": "FlushHotkeys",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better black-stake",
+          "description": "Makes it so Eternal Jokers can always appear in shops. Makes blackstake increse the odds of Eternal Jokers from 30% to 50%. by @Tessy of Root",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-28T15:53:20Z",
+            "owner": "System-of-Root",
+            "repo": "Roots_Balatro_Mods",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Functionality"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gay Mod",
+          "description": "Changes a 'Straight' into a 'Gay'. by @HeyImKyu, @Skadi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-21T11:04:57Z",
+            "owner": "HeyImKyu",
+            "repo": "balatro-gay",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deselect All",
+          "description": "Adds a deselect all button to deselect all highlighted cards. by @Zei33",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-11T12:04:40Z",
+            "owner": "Zei33",
+            "repo": "deselect-all-balamod",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Safety",
+          "description": "Presents a confirmation dialogue when you select a dangerous action (like using ankh or hex). by @Zei33",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-11T12:05:25Z",
+            "owner": "Zei33",
+            "repo": "balatro-safety-balamod",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jokers",
+          "description": "An example joker card that gives all played cards +2 mult. by @arachnei",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-28T18:18:45Z",
+            "owner": "nicholassam6425",
+            "repo": "balatro-mods",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sols",
+          "description": "A joker card that gives you X4 mult if you play at least 4 cards that contain any sequence in DISASTERMODE (5776578588). by @arachnei",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-28T18:18:45Z",
+            "owner": "nicholassam6425",
+            "repo": "balatro-mods",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Jonkler",
+          "description": "A simple joker card that gives X1.8 mult. by @arachnei",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-10-28T18:18:45Z",
+            "owner": "nicholassam6425",
+            "repo": "balatro-mods",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parrot Joker",
+          "description": "Adds, the Joker, Parrot to the game. by @JopStro",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-05-06T20:05:51Z",
+            "owner": "JopStro",
+            "repo": "BalatroMods",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShamPack",
+          "description": "Adds a couple of custom jokers and mechanics to the game. by @Golden Epsilon and",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-14T19:09:50Z",
+            "owner": "GoldenEpsilon",
+            "repo": "ShamPack",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slutty Joker",
+          "description": "Adds the 'Slutty Joker' that gives a 2x multiplier if you play a 6 and a 9. by @HeyImKyu, @UwuDev",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-18T21:31:59Z",
+            "owner": "HeyImKyu",
+            "repo": "balatro-slutty-joker",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Jokers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Double Seals",
+          "description": "Adds new Double versions of the 4 base game seals as well as all my other seal mods. by @jacobr1227",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-22T20:16:38Z",
+            "owner": "jacobr1227",
+            "repo": "double_seals",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orange Seals",
+          "description": "Adds new Orange seal When discarded, enhances a random card. by @jacobr1227",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-22T20:16:38Z",
+            "owner": "jacobr1227",
+            "repo": "double_seals",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silver Seals",
+          "description": "Adds new Silver seal When held in hand at end of round, creates 1 spectral card. by @jacobr1227",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-08-22T20:16:38Z",
+            "owner": "jacobr1227",
+            "repo": "double_seals",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Seals"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mods (Require Lovely)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Talisman",
+          "description": "discord - Talisman is a mod for Balatro that increases the score cap from ~10^308 to ~10^10^308, allowing for endless runs to go past \"naneinf\" and Ante 39. by @MathIsFun_",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2026-05-15T03:16:39Z",
+            "owner": "SpectralPack",
+            "repo": "Talisman",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brainstorm",
+          "description": "discord - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by @OceanRamen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-15T15:59:47Z",
+            "owner": "OceanRamen",
+            "repo": "Brainstorm",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typist",
+          "description": "typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by @kasimeka",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-26T17:38:05Z",
+            "owner": "kasimeka",
+            "repo": "balatro-typist-mod",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advanced Screen Shake",
+          "description": "Advanced Screen Shake is a mod that allows you to set the level of your screenshake unreasonably high. by @DeveloperRowan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-02-26T03:32:43Z",
+            "owner": "developerrowan",
+            "repo": "AmplifiedScreenShake",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Green Needle",
+          "description": "Green Needle is a powerful seed search mod inspired by Brainstorm, with multi-platform native search engine. by @lafiosca",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-17T03:21:35Z",
+            "owner": "lafiosca",
+            "repo": "GreenNeedle",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alternative Speed Toggle",
+          "description": "Adds a draggable HUD checkbox and rebindable shortcut to force an alternative game speed while playing a blind. by @PixeledLobster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-31T12:01:33Z",
+            "owner": "PixeledLobster",
+            "repo": "Balatro-Alternative-Speed-Toggle",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quick Hand Selector",
+          "description": "Adds an in-run panel with buttons to select any available poker hand, suit or combination in one click, with rebindable keyboard shortcuts for every action. by @PixeledLobster",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-01T15:09:02Z",
+            "owner": "PixeledLobster",
+            "repo": "Quick-Hand-Selector",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Functional"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Malverk",
+          "description": "Malverk is an all-in-one texture manager. With an inbuilt API for AltTextures and TexturePacks, Malverk integrates a simple UI to customise which textures are applied to your game whenever you wish. by @Eremel_",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-31T21:26:55Z",
+            "owner": "Eremel",
+            "repo": "Malverk",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readabletro",
+          "description": "Readabletro improves readability of the game, especially on lower res screens (Steam Deck) by using a more legible vector typeface and smoothly upscaled card textures. by @bladeSk",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-02-25T09:18:09Z",
+            "owner": "bladeSk",
+            "repo": "readabletro",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Planet Card Cash-Out Mod",
+          "description": "discord - \"Use\" a planet card while the cash-out animations play. by @antler5",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-01-21T02:34:52Z",
+            "owner": "antler5",
+            "repo": "Balatro-Planet-Card-Cash-Out-Mod",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "GUI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cartomancer",
+          "description": "Improved deck view and joker management with stacking and scrolling, capped deck pile and scoring flames customization. Made for long endless runs and crazy modded runs. by @stupxd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-03T18:28:33Z",
+            "owner": "stupxd",
+            "repo": "Cartomancer",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blueprint",
+          "description": "Dynamically adjust Blueprint joker texture to the joker it is copying. by @stupxd",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-25T20:51:13Z",
+            "owner": "stupxd",
+            "repo": "Blueprint",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "#1 Victory Royale!",
+          "description": "On win screen, replaces the \"YOU WIN!\" text with \"#1 VICTORY ROYALE!\" and the default win music with fortnite default dance. by @Muddie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-15T18:33:42Z",
+            "owner": "MOONLIT3",
+            "repo": "balatro_victory_royale",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solatro",
+          "description": "Turns the entire game into a game of Solitaire. by @bryanthaboi",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-09T13:19:07Z",
+            "owner": "bryanthaboi",
+            "repo": "solatro",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "When the impostor is Sun",
+          "description": "Renames The Sun tarot card to The Sus and replaces its texture. by @Muddie",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-15T19:42:03Z",
+            "owner": "MOONLIT3",
+            "repo": "sun_is_sus",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DebugPlus",
+          "description": "discord - A simple mod that adds a bunch more debug functions on top of Balatro's built in. by @WilsontheWolf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-20T03:46:49Z",
+            "owner": "WilsontheWolf",
+            "repo": "DebugPlus",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScoreImprovements",
+          "description": "discord - Misc score improvements (Better score display, fixed fire at inf, inf blinds let you win). by @WilsontheWolf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2025-07-03T00:06:25Z",
+            "owner": "WilsontheWolf",
+            "repo": "balatro-mods",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Utils"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mods (Other)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T17:39:37.690Z",
+    "original_repository": "jie65535/awesome-balatro",
+    "original_repository_sha": "4bf823c218b021e5f0919504f1291773f348f4db",
+    "enhanced_repository": "enhansome/enhansome-balatro",
+    "enhanced_repository_description": null,
+    "title": "Awesome-Balatro with stars"
+  }
+}
