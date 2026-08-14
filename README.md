@@ -75,20 +75,20 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,727 | 🐛 149 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,730 | 🐛 149 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 162 | 🐛 22 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
 * [BalatroWebSiteTemplate](https://github.com/notmario/balatrowebsitetemplate) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-12 - Use web pages to show your Jokers. like [this](https://notmario.github.io/MoreFluff/). by [@notmario](https://github.com/notmario)
-* [Balatro Seed Oracle](https://github.com/OptimusPi/BalatroSeedOracle) ⭐ 18 | 🐛 8 | 🌐 C# | 📅 2026-08-08 - Balatro Seed Searcher with visual drag\&drop filter builder coded in C# and AvaloniaUI. by [@OptimusPi](https://github.com/OptimusPi)
+* [Balatro Seed Oracle](https://github.com/OptimusPi/BalatroSeedOracle) ⭐ 19 | 🐛 8 | 🌐 C# | 📅 2026-08-08 - Balatro Seed Searcher with visual drag\&drop filter builder coded in C# and AvaloniaUI. by [@OptimusPi](https://github.com/OptimusPi)
 * [Balatrolator](https://github.com/kleinfreund/balatrolator) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-10 - Score calculator for Balatro. by [@kleinfreund](https://github.com/kleinfreund)
 * [balatro-sprites-i18n](https://github.com/Signez/balatro-sprites-i18n) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-17 - Internationalization toolchain to translate Balatro's sprites. by [@Signez](https://github.com/Signez)
 * [balatro-completionist-plus-plus-tracker](https://github.com/blackfan321/balatro-completionist-plus-plus-tracker) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-01-19 - Browser‑based Completionist++ tracker. by [@blackfan321](https://github.com/blackfan321)
 * [Balatro Ultimate Speedup Mod](https://github.com/sse2/balatro-ultimate-speedup-mod) ⭐ 9 | 🐛 0 | 🌐 C | 📅 2025-03-28 - A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by [@sse2](https://github.com/sse2)
 * [Balatro.antihypertensive](https://github.com/miku1958/Balatro.antihypertensive) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2024-02-25 - Save Manager for Balatro, macOS only. by [@miku1958](https://github.com/miku1958)
 * [Balatro4J](https://github.com/alex-cova/balatro4j) ⭐ 9 | 🐛 2 | 🌐 Java | 📅 2026-02-21 - An seed searcher and database based in Immolate coded in Java. by [@alex-cova](https://github.com/alex-cova)
+* [Motely](https://github.com/tacodiva/Motely) ⭐ 9 | 🐛 1 | 🌐 C# | 📅 2025-12-04 - A C# CPU SIMD seed searcher for Balatro. by [@tacodiva](https://github.com/tacodiva)
 * [Ouija](https://github.com/OptimusPi/ouija) ⭐ 9 | 🐛 5 | 🌐 C | 📅 2025-07-06 - A JSON-powered, Immolate-based seed searcher for Balatro. by [@OptimusPi](https://github.com/OptimusPi)
-* [Motely](https://github.com/tacodiva/Motely) ⭐ 8 | 🐛 1 | 🌐 C# | 📅 2025-12-04 - A C# CPU SIMD seed searcher for Balatro. by [@tacodiva](https://github.com/tacodiva)
 * [PerkeoApp](https://github.com/alex-cova/perkeoapp) ⭐ 6 | 🐛 3 | 🌐 Swift | 📅 2026-08-10 - A Balatro iOS companion app coded in Swift. by [@alex-cova](https://github.com/alex-cova)
 * [Balatrones](https://github.com/bconlon1/Balatrones-Modpack-Manager) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2025-02-28 - Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by [@bconlon1](https://github.com/bconlon1)
 * [JokerDeck](https://github.com/Ch3rryC0d3r/JokerDeck) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-06-05 - A mod manager for Balatro with mod browsing, one-click install, instant enable/disable on browser and locally, dependency detection and more. by [@Ch3rryC0d3r](https://github.com/Ch3rryC0d3r)
@@ -101,12 +101,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 954 | 🐛 105 | 🌐 Lua | 📅 2026-08-13 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 954 | 🐛 103 | 🌐 Lua | 📅 2026-08-14 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 * [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 584 | 🐛 50 | 🌐 Rust | 📅 2026-04-11 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 154 | 🐛 9 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 954 | 🐛 105 | 🌐 Lua | 📅 2026-08-13)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 954 | 🐛 103 | 🌐 Lua | 📅 2026-08-14)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -172,7 +172,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [Pauper Deck](https://github.com/AiksiLotl/Pauper-Deck) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-01-22 - Shop has no Jokers. Open a Jumbo Pack after each Blind. Only Jokers earn you money. by [@AiksiLotl](https://github.com/AiksiLotl)
 * [Deck Inversion Challenge Konfiguration](https://github.com/tgreenmonkey/Deck-Inversion-Challenge-Konfiguration) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-04-01 - Replaces all vanilla decks with inversed versions of them! by [@tgreenmonkey](https://github.com/tgreenmonkey)
 * [DNA Splice Deck](https://github.com/jlwoolf/DNASplice) ⭐ 0 | 🐛 1 | 🌐 Lua | 📅 2025-03-16 - Adds a deck that gives a DNA joker at run start. by [@jlwoolf](https://github.com/jlwoolf)
-* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 327 | 🐛 63 | 🌐 Lua | 📅 2026-08-06. by [@jacksoncmu](https://github.com/jacksoncmu)
+* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 328 | 🐛 62 | 🌐 Lua | 📅 2026-08-14. by [@jacksoncmu](https://github.com/jacksoncmu)
 * [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains **one Ace of each suit**! by `@Chamels`, `@UnknownEternity`
 * [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
 * [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free **mega standard packs**. by `@Rose Happy`
@@ -208,7 +208,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Functionality
 
-* [Card Sleeves](https://github.com/larswijn/CardSleeves) ⭐ 138 | 🐛 3 | 🌐 Lua | 📅 2026-07-21 - Adds fancy sleeves which not only keep the cards cosy, but also apply the modifier of the deck it represents (e.g. get +$10 at start with Yellow Sleeve). by [@Larswijn](https://github.com/larswijn)
+* [Card Sleeves](https://github.com/larswijn/CardSleeves) ⭐ 138 | 🐛 2 | 🌐 Lua | 📅 2026-08-14 - Adds fancy sleeves which not only keep the cards cosy, but also apply the modifier of the deck it represents (e.g. get +$10 at start with Yellow Sleeve). by [@Larswijn](https://github.com/larswijn)
 
 * [Saturn](https://github.com/OceanRamen/Saturn) ⭐ 93 | 🐛 11 | 🌐 Lua | 📅 2026-05-22 - introduces some Quality of Life features for better game experience on endless mode.. by [@OceanRamen](https://github.com/OceanRamen/)
 
@@ -674,4 +674,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

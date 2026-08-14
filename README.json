@@ -14,7 +14,7 @@
             "last_commit": "2024-11-10T01:58:39Z",
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1727
+            "stars": 1730
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-08-08T19:05:36Z",
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
-            "stars": 18
+            "stars": 19
           }
         },
         {
@@ -173,6 +173,20 @@
         },
         {
           "node_type": "item",
+          "title": "Motely",
+          "description": "A C# CPU SIMD seed searcher for Balatro. by @tacodiva",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-04T05:08:39Z",
+            "owner": "Tacodiva",
+            "repo": "Motely",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Ouija",
           "description": "A JSON-powered, Immolate-based seed searcher for Balatro. by @OptimusPi",
           "children": [],
@@ -183,20 +197,6 @@
             "owner": "OptimusPi",
             "repo": "Ouija",
             "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Motely",
-          "description": "A C# CPU SIMD seed searcher for Balatro. by @tacodiva",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-12-04T05:08:39Z",
-            "owner": "Tacodiva",
-            "repo": "Motely",
-            "stars": 8
           }
         },
         {
@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-13T15:40:10Z",
+            "last_commit": "2026-08-14T12:42:21Z",
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 954
@@ -911,7 +911,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-07-21T22:36:17Z",
+            "last_commit": "2026-08-14T16:24:35Z",
             "owner": "larswijn",
             "repo": "CardSleeves",
             "stars": 138
@@ -3387,7 +3387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:39:37.690Z",
+    "last_updated": "2026-08-14T17:36:46.570Z",
     "original_repository": "jie65535/awesome-balatro",
     "original_repository_sha": "4bf823c218b021e5f0919504f1291773f348f4db",
     "enhanced_repository": "enhansome/enhansome-balatro",
