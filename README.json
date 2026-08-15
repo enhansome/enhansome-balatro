@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-08T19:05:36Z",
+            "last_commit": "2026-08-14T17:48:00Z",
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
             "stars": 19
@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T12:42:21Z",
+            "last_commit": "2026-08-14T20:51:26Z",
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 954
@@ -1403,20 +1403,6 @@
             "owner": "DivvyCr",
             "repo": "Balatro-Preview",
             "stars": 157
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JokerDisplay",
-          "description": "Adds a small window under vanilla Jokers that displays useful information. by @nh6574",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-06-19T22:37:55Z",
-            "owner": "nh6574",
-            "repo": "JokerDisplay",
-            "stars": 153
           }
         },
         {
@@ -3227,6 +3213,20 @@
       "items": [
         {
           "node_type": "item",
+          "title": "JokerDisplay",
+          "description": "Adds a small window under vanilla Jokers that displays useful information. by @nh6574",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-06-19T22:37:55Z",
+            "owner": "nh6574",
+            "repo": "JokerDisplay",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Malverk",
           "description": "Malverk is an all-in-one texture manager. With an inbuilt API for AltTextures and TexturePacks, Malverk integrates a simple UI to customise which textures are applied to your game whenever you wish. by @Eremel_",
           "children": [],
@@ -3357,7 +3357,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-06-20T03:46:49Z",
+            "last_commit": "2026-08-15T07:29:53Z",
             "owner": "WilsontheWolf",
             "repo": "DebugPlus",
             "stars": 86
@@ -3387,9 +3387,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:36:46.570Z",
+    "last_updated": "2026-08-15T16:57:47.978Z",
     "original_repository": "jie65535/awesome-balatro",
-    "original_repository_sha": "4bf823c218b021e5f0919504f1291773f348f4db",
+    "original_repository_sha": "9853ab852ebd6f42254cdc1d3ef85e76a0568f75",
     "enhanced_repository": "enhansome/enhansome-balatro",
     "enhanced_repository_description": null,
     "title": "Awesome-Balatro with stars"
