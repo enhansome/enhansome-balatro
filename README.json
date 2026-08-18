@@ -14,7 +14,7 @@
             "last_commit": "2024-11-10T01:58:39Z",
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1729
+            "stars": 1730
           }
         },
         {
@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T20:51:26Z",
+            "last_commit": "2026-08-18T04:45:11Z",
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 956
@@ -1937,6 +1937,20 @@
         },
         {
           "node_type": "item",
+          "title": "MultiJokers",
+          "description": "Adds a couple of custom jokers to the game. by @John Maged, ,",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2024-03-19T13:20:49Z",
+            "owner": "iJohnMaged",
+            "repo": "multi-jokers",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
           "title": "MystJokers",
           "description": "Adds more Jokers to the game. Before you install, read below. by @Mysthaps",
           "children": [],
@@ -1974,20 +1988,6 @@
             "last_commit": "2025-04-23T15:44:05Z",
             "owner": "snowylight",
             "repo": "DatealiveBalatro",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MultiJokers",
-          "description": "Adds a couple of custom jokers to the game. by @John Maged, ,",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2024-03-19T13:20:49Z",
-            "owner": "iJohnMaged",
-            "repo": "multi-jokers",
             "stars": 7
           }
         },
@@ -2055,7 +2055,7 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2025-08-13T05:58:12Z",
+            "last_commit": "2026-08-18T03:19:26Z",
             "owner": "Flounderlul",
             "repo": "FloundersJokers",
             "stars": 4
@@ -3387,7 +3387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:01:40.947Z",
+    "last_updated": "2026-08-18T17:02:28.264Z",
     "original_repository": "jie65535/awesome-balatro",
     "original_repository_sha": "9853ab852ebd6f42254cdc1d3ef85e76a0568f75",
     "enhanced_repository": "enhansome/enhansome-balatro",
