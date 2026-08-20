@@ -101,12 +101,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 956 | 🐛 107 | 🌐 Lua | 📅 2026-08-19 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 957 | 🐛 109 | 🌐 Lua | 📅 2026-08-20 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 * [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 585 | 🐛 50 | 🌐 Rust | 📅 2026-04-11 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
-* [Balamod](https://github.com/balamod/balamod) ⭐ 155 | 🐛 9 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
+* [Balamod](https://github.com/balamod/balamod) ⭐ 155 | 🐛 10 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 956 | 🐛 107 | 🌐 Lua | 📅 2026-08-19)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 957 | 🐛 109 | 🌐 Lua | 📅 2026-08-20)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -172,7 +172,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [Pauper Deck](https://github.com/AiksiLotl/Pauper-Deck) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-01-22 - Shop has no Jokers. Open a Jumbo Pack after each Blind. Only Jokers earn you money. by [@AiksiLotl](https://github.com/AiksiLotl)
 * [Deck Inversion Challenge Konfiguration](https://github.com/tgreenmonkey/Deck-Inversion-Challenge-Konfiguration) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-04-01 - Replaces all vanilla decks with inversed versions of them! by [@tgreenmonkey](https://github.com/tgreenmonkey)
 * [DNA Splice Deck](https://github.com/jlwoolf/DNASplice) ⭐ 0 | 🐛 1 | 🌐 Lua | 📅 2025-03-16 - Adds a deck that gives a DNA joker at run start. by [@jlwoolf](https://github.com/jlwoolf)
-* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 330 | 🐛 63 | 🌐 Lua | 📅 2026-08-17. by [@jacksoncmu](https://github.com/jacksoncmu)
+* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 330 | 🐛 63 | 🌐 Lua | 📅 2026-08-20. by [@jacksoncmu](https://github.com/jacksoncmu)
 * [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains **one Ace of each suit**! by `@Chamels`, `@UnknownEternity`
 * [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
 * [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free **mega standard packs**. by `@Rose Happy`
@@ -252,13 +252,13 @@ Collect all Balatro mods and tools, welcome to add!
 
 * [RerollPacks](https://github.com/DorkDad141/balatro/blob/main/RerollPacks.lua) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2024-05-04 - Reroll packs when rerolling the shop. by [@DorkDad141](https://github.com/DorkDad141)
 
+* [Rumble](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/Rumble) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2025-07-03 - Enables controller rumble support. by [@WilsontheWolf](https://github.com/WilsontheWolf)
+
 * [GameSpeed Display and Spacereroll](https://github.com/snowylight/GameSpeed-Display-and-Spacereroll) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-04-16 - Always display the speed. Press the shift key to change speed and space key to reroll in shop, also disable the FPS display. by [@snowylight](https://github.com/snowylight)
 
 * [Masquerade](https://github.com/Amvoled/Masquerade) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2024-02-25 - Allows multiple card sprites to coexist and be randomly picked when displayed. by [@Amavoleda](https://github.com/Amvoled)
 
 * [ReplaceJokers](https://github.com/AkitaAttribute/ReplaceJokers) ⭐ 2 | 🐛 2 | 🌐 Lua | 📅 2024-03-09 - A mod to replace all jokers.  Can be used to make runs that only have a select few jokers. by [@Akita Attribute](https://github.com/AkitaAttribute)
-
-* [Rumble](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/Rumble) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-07-03 - Enables controller rumble support. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 
 * [Survival Mode](https://github.com/Aurelius7309/Survival) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-01-01 - This mod adds two new game modes: Survival and Survival+. by [@Aure](https://github.com/Aurelius7309)
 
@@ -324,7 +324,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [Colour Selector](https://github.com/EmperorGesar/Balatro-Colour-Selector) ⭐ 7 | 🐛 1 | 🌐 Lua | 📅 2024-03-19 - Mod for selecting and changing the colours of the main menu background. by [@EmperorGesar](https://github.com/EmperorGesar)
 * [Deselect All](https://github.com/Zei33/deselect-all-steamodded) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2024-06-10 - Adds a deselect all button to deselect all highlighted cards. by [@Zei33](https://github.com/Zei33) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 * [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2024-12-31 - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
-* [No Background](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/NoBackground) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-07-03 [discord](https://discord.com/channels/1116389027176787968/1231746124994449458) - Disables the background on start. by [@WilsontheWolf](https://github.com/WilsontheWolf)
+* [No Background](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/NoBackground) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2025-07-03 [discord](https://discord.com/channels/1116389027176787968/1231746124994449458) - Disables the background on start. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Brainstorm Reroll Button](https://github.com/Jdbye/BalatroMods/blob/main/BrainstormRerollButton.lua) ⭐ 1 | 🐛 1 | 🌐 Lua | 📅 2025-04-11 - For use with Brainstorm. Adds an Auto Reroll button to the escape menu and game over screen. by [@Jdbye](https://github.com/Jdbye)
 * [Manual Flip](https://github.com/ssyangchn/ManualFlip) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - Adds a hotkey function to flip selected playing cards and Jokers. by [@ssyangchn](https://github.com/ssyangchn)
 * [Spectral Recolouring](https://github.com/Eremel/SpectralRecolours) ⭐ 1 | 🐛 0 | 🌐 GLSL | 📅 2024-06-09 | [discord](https://discord.com/channels/1116389027176787968/1248780371974295592) - Adds a shader to allow easy recolouring of spectral cards. by [@Eremel\_](https://github.com/Eremel)
@@ -521,7 +521,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Balamod**](https://github.com/balamod/balamod) ⭐ 155 | 🐛 9 | 🌐 Rust | 📅 2025-01-11)
+## Mods (Require [**Balamod**](https://github.com/balamod/balamod) ⭐ 155 | 🐛 10 | 🌐 Rust | 📅 2025-01-11)
 
 ### API
 
@@ -611,8 +611,8 @@ Collect all Balatro mods and tools, welcome to add!
 * [Talisman](https://github.com/MathIsFun0/Talisman) ⚠️ Archived | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from \~10^308 to \~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun\_](https://github.com/mathisfun0) <img src="https://img.shields.io/badge/occasional%20crashes-smods%20v1.0.0-orange" align="center">
 * [Brainstorm](https://github.com/OceanRamen/Brainstorm) ⭐ 131 | 🐛 46 | 🌐 Lua | 📅 2026-06-15 | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
 * [typist](https://github.com/kasimeka/balatro-typist-mod) ⭐ 27 | 🐛 1 | 🌐 Lua | 📅 2026-06-26 - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
+* [Green Needle](https://github.com/lafiosca/GreenNeedle) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-07-17 - Green Needle is a powerful seed search mod inspired by Brainstorm, with multi-platform native search engine. by [@lafiosca](https://github.com/lafiosca)
 * [Advanced Screen Shake](https://github.com/developerrowan/AmplifiedScreenShake) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-02-26 - Advanced Screen Shake is a mod that allows you to set the level of your screenshake unreasonably high. by [@DeveloperRowan](https://github.com/developerrowan)
-* [Green Needle](https://github.com/lafiosca/GreenNeedle) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-07-17 - Green Needle is a powerful seed search mod inspired by Brainstorm, with multi-platform native search engine. by [@lafiosca](https://github.com/lafiosca)
 * [Alternative Speed Toggle](https://github.com/PixeledLobster/balatro-alternative-speed-toggle) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-07-31 - Adds a draggable HUD checkbox and rebindable shortcut to force an alternative game speed while playing a blind. by [@PixeledLobster](https://github.com/PixeledLobster)
 * [Quick Hand Selector](https://github.com/PixeledLobster/Quick-Hand-Selector) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-08-01 - Adds an in-run panel with buttons to select any available poker hand, suit or combination in one click, with rebindable keyboard shortcuts for every action. by [@PixeledLobster](https://github.com/PixeledLobster)
 
@@ -642,7 +642,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Utils
 
 * [DebugPlus](https://github.com/WilsontheWolf/DebugPlus) ⭐ 86 | 🐛 12 | 🌐 Lua | 📅 2026-08-15 | [discord](https://discord.com/channels/1116389027176787968/1228149931257237664) - A simple mod that adds a bunch more debug functions on top of Balatro's built in. by [@WilsontheWolf](https://github.com/WilsontheWolf)
-* [ScoreImprovements](https://github.com/WilsontheWolf/balatro-mods/tree/master/lovely/ScoreImprovements) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2025-07-03 [discord](https://canary.discord.com/channels/1116389027176787968/1235719119093891184) - Misc score improvements (Better score display, fixed fire at inf, inf blinds let you win). by [@WilsontheWolf](https://github.com/WilsontheWolf)
+* [ScoreImprovements](https://github.com/WilsontheWolf/balatro-mods/tree/master/lovely/ScoreImprovements) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2025-07-03 [discord](https://canary.discord.com/channels/1116389027176787968/1235719119093891184) - Misc score improvements (Better score display, fixed fire at inf, inf blinds let you win). by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Altrand](https://discord.com/channels/1116389027176787968/1230007377806229595) - Improved Randomization. by `@tertu`
 * [json](https://thunderstore.io/c/balatro/p/JoStro/json/) - Exposes json.lua as a module using lovely. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
 * [JSUtils](https://thunderstore.io/c/balatro/p/JoStro/JSUtils/) - Lets mods add item prototypes, descriptions and custom sprites with simple json configuration files. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
@@ -674,4 +674,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
