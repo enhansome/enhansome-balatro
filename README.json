@@ -15,7 +15,7 @@
             "last_commit": "2024-11-10T01:58:39Z",
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1735
+            "stars": 1739
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2025-03-30T02:20:01Z",
             "owner": "Dimserene",
             "repo": "Balatro-ModpackManager",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -125,6 +125,21 @@
         },
         {
           "node_type": "item",
+          "title": "Balatro Ultimate Speedup Mod",
+          "description": "A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by @sse2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 919459708,
+            "language": "C",
+            "last_commit": "2025-03-28T15:40:00Z",
+            "owner": "sse2",
+            "repo": "balatro-ultimate-speedup-mod",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
           "title": "balatro-completionist-plus-plus-tracker",
           "description": "Browser‑based Completionist++ tracker. by @blackfan321",
           "children": [],
@@ -136,21 +151,6 @@
             "owner": "blackfan321",
             "repo": "balatro-completionist-plus-plus-tracker",
             "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Balatro Ultimate Speedup Mod",
-          "description": "A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by @sse2",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 919459708,
-            "language": "C",
-            "last_commit": "2025-03-28T15:40:00Z",
-            "owner": "sse2",
-            "repo": "balatro-ultimate-speedup-mod",
-            "stars": 9
           }
         },
         {
@@ -230,21 +230,6 @@
         },
         {
           "node_type": "item",
-          "title": "Balatrones",
-          "description": "Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by @bconlon1",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 940791219,
-            "language": "Java",
-            "last_commit": "2025-02-28T23:49:02Z",
-            "owner": "bconlon1",
-            "repo": "Balatrones-Modpack-Manager",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "JokerDeck",
           "description": "A mod manager for Balatro with mod browsing, one-click install, instant enable/disable on browser and locally, dependency detection and more. by @Ch3rryC0d3r",
           "children": [],
@@ -255,6 +240,21 @@
             "last_commit": "2026-06-05T20:20:39Z",
             "owner": "Ch3rryC0d3r",
             "repo": "JokerDeck",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balatrones",
+          "description": "Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by @bconlon1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940791219,
+            "language": "Java",
+            "last_commit": "2025-02-28T23:49:02Z",
+            "owner": "bconlon1",
+            "repo": "Balatrones-Modpack-Manager",
             "stars": 2
           }
         }
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 727742435,
             "language": "Lua",
-            "last_commit": "2026-08-20T08:17:53Z",
+            "last_commit": "2026-08-21T09:34:36Z",
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 957
+            "stars": 956
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-04-11T03:17:09Z",
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 585
+            "stars": 584
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2025-01-11T11:09:03Z",
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 155
+            "stars": 156
           }
         },
         {
@@ -986,7 +986,7 @@
                 "last_commit": "2026-05-22T11:55:04Z",
                 "owner": "OceanRamen",
                 "repo": "Saturn",
-                "stars": 93
+                "stars": 94
               }
             },
             {
@@ -1121,7 +1121,7 @@
                 "last_commit": "2024-04-11T08:51:47Z",
                 "owner": "xioxin",
                 "repo": "BalatroMods",
-                "stars": 12
+                "stars": 13
               }
             },
             {
@@ -3435,7 +3435,7 @@
                 "last_commit": "2026-08-18T20:02:18Z",
                 "owner": "nh6574",
                 "repo": "JokerDisplay",
-                "stars": 154
+                "stars": 155
               }
             },
             {
@@ -3612,7 +3612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:05:09.628Z",
+    "last_updated": "2026-08-21T17:05:03.977Z",
     "original_repository": "jie65535/awesome-balatro",
     "original_repository_id": 765516608,
     "original_repository_sha": "9853ab852ebd6f42254cdc1d3ef85e76a0568f75",
