@@ -273,7 +273,7 @@
             "archived": false,
             "id": 727742435,
             "language": "Lua",
-            "last_commit": "2026-08-21T09:34:36Z",
+            "last_commit": "2026-08-21T20:07:54Z",
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 956
@@ -291,7 +291,7 @@
             "last_commit": "2026-04-11T03:17:09Z",
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 584
+            "stars": 585
           }
         },
         {
@@ -986,7 +986,7 @@
                 "last_commit": "2026-05-22T11:55:04Z",
                 "owner": "OceanRamen",
                 "repo": "Saturn",
-                "stars": 94
+                "stars": 95
               }
             },
             {
@@ -3350,7 +3350,7 @@
                 "archived": false,
                 "id": 937939564,
                 "language": "Lua",
-                "last_commit": "2026-06-26T17:38:05Z",
+                "last_commit": "2026-08-22T15:20:42Z",
                 "owner": "kasimeka",
                 "repo": "balatro-typist-mod",
                 "stars": 27
@@ -3435,7 +3435,7 @@
                 "last_commit": "2026-08-18T20:02:18Z",
                 "owner": "nh6574",
                 "repo": "JokerDisplay",
-                "stars": 155
+                "stars": 156
               }
             },
             {
@@ -3517,7 +3517,7 @@
                 "last_commit": "2025-07-25T20:51:13Z",
                 "owner": "stupxd",
                 "repo": "Blueprint",
-                "stars": 65
+                "stars": 66
               }
             },
             {
@@ -3612,7 +3612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:05:03.977Z",
+    "last_updated": "2026-08-22T16:58:00.948Z",
     "original_repository": "jie65535/awesome-balatro",
     "original_repository_id": 765516608,
     "original_repository_sha": "9853ab852ebd6f42254cdc1d3ef85e76a0568f75",
