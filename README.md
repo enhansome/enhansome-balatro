@@ -101,12 +101,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 956 | 🐛 115 | 🌐 Lua | 📅 2026-08-21 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
-* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 585 | 🐛 42 | 🌐 Rust | 📅 2026-04-11 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 957 | 🐛 113 | 🌐 Lua | 📅 2026-08-23 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 585 | 🐛 40 | 🌐 Rust | 📅 2026-08-22 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 156 | 🐛 10 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 956 | 🐛 115 | 🌐 Lua | 📅 2026-08-21)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 957 | 🐛 113 | 🌐 Lua | 📅 2026-08-23)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -208,7 +208,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Functionality
 
-* [Card Sleeves](https://github.com/larswijn/CardSleeves) ⭐ 138 | 🐛 3 | 🌐 Lua | 📅 2026-08-19 - Adds fancy sleeves which not only keep the cards cosy, but also apply the modifier of the deck it represents (e.g. get +$10 at start with Yellow Sleeve). by [@Larswijn](https://github.com/larswijn)
+* [Card Sleeves](https://github.com/larswijn/CardSleeves) ⭐ 138 | 🐛 4 | 🌐 Lua | 📅 2026-08-19 - Adds fancy sleeves which not only keep the cards cosy, but also apply the modifier of the deck it represents (e.g. get +$10 at start with Yellow Sleeve). by [@Larswijn](https://github.com/larswijn)
 
 * [Saturn](https://github.com/OceanRamen/Saturn) ⭐ 95 | 🐛 11 | 🌐 Lua | 📅 2026-05-22 - introduces some Quality of Life features for better game experience on endless mode.. by [@OceanRamen](https://github.com/OceanRamen/)
 
@@ -325,11 +325,11 @@ Collect all Balatro mods and tools, welcome to add!
 * [Deselect All](https://github.com/Zei33/deselect-all-steamodded) ⭐ 7 | 🐛 0 | 🌐 Lua | 📅 2024-06-10 - Adds a deselect all button to deselect all highlighted cards. by [@Zei33](https://github.com/Zei33) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 * [JCursor](https://github.com/jie65535/JMods/blob/main/JCursor) ⭐ 4 | 🐛 0 | 🌐 Lua | 📅 2024-12-31 - Allow customize the cursor. by [@Jie65535](https://github.com/jie65535)
 * [No Background](https://github.com/WilsontheWolf/balatro-mods/tree/master/steamodded/NoBackground) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2025-07-03 [discord](https://discord.com/channels/1116389027176787968/1231746124994449458) - Disables the background on start. by [@WilsontheWolf](https://github.com/WilsontheWolf)
+* [Balatro Stats](https://github.com/jagodben/Balatro-Record-Stats-Mod) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-07-27 - Records your all-time personal best for every scaling Joker (shown right on the card) and every poker hand level, and expands the Card Stats screen to page through every card instead of the top 10. by [@jagodben](https://github.com/jagodben)
 * [Brainstorm Reroll Button](https://github.com/Jdbye/BalatroMods/blob/main/BrainstormRerollButton.lua) ⭐ 1 | 🐛 1 | 🌐 Lua | 📅 2025-04-11 - For use with Brainstorm. Adds an Auto Reroll button to the escape menu and game over screen. by [@Jdbye](https://github.com/Jdbye)
 * [Manual Flip](https://github.com/ssyangchn/ManualFlip) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - Adds a hotkey function to flip selected playing cards and Jokers. by [@ssyangchn](https://github.com/ssyangchn)
 * [Spectral Recolouring](https://github.com/Eremel/SpectralRecolours) ⭐ 1 | 🐛 0 | 🌐 GLSL | 📅 2024-06-09 | [discord](https://discord.com/channels/1116389027176787968/1248780371974295592) - Adds a shader to allow easy recolouring of spectral cards. by [@Eremel\_](https://github.com/Eremel)
 * [Balatro Hand Preview RU](https://github.com/ZarenOFF/Balatro-HandPreview-RU) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2024-08-29 - Russian translation for Balatro Hand Preview by [@ZarenOFF](https://github.com/ZarenOFF)
-* [Balatro Stats](https://github.com/jagodben/Balatro-Record-Stats-Mod) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-07-27 - Records your all-time personal best for every scaling Joker (shown right on the card) and every poker hand level, and expands the Card Stats screen to page through every card instead of the top 10. by [@jagodben](https://github.com/jagodben)
 * [Exit Button](https://github.com/RakibRyan/exit-button-rekindled-balatro/) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-06-03 - Add an "Exit" button into the "Escape" menu. by [@RakibRyan](https://github.com/RakibRyan) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 * [Simple fps display](https://github.com/RakibRyan/simple-fps-display-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-06-03 - a simple lightweight mod that shows fps by [@RakibRyan](https://github.com/RakibRyan/) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 * [Custom Fonts](https://discord.com/channels/1116389027176787968/1210101577550008390) - Allows setting the game font to a custom font. Must be named "font.ttf". by [@MathIsFun\_](https://github.com/MathIsFun0)
@@ -600,7 +600,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 585 | 🐛 42 | 🌐 Rust | 📅 2026-04-11)
+## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 585 | 🐛 40 | 🌐 Rust | 📅 2026-08-22)
 
 ### Decks
 
@@ -674,4 +674,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
