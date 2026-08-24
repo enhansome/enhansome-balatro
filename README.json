@@ -1512,7 +1512,7 @@
                     "last_commit": "2025-09-26T19:32:23Z",
                     "owner": "DivvyCr",
                     "repo": "Balatro-Preview",
-                    "stars": 156
+                    "stars": 157
                   }
                 },
                 {
@@ -1611,7 +1611,7 @@
                   "description": "discord - A mod that lets you change Balatro's colors. by @MathIsFun_",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "id": 812718602,
                     "language": "Lua",
                     "last_commit": "2026-08-09T21:19:52Z",
@@ -3912,7 +3912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:35.076Z",
+    "last_updated": "2026-08-24T17:14:29.067Z",
     "original_repository": "jie65535/awesome-balatro",
     "original_repository_id": 765516608,
     "original_repository_sha": "9853ab852ebd6f42254cdc1d3ef85e76a0568f75",

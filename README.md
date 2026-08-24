@@ -302,14 +302,14 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### GUI
 
-* [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) ⭐ 156 | 🐛 10 | 🌐 Lua | 📅 2025-09-26 - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
+* [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) ⭐ 157 | 🐛 10 | 🌐 Lua | 📅 2025-09-26 - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 * [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) ⭐ 63 | 🐛 30 | 🌐 Lua | 📅 2025-03-22 - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
 * [Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) ⭐ 28 | 🐛 2 | 🌐 Lua | 📅 2024-05-14 - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
 * [More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) ⭐ 28 | 🐛 0 | 🌐 GLSL | 📅 2026-06-25 - More Speed options! by [@Steamo](https://github.com/Steamopollys) <img src="https://img.shields.io/badge/use%20Saturn-smods%20v1.0.0-lightgrey" align="center">
 * [SystemClock](https://github.com/Breezebuilder/SystemClock) ⭐ 27 | 🐛 0 | 🌐 Lua | 📅 2025-03-15 - Adds a draggable, resizable, customizable clock to the game screen. by [@Breezebuilder](https://github.com/Breezebuilder)
 * [Divvy's History](https://github.com/DivvyCr/Balatro-History) ⭐ 26 | 🐛 8 | 🌐 Lua | 📅 2025-04-27 - View your last played hand! by  [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 * [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) ⭐ 23 | 🐛 3 | 🌐 Lua | 📅 2024-02-26 - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
-* [Trance](https://github.com/MathIsFun0/Trance) ⭐ 22 | 🐛 6 | 🌐 Lua | 📅 2026-08-09 | [discord](https://discord.com/channels/1116389027176787968/1248865517112918016) - A mod that lets you change Balatro's colors. by [@MathIsFun\_](https://github.com/MathIsFun0)
+* [Trance](https://github.com/MathIsFun0/Trance) ⚠️ Archived | [discord](https://discord.com/channels/1116389027176787968/1248865517112918016) - A mod that lets you change Balatro's colors. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [BalatrOverlay](https://github.com/cantlookback/BalatrOverlay) ⭐ 21 | 🐛 6 | 🌐 Lua | 📅 2024-03-15 - Helpful game overlay. by [@cantlookback](https://github.com/cantlookback)
 * [Taikomochi](https://github.com/Amvoled/Taikomochi) ⭐ 12 | 🐛 2 | 🌐 Lua | 📅 2025-03-20 - New zen game mode, loosing is not the end of the run, just restart the ante. by [@Amvoled](https://github.com/Amvoled)
 * [Gay Mod](https://github.com/fosterbarnes/balatroGayPenis) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2025-08-02 - Changes a "Straight" into a "Gay". Also changes "Venus" into "Penis" as a bonus. by [@FosterBarnes](https://github.com/fosterbarnes)
