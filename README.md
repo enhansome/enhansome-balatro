@@ -101,12 +101,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 958 | 🐛 116 | 🌐 Lua | 📅 2026-08-24 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
-* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 585 | 🐛 39 | 🌐 Rust | 📅 2026-08-24 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 958 | 🐛 115 | 🌐 Lua | 📅 2026-08-25 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 586 | 🐛 39 | 🌐 Rust | 📅 2026-08-24 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 156 | 🐛 10 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 958 | 🐛 116 | 🌐 Lua | 📅 2026-08-24)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 958 | 🐛 115 | 🌐 Lua | 📅 2026-08-25)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -600,7 +600,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 585 | 🐛 39 | 🌐 Rust | 📅 2026-08-24)
+## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 586 | 🐛 39 | 🌐 Rust | 📅 2026-08-24)
 
 ### Decks
 
@@ -637,7 +637,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Translates
 
-* [ProperRussian](https://github.com/Nitablade/Balatro_ProperRussian) ⭐ 122 | 🐛 2 | 🌐 Lua | 📅 2025-03-30 - Russian localization for Balatro. by [@Nitablade](https://github.com/Nitablade)
+* [ProperRussian](https://github.com/Nitablade/Balatro_ProperRussian) ⭐ 123 | 🐛 2 | 🌐 Lua | 📅 2025-03-30 - Russian localization for Balatro. by [@Nitablade](https://github.com/Nitablade)
 
 ### Utils
 
