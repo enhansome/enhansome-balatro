@@ -273,7 +273,7 @@
             "archived": false,
             "id": 727742435,
             "language": "Lua",
-            "last_commit": "2026-08-26T21:49:33Z",
+            "last_commit": "2026-08-27T21:51:44Z",
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 959
@@ -2349,21 +2349,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Seven Sins",
-                  "description": "A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by @AlexDavies8",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 782230801,
-                    "language": "Lua",
-                    "last_commit": "2024-04-06T15:55:18Z",
-                    "owner": "yunidev-uk",
-                    "repo": "balatro-mods",
-                    "stars": 2
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Themed Jokers",
                   "description": "A bunch of themed Jokers. by @Blizzow",
                   "children": [],
@@ -3023,7 +3008,7 @@
             "archived": false,
             "id": 727742435,
             "language": "Lua",
-            "last_commit": "2026-08-26T21:49:33Z",
+            "last_commit": "2026-08-27T21:51:44Z",
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 959
@@ -3912,7 +3897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:29.248Z",
+    "last_updated": "2026-08-28T01:07:43.924Z",
     "original_repository_info": {
       "archived": false,
       "id": 765516608,

@@ -101,12 +101,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 959 | 🐛 115 | 🌐 Lua | 📅 2026-08-26 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 959 | 🐛 114 | 🌐 Lua | 📅 2026-08-27 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 * [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 589 | 🐛 39 | 🌐 Rust | 📅 2026-08-24 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 156 | 🐛 10 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 959 | 🐛 115 | 🌐 Lua | 📅 2026-08-26)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 959 | 🐛 114 | 🌐 Lua | 📅 2026-08-27)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -395,8 +395,6 @@ Collect all Balatro mods and tools, welcome to add!
 
 * [ror2funnyitems](https://github.com/ao-u/ror2funnyitems) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2024-04-13 - Adds the funny items from Risk of Rain 2. by [@aou](https://github.com/ao-u)
 
-* [Seven Sins](https://github.com/AlexDavies8/balatro-mods) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2024-04-06 - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
-
 * [Themed Jokers](https://github.com/BlizzowX/Balatro---Themed-Jokers) ⭐ 2 | 🐛 3 | 🌐 Lua | 📅 2025-09-04 - A bunch of themed Jokers. by [@Blizzow](https://github.com/BlizzowX)
 
 * [Harambe's Chosen](https://github.com/JulianDeclercq/harambes-chosen) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-04-08 - Cavendish went extinct... just as planned. This mod adds a third, legendary, banana joker to the chain! by [@Joolean](https://github.com/JulianDeclercq)
@@ -448,6 +446,8 @@ Collect all Balatro mods and tools, welcome to add!
 * [Risk of Jesters](https://dvrp-balatro-mods.pages.dev/risk-of-jesters) - Risk of Rain themed Jokers, Vouchers and more. by [@DVRP](https://github.com/dvrp0)
 
 * [RNG Butter](https://discord.com/channels/1116389027176787968/1229090507720757390) - A mod that tilts RNG somewhat in player's favour. by `@Kusoro`
+
+* [Seven Sins](https://github.com/AlexDavies8/balatro-mods) - A pack of Jokers based on the Seven Deadly Sins including 3 new challenges. by [@AlexDavies8](https://github.com/AlexDavies8)
 
 * [Snoresville's Turbulent Jokers](https://snoresville.github.io/snoresville_turbulent_jokers/) -  15 Jokers (6 Common, 5 Uncommon, 3 Rare, 1 Legendary) and 7 Decks that revolve around some of the Jokers. by [@Snoreville](https://github.com/Snoreville)
 
@@ -674,4 +674,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
