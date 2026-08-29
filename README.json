@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a mobile Balatro app from your Steam version of Balatro",
+            "homepage": null,
             "id": 774609308,
             "language": "C#",
+            "license": null,
             "last_commit": "2024-11-10T01:58:39Z",
+            "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1739
+            "stars": 1738,
+            "topics": [
+              "android",
+              "balatro",
+              "cross-platform",
+              "ios",
+              "mobile",
+              "mod"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -26,12 +38,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OpenCL seed searcher for Balatro.",
+            "homepage": null,
             "id": 738793054,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-04-04T21:58:24Z",
+            "open_issues": 22,
             "owner": "SpectralPack",
             "repo": "Immolate",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -42,12 +59,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple save loader/modder for balatro",
+            "homepage": "https://balatro.shorty.systems",
             "id": 761428093,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-03-14T21:58:47Z",
+            "open_issues": 4,
             "owner": "WilsontheWolf",
             "repo": "balatro-save-loader",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -58,12 +80,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage Balatro mods effortlessly with the Modpack Manager. Install, update, and customize modpacks in one streamlined tool.",
+            "homepage": null,
             "id": 841569334,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-30T02:20:01Z",
+            "open_issues": 2,
             "owner": "Dimserene",
             "repo": "Balatro-ModpackManager",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "balatro",
+              "manager",
+              "modpack",
+              "mods"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -74,12 +106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "balatro mod website thing.",
+            "homepage": null,
             "id": 769570735,
             "language": "JavaScript",
+            "license": "Unlicense",
             "last_commit": "2024-04-12T06:29:23Z",
+            "open_issues": 0,
             "owner": "notmario",
             "repo": "balatrowebsitetemplate",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -90,12 +127,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful Seed Searching and Filtering Tools for Balatro",
+            "homepage": null,
             "id": 1026553083,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T00:00:08Z",
+            "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "balatro",
+              "balatro-tools"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -106,12 +151,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Balatro calculator ",
+            "homepage": "https://balatrolator.com/",
             "id": 763729206,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-10T18:43:22Z",
+            "open_issues": 0,
             "owner": "kleinfreund",
             "repo": "balatrolator",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "balatro",
+              "calculator"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -122,12 +175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Internationalization toolchain to translate Balatro's sprites",
+            "homepage": null,
             "id": 769738622,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-02-17T13:09:17Z",
+            "open_issues": 0,
             "owner": "Signez",
             "repo": "balatro-sprites-i18n",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -138,12 +196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 919459708,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2025-03-28T15:40:00Z",
+            "open_issues": 0,
             "owner": "sse2",
             "repo": "balatro-ultimate-speedup-mod",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -154,12 +217,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track your progress towards the hardest Balatro achievement, Completionist++",
+            "homepage": "https://blackfan321.github.io/balatro-completionist-plus-plus-tracker/",
             "id": 837996803,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-01-19T21:37:30Z",
+            "open_issues": 0,
             "owner": "blackfan321",
             "repo": "balatro-completionist-plus-plus-tracker",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "balatro",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -170,12 +241,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Save Manager for Steam game Balatro, macOS only",
+            "homepage": null,
             "id": 762979979,
             "language": "Swift",
+            "license": null,
             "last_commit": "2024-02-25T08:42:05Z",
+            "open_issues": 0,
             "owner": "miku1958",
             "repo": "Balatro.antihypertensive",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -186,12 +262,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "immolate java port",
+            "homepage": "https://alex-cova.github.io/balatro4j/",
             "id": 911880975,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-02-21T23:18:32Z",
+            "open_issues": 2,
             "owner": "alex-cova",
             "repo": "balatro4j",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -202,12 +283,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast SIMD seed searcher for Balatro",
+            "homepage": null,
             "id": 918890827,
             "language": "C#",
+            "license": null,
             "last_commit": "2025-12-04T05:08:39Z",
+            "open_issues": 1,
             "owner": "Tacodiva",
             "repo": "Motely",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "balatro",
+              "seed-searcher"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -218,12 +307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ouija - Balatro Seed Finding App (based on Immolate)",
+            "homepage": null,
             "id": 1000627296,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-06T00:39:24Z",
+            "open_issues": 5,
             "owner": "OptimusPi",
             "repo": "Ouija",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -234,12 +328,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Balatro companion app",
+            "homepage": "https://legendaryseeds.app/privacy",
             "id": 923861363,
             "language": "Swift",
+            "license": null,
             "last_commit": "2026-08-10T01:56:48Z",
+            "open_issues": 3,
             "owner": "alex-cova",
             "repo": "perkeoapp",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "balatro"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -250,12 +351,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple mod manager for Balatro. enable, disable, and launch your mods all in one place.",
+            "homepage": null,
             "id": 1257166342,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-05T20:20:39Z",
+            "open_issues": 1,
             "owner": "Ch3rryC0d3r",
             "repo": "JokerDeck",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "balatro",
+              "balatro-mods",
+              "mod-manager",
+              "python",
+              "tkinter"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -266,12 +378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A barebones modpack instance manager for Balatro.",
+            "homepage": null,
             "id": 940791219,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-28T23:49:02Z",
+            "open_issues": 1,
             "owner": "bconlon1",
             "repo": "Balatrones-Modpack-Manager",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         }
@@ -288,12 +405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Balatro Modding Framework",
+            "homepage": null,
             "id": 727742435,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:19:48Z",
+            "open_issues": 114,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 959
+            "stars": 959,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -304,12 +426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A runtime lua injector for games built with LÖVE",
+            "homepage": null,
             "id": 767195324,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:45:12Z",
+            "open_issues": 39,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 589
+            "stars": 589,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -320,12 +447,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modloader/Injector/Decompiler that supports ingame code injection for Balatro (Linux/Windows/Mac)",
+            "homepage": "https://balamod.github.io",
             "id": 731795154,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-11T11:09:03Z",
+            "open_issues": 10,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "balamod",
+              "balatro",
+              "mod",
+              "modding",
+              "modloader"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -336,12 +474,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Mobile Balatro Mod Loader and injector supporting PC and Mobile (ios and android),",
+            "homepage": null,
             "id": 971739497,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2025-07-08T03:19:27Z",
+            "open_issues": 4,
             "owner": "3XPLwastaken",
             "repo": "naneINF-Balatro-Modloader",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "balatro",
+              "mobile",
+              "modding",
+              "pc"
+            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         }
@@ -362,12 +510,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 777514420,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-28T23:33:52Z",
+                    "open_issues": 6,
                     "owner": "besteon",
                     "repo": "balatrobot",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -378,12 +531,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An API mod for most of Feder's Balatro mods",
+                    "homepage": null,
                     "id": 776394424,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-26T18:46:53Z",
+                    "open_issues": 1,
                     "owner": "itayfeder",
                     "repo": "FederAPI-Balatro",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -394,12 +552,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Allows for the easy addition of custom enhancements",
+                    "homepage": null,
                     "id": 789325901,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-05-05T02:25:03Z",
+                    "open_issues": 1,
                     "owner": "Numbuh214",
                     "repo": "EnhanceAPI",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -410,12 +573,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Allows you to play custom sounds",
+                    "homepage": null,
                     "id": 775718542,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-10-12T22:55:14Z",
+                    "open_issues": 0,
                     "owner": "Infarctus",
                     "repo": "Balatro-Custom-Sound-Player",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -426,12 +594,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An api for balatro to play hands beyond 5 cards.",
+                    "homepage": null,
                     "id": 1254055415,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2026-05-31T11:57:42Z",
+                    "open_issues": 0,
                     "owner": "RakibRyan",
                     "repo": "After-Five-Api",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -449,12 +622,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 808438509,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-09-07T04:08:32Z",
+                    "open_issues": 2,
                     "owner": "Bazinga9000",
                     "repo": "MathBlinds",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -472,12 +650,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "some mods about game Balatro. Use Steamodded (https://github.com/Steamopollys/Steamodded) to load them.",
+                    "homepage": null,
                     "id": 768980223,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-04-09T14:50:15Z",
+                    "open_issues": 8,
                     "owner": "betmma",
                     "repo": "my_balatro_mods",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -488,12 +671,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "balatro thing",
+                    "homepage": null,
                     "id": 763502429,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-19T06:27:06Z",
+                    "open_issues": 0,
                     "owner": "Mysthaps",
                     "repo": "BalatroMods",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -504,12 +692,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "challengemod for balatro",
+                    "homepage": null,
                     "id": 769757129,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-19T05:33:02Z",
+                    "open_issues": 1,
                     "owner": "UppedHealer8521",
                     "repo": "Riff-Raffling",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -520,12 +713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "All base game Balatro decks jammed into one challenge.",
+                    "homepage": null,
                     "id": 762865422,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-02-24T22:47:01Z",
+                    "open_issues": 4,
                     "owner": "Aurelius7309",
                     "repo": "StylishSleeves",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -536,12 +734,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Example mod of adding a Challenge to Balatro. Requires Steamodded.",
+                    "homepage": null,
                     "id": 763290960,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-02-26T03:27:23Z",
+                    "open_issues": 0,
                     "owner": "morpline",
                     "repo": "FeedTheVampire",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -552,12 +755,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mod that adds a Challenge Deck to the game Balatro.",
+                    "homepage": null,
                     "id": 782302109,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-04-05T04:11:04Z",
+                    "open_issues": 0,
                     "owner": "Tucaonormal",
                     "repo": "LastStand",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -568,12 +776,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 813876128,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-06-12T01:02:39Z",
+                    "open_issues": 0,
                     "owner": "ascriptmaster",
                     "repo": "Balatro-Nihility",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -591,12 +804,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bunco is a vanilla-style Balatro content mod",
+                    "homepage": "https://firch.github.io/BuncoWeb/",
                     "id": 773123445,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-03-20T06:39:48Z",
+                    "open_issues": 51,
                     "owner": "Firch",
                     "repo": "Bunco",
-                    "stars": 217
+                    "stars": 217,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -607,12 +825,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of Mikas Balatro mods",
+                    "homepage": null,
                     "id": 768763376,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-28T22:00:55Z",
+                    "open_issues": 25,
                     "owner": "MikaSchoenmakers",
                     "repo": "MikasBalatro",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -623,12 +846,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bunch of stuff I've modded into Balatro",
+                    "homepage": null,
                     "id": 786211749,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-07-18T00:24:59Z",
+                    "open_issues": 1,
                     "owner": "SDM0",
                     "repo": "SDM_0-s-Stuff",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -639,12 +867,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -655,12 +888,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 915501610,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-07-25T03:28:29Z",
+                    "open_issues": 0,
                     "owner": "EricTheToon",
                     "repo": "Fortlatro",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -671,12 +909,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Various mods for Balatro",
+                    "homepage": null,
                     "id": 764922766,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-11-19T03:40:54Z",
+                    "open_issues": 3,
                     "owner": "Wiwiweb",
                     "repo": "BalatroMods",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -687,12 +930,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "balatro thing",
+                    "homepage": null,
                     "id": 763502429,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-19T06:27:06Z",
+                    "open_issues": 0,
                     "owner": "Mysthaps",
                     "repo": "BalatroMods",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -703,12 +951,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that currently adds a few decks. Requires Steamodded.",
+                    "homepage": null,
                     "id": 772227160,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-22T21:46:06Z",
+                    "open_issues": 3,
                     "owner": "NewtTheFish",
                     "repo": "SylvieSilly",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -726,12 +979,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adds a new \"Alchemical\" card type to Balatro.",
+                    "homepage": null,
                     "id": 782376377,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-25T10:24:03Z",
+                    "open_issues": 19,
                     "owner": "itayfeder",
                     "repo": "Codex-Arcanum",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -742,12 +1000,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rewrite of the \"Codex Arcanum\" Balatro mod",
+                    "homepage": "https://jumbocarrot0.github.io/Redux-Arcanum/",
                     "id": 908158153,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-08-25T06:35:51Z",
+                    "open_issues": 7,
                     "owner": "jumbocarrot0",
                     "repo": "Redux-Arcanum",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -758,12 +1021,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that adds Deluxe consumables!",
+                    "homepage": null,
                     "id": 782989226,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-10-29T19:02:24Z",
+                    "open_issues": 8,
                     "owner": "JeffVi",
                     "repo": "DX-Tarots",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -781,12 +1049,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Steamodded example mods.",
+                    "homepage": null,
                     "id": 913082363,
                     "language": "GLSL",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-25T14:04:19Z",
+                    "open_issues": 0,
                     "owner": "Steamodded",
                     "repo": "examples",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -797,12 +1070,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Steamodded example mods.",
+                    "homepage": null,
                     "id": 913082363,
                     "language": "GLSL",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-25T14:04:19Z",
+                    "open_issues": 0,
                     "owner": "Steamodded",
                     "repo": "examples",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -813,12 +1091,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Steamodded example mods.",
+                    "homepage": null,
                     "id": 913082363,
                     "language": "GLSL",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-25T14:04:19Z",
+                    "open_issues": 0,
                     "owner": "Steamodded",
                     "repo": "examples",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -829,12 +1112,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that introduces X-Play Mechanics to the game along with 1 deck and 52+ X-Playing Cards ",
+                    "homepage": null,
                     "id": 774035364,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-23T18:38:07Z",
+                    "open_issues": 1,
                     "owner": "Ken-Shi",
                     "repo": "Balatro_HighCardMod",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -845,12 +1133,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A list of mods/addittions/changes for the game Balatro",
+                    "homepage": null,
                     "id": 776040326,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-04-04T20:12:54Z",
+                    "open_issues": 2,
                     "owner": "Hellyom",
                     "repo": "HellyomBalatroMods",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -861,12 +1154,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A collection of my mods for the awesome poker roguelike Balatro.",
+                    "homepage": null,
                     "id": 771304352,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-07T06:48:46Z",
+                    "open_issues": 0,
                     "owner": "mojimoon",
                     "repo": "MojiBalatro",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -877,12 +1175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A collection of my mods for the awesome poker roguelike Balatro.",
+                    "homepage": null,
                     "id": 771304352,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-07T06:48:46Z",
+                    "open_issues": 0,
                     "owner": "mojimoon",
                     "repo": "MojiBalatro",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -893,12 +1196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that currently adds a few decks. Requires Steamodded.",
+                    "homepage": null,
                     "id": 772227160,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-22T21:46:06Z",
+                    "open_issues": 3,
                     "owner": "NewtTheFish",
                     "repo": "SylvieSilly",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -909,12 +1217,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository to track my Balatro modding projects",
+                    "homepage": null,
                     "id": 766716025,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-03-14T15:51:37Z",
+                    "open_issues": 0,
                     "owner": "encarvlucas",
                     "repo": "EncarvlucasBalatroMods",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -925,12 +1238,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 763178399,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-02-26T15:32:45Z",
+                    "open_issues": 0,
                     "owner": "Desmero",
                     "repo": "FrenchTarotCavalierCard",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -941,12 +1259,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 919287483,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-01-22T17:39:53Z",
+                    "open_issues": 0,
                     "owner": "AiksiLotl",
                     "repo": "Pauper-Deck",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -957,12 +1280,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro Mod Using SMODS and Lovely Injector!",
+                    "homepage": null,
                     "id": 1184808760,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-01T23:18:21Z",
+                    "open_issues": 0,
                     "owner": "tgreenmonkey",
                     "repo": "Deck-Inversion-Challenge-Konfiguration",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -973,12 +1301,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 943642882,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-03-16T05:33:36Z",
+                    "open_issues": 1,
                     "owner": "jlwoolf",
                     "repo": "balatro-dna-splice",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -989,12 +1322,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Small World Deck is a custom Balatro deck mod that randomly bans 75% of all Jokers, Tarots, Planets, and Spectrals each run and starts with a negative Showman.",
+                    "homepage": null,
                     "id": 1075020440,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-13T17:26:04Z",
+                    "open_issues": 0,
                     "owner": "jacksoncmu",
                     "repo": "smallworld-deck-balatro",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -1012,12 +1350,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod containing 5 new cards",
+                    "homepage": null,
                     "id": 793839713,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-30T21:55:27Z",
+                    "open_issues": 0,
                     "owner": "Goldfighter5",
                     "repo": "Golds-Cards",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1028,12 +1371,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 789403341,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-05-13T21:08:46Z",
+                    "open_issues": 0,
                     "owner": "Numbuh214",
                     "repo": "X-Card",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -1051,12 +1399,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CardSleeves Balatro Mod",
+                    "homepage": null,
                     "id": 825315947,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-24T02:29:53Z",
+                    "open_issues": 4,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
-                    "stars": 139
+                    "stars": 139,
+                    "topics": [
+                      "balatro",
+                      "lovely",
+                      "mod",
+                      "modding",
+                      "sleeves",
+                      "steamodded"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1067,12 +1427,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quality of life mod for Balatro",
+                    "homepage": null,
                     "id": 825157359,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-22T11:55:04Z",
+                    "open_issues": 11,
                     "owner": "OceanRamen",
                     "repo": "Saturn",
-                    "stars": 95
+                    "stars": 95,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1083,12 +1448,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro qol (quality of life) mod. Make mouse and gamepad more efficient and easier to use, effectively relieve finger pressure. I guess this maybe one of the most useful mods ;)",
+                    "homepage": null,
                     "id": 768830481,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-07-13T17:44:10Z",
+                    "open_issues": 1,
                     "owner": "Kooluve",
                     "repo": "Better-Mouse-And-Gamepad",
-                    "stars": 59
+                    "stars": 59,
+                    "topics": [
+                      "balatro",
+                      "functionality",
+                      "gamepad",
+                      "mod",
+                      "mouse",
+                      "qol",
+                      "quality-of-life"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1099,12 +1477,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1115,12 +1498,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Useful hotkeys for video game Balatro",
+                    "homepage": null,
                     "id": 775072847,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-09-15T14:51:09Z",
+                    "open_issues": 2,
                     "owner": "Agoraaa",
                     "repo": "FlushHotkeys",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "hotkey"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1131,12 +1523,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Welcome to the \"Stickers Always Shown\" mod repository for Balatro! This mod is designed to enhance your gameplay experience by ensuring that stickers remain visible on the Jokers at all times during a run. This feature is particularly beneficial for players aiming to achieve the Completionist++ achievement.",
+                    "homepage": null,
                     "id": 793213354,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-04-23T05:52:14Z",
+                    "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-Stickers-Always-Shown",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1147,12 +1544,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of my hand-made mods for Balatro.",
+                    "homepage": null,
                     "id": 911502312,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-18T23:09:32Z",
+                    "open_issues": 2,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "linux",
+                      "love2d",
+                      "smods",
+                      "steamodded"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1163,12 +1572,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of my hand-made mods for Balatro.",
+                    "homepage": null,
                     "id": 911502312,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-18T23:09:32Z",
+                    "open_issues": 2,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "linux",
+                      "love2d",
+                      "smods",
+                      "steamodded"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1179,12 +1600,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Small collection of mods to add quality of life improvements",
+                    "homepage": null,
                     "id": 765031884,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-04-03T17:25:56Z",
+                    "open_issues": 9,
                     "owner": "Mi1cK",
                     "repo": "Milcks-QOL",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1195,12 +1621,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Many keyboard shortcuts for the game Balatro",
+                    "homepage": null,
                     "id": 804072842,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-02-09T16:56:49Z",
+                    "open_issues": 7,
                     "owner": "DorkDad141",
                     "repo": "keyboard-shortcuts",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1211,12 +1642,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro's mods",
+                    "homepage": null,
                     "id": 784799879,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-04-11T08:51:47Z",
+                    "open_issues": 1,
                     "owner": "xioxin",
                     "repo": "BalatroMods",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1227,12 +1663,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Various mods for Balatro",
+                    "homepage": null,
                     "id": 764922766,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-11-19T03:40:54Z",
+                    "open_issues": 3,
                     "owner": "Wiwiweb",
                     "repo": "BalatroMods",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1243,12 +1684,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "I made this module for quick file reads. Repeatedly switching to the main menu was too painful.",
+                    "homepage": null,
                     "id": 766964174,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-04T15:26:19Z",
+                    "open_issues": 2,
                     "owner": "TsunamiinFantasy",
                     "repo": "BalatroQuickLoad",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1259,12 +1705,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "balatro thing",
+                    "homepage": null,
                     "id": 763502429,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-19T06:27:06Z",
+                    "open_issues": 0,
                     "owner": "Mysthaps",
                     "repo": "BalatroMods",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1275,12 +1726,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mod for balatro that increases the maximum score from 1.7e308 to effectively infinite.",
+                    "homepage": null,
                     "id": 769788081,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-03-11T16:05:19Z",
+                    "open_issues": 1,
                     "owner": "jamesthejellyfish",
                     "repo": "InfiniteScoreMod",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1291,12 +1747,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "balatro thing",
+                    "homepage": null,
                     "id": 763502429,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-19T06:27:06Z",
+                    "open_issues": 0,
                     "owner": "Mysthaps",
                     "repo": "BalatroMods",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1307,12 +1768,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 770900936,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-14T12:01:24Z",
+                    "open_issues": 1,
                     "owner": "kjossul",
                     "repo": "BetterStakes",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1323,12 +1789,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro Mod to increase the base joker cap.  ",
+                    "homepage": null,
                     "id": 769857982,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-12-02T04:54:26Z",
+                    "open_issues": 0,
                     "owner": "AkitaAttribute",
                     "repo": "IncreaseJokerCap",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1339,12 +1810,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 772165750,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-28T13:24:14Z",
+                    "open_issues": 2,
                     "owner": "kjossul",
                     "repo": "NeowBlessings",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1355,12 +1831,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 764248111,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-02-27T18:52:04Z",
+                    "open_issues": 0,
                     "owner": "GoldenEpsilon",
                     "repo": "Balatro_CollectionFix",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1371,12 +1852,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Increase Soul Spectral Card Probability to Spawn in Balatro",
+                    "homepage": null,
                     "id": 775033469,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-12-02T04:51:55Z",
+                    "open_issues": 0,
                     "owner": "AkitaAttribute",
                     "repo": "IncreaseSoulProbability",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1387,12 +1873,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro Mods",
+                    "homepage": null,
                     "id": 796079030,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-05-04T21:48:16Z",
+                    "open_issues": 0,
                     "owner": "DorkDad141",
                     "repo": "balatro",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1403,12 +1894,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Misc Balatro Mods",
+                    "homepage": null,
                     "id": 776135245,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-03T00:06:25Z",
+                    "open_issues": 0,
                     "owner": "WilsontheWolf",
                     "repo": "balatro-mods",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1419,12 +1915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro: GameSpeed Display and Spacereroll",
+                    "homepage": null,
                     "id": 813939348,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-04-16T07:54:32Z",
+                    "open_issues": 0,
                     "owner": "snowylight",
                     "repo": "GameSpeed-Display-and-Spacereroll",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1435,12 +1936,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod to allow cards to have multiple sprites",
+                    "homepage": null,
                     "id": 762898551,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-02-25T01:58:08Z",
+                    "open_issues": 0,
                     "owner": "Amvoled",
                     "repo": "Masquerade",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1451,12 +1957,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro Mod to replace/remove jokers for custom runs.",
+                    "homepage": null,
                     "id": 769745768,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-03-09T23:50:27Z",
+                    "open_issues": 2,
                     "owner": "AkitaAttribute",
                     "repo": "ReplaceJokers",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1467,12 +1978,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Making a game where runs already take long even longer. Play to Ante 16 to win.",
+                    "homepage": null,
                     "id": 775592981,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-01-01T21:42:14Z",
+                    "open_issues": 0,
                     "owner": "Aurelius7309",
                     "repo": "Survival",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1483,12 +1999,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository to track my Balatro modding projects",
+                    "homepage": null,
                     "id": 766716025,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-03-14T15:51:37Z",
+                    "open_issues": 0,
                     "owner": "encarvlucas",
                     "repo": "EncarvlucasBalatroMods",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1499,12 +2020,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository to track my Balatro modding projects",
+                    "homepage": null,
                     "id": 766716025,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-03-14T15:51:37Z",
+                    "open_issues": 0,
                     "owner": "encarvlucas",
                     "repo": "EncarvlucasBalatroMods",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1515,12 +2041,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Collection of mods I've made for Balatro",
+                    "homepage": null,
                     "id": 890180303,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-11-21T04:20:12Z",
+                    "open_issues": 0,
                     "owner": "MathIsFun0",
                     "repo": "JensBalatroCollection",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1531,12 +2062,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Metal card falling sound effect",
+                    "homepage": null,
                     "id": 800665017,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-05-14T23:26:35Z",
+                    "open_issues": 0,
                     "owner": "MOONLIT3",
                     "repo": "metal_card_falling",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1547,12 +2083,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "shows seed of current run",
+                    "homepage": null,
                     "id": 1258245704,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2026-06-03T13:13:51Z",
+                    "open_issues": 0,
                     "owner": "RakibRyan",
                     "repo": "always-show-seed-rekindled-balatro",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1563,12 +2104,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 770616378,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-11T21:43:11Z",
+                    "open_issues": 0,
                     "owner": "V-rtualized",
                     "repo": "DisableVerdantLeaf",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1579,12 +2125,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1251818824,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-05-28T01:55:56Z",
+                    "open_issues": 0,
                     "owner": "RakibRyan",
                     "repo": "Hand-of-six-smods",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -1602,12 +2153,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simulate the score you will get on the selected cards!",
+                    "homepage": null,
                     "id": 775769353,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-26T19:32:23Z",
+                    "open_issues": 10,
                     "owner": "DivvyCr",
                     "repo": "Balatro-Preview",
-                    "stars": 158
+                    "stars": 158,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1618,12 +2174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deck Creator is a small tool for the game Balatro that allows users to create, save, load, and even share custom decks.",
+                    "homepage": null,
                     "id": 762954783,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-03-22T18:20:52Z",
+                    "open_issues": 31,
                     "owner": "adambennett",
                     "repo": "Balatro-DeckCreator",
-                    "stars": 63
+                    "stars": 63,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1634,12 +2195,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mod for Balatro which adds a window showing the possible poker hands that you can make with your current hand",
+                    "homepage": null,
                     "id": 800249880,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-05-14T03:07:14Z",
+                    "open_issues": 2,
                     "owner": "Toeler",
                     "repo": "Balatro-HandPreview",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1650,12 +2216,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Steamodded example mods.",
+                    "homepage": null,
                     "id": 913082363,
                     "language": "GLSL",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-25T14:04:19Z",
+                    "open_issues": 0,
                     "owner": "Steamodded",
                     "repo": "examples",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1666,12 +2237,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "View the history of your played hands and shop purchases! Save and load any number of runs!",
+                    "homepage": null,
                     "id": 780979675,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-27T22:04:10Z",
+                    "open_issues": 8,
                     "owner": "DivvyCr",
                     "repo": "Balatro-History",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1682,12 +2258,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An in-game clock mod for Balatro",
+                    "homepage": null,
                     "id": 928692083,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-03-15T03:44:30Z",
+                    "open_issues": 0,
                     "owner": "Breezebuilder",
                     "repo": "SystemClock",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "clock"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1698,12 +2283,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 762842103,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-02-26T15:09:46Z",
+                    "open_issues": 3,
                     "owner": "Mi1cK",
                     "repo": "Jimbos-Histories",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1714,12 +2304,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A mod that lets you change Balatro's colors",
+                    "homepage": null,
                     "id": 812718602,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-08-09T21:19:52Z",
+                    "open_issues": 6,
                     "owner": "SpectralPack",
                     "repo": "Trance",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1730,12 +2325,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 767725375,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-15T11:25:17Z",
+                    "open_issues": 6,
                     "owner": "cantlookback",
                     "repo": "BalatrOverlay",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1746,12 +2346,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro zen mode",
+                    "homepage": null,
                     "id": 763222918,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-03-20T15:50:12Z",
+                    "open_issues": 2,
                     "owner": "Amvoled",
                     "repo": "Taikomochi",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1762,12 +2367,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Straight -> Gay. Venus -> Penis (Now with Anus)",
+                    "homepage": null,
                     "id": 877430276,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-08-02T08:45:15Z",
+                    "open_issues": 0,
                     "owner": "fosterbarnes",
                     "repo": "balatroGayPenis",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": [
+                      "balatro",
+                      "gay",
+                      "mod",
+                      "penis"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1778,12 +2393,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 810629862,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-12-11T01:03:33Z",
+                    "open_issues": 3,
                     "owner": "OppositeWolf770",
                     "repo": "JokerSellValue",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1794,12 +2414,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stop accidentally ruining your Balatro games! Use this mod to prevent disaster.",
+                    "homepage": null,
                     "id": 813062434,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-10T13:07:46Z",
+                    "open_issues": 1,
                     "owner": "Zei33",
                     "repo": "balatro-safety-steamodded",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1810,12 +2435,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Various mods for Balatro",
+                    "homepage": null,
                     "id": 764922766,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-11-19T03:40:54Z",
+                    "open_issues": 3,
                     "owner": "Wiwiweb",
                     "repo": "BalatroMods",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1826,12 +2456,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A list of mods/addittions/changes for the game Balatro",
+                    "homepage": null,
                     "id": 776040326,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-04-04T20:12:54Z",
+                    "open_issues": 2,
                     "owner": "Hellyom",
                     "repo": "HellyomBalatroMods",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1842,12 +2477,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro mod: Wheel of Fortune Tracker + Guarantee",
+                    "homepage": null,
                     "id": 781726752,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-03-28T19:35:23Z",
+                    "open_issues": 1,
                     "owner": "angerson",
                     "repo": "pitywheel",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "balatro",
+                      "game-modding",
+                      "lua"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1858,12 +2502,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Quickly forfeit your Balatro runs with the 'Fold' button!",
+                    "homepage": null,
                     "id": 764499354,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-02-28T08:03:02Z",
+                    "open_issues": 0,
                     "owner": "happinyz",
                     "repo": "BalatroFoldButton",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1874,12 +2523,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that brings touch controls from mobile version to PC/Mac. Built with extensibility, allowing other mods to define their own drag areas.",
+                    "homepage": null,
                     "id": 1184672646,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-05T14:50:40Z",
+                    "open_issues": 1,
                     "owner": "HuyTheKiller",
                     "repo": "SilkTouch",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1890,12 +2544,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "balatro thing",
+                    "homepage": null,
                     "id": 763502429,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-19T06:27:06Z",
+                    "open_issues": 0,
                     "owner": "Mysthaps",
                     "repo": "BalatroMods",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1906,12 +2565,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod for selecting and changing the colours of the main menu background",
+                    "homepage": null,
                     "id": 774252516,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-19T08:44:23Z",
+                    "open_issues": 1,
                     "owner": "EmperorGesar",
                     "repo": "Balatro-Colour-Selector",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1922,12 +2586,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mod for the Balatro video game. Adds a button to deselect all highlighted cards.",
+                    "homepage": null,
                     "id": 813087308,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-10T13:22:01Z",
+                    "open_issues": 0,
                     "owner": "Zei33",
                     "repo": "deselect-all-steamodded",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1938,12 +2607,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 767032604,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-12-31T04:46:26Z",
+                    "open_issues": 0,
                     "owner": "jie65535",
                     "repo": "JMods",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1954,12 +2628,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Misc Balatro Mods",
+                    "homepage": null,
                     "id": 776135245,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-03T00:06:25Z",
+                    "open_issues": 0,
                     "owner": "WilsontheWolf",
                     "repo": "balatro-mods",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1970,12 +2649,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod with additional stats on jokers.",
+                    "homepage": null,
                     "id": 1313293987,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-07-27T01:38:27Z",
+                    "open_issues": 0,
                     "owner": "jagodben",
                     "repo": "Balatro-Record-Stats-Mod",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "balatro-tools",
+                      "balatromod"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -1986,12 +2675,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some small Balatro QoL mods",
+                    "homepage": null,
                     "id": 964793276,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-04-11T22:23:08Z",
+                    "open_issues": 1,
                     "owner": "Jdbye",
                     "repo": "BalatroMods",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2002,12 +2696,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adds a hotkey function to flip selected playing cards and Jokers during the play phase in Balatro",
+                    "homepage": null,
                     "id": 965186036,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-13T12:09:12Z",
+                    "open_issues": 0,
                     "owner": "ssyangchn",
                     "repo": "ManualFlip",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2018,12 +2717,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that allows recolouring all spectral cards via a shader",
+                    "homepage": null,
                     "id": 812080987,
                     "language": "GLSL",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-09T20:20:56Z",
+                    "open_issues": 0,
                     "owner": "Eremel",
                     "repo": "SpectralRecolours",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2034,12 +2738,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Мод для Balatro, который добавляет окно, показывающее возможные покерные комбинации, которые можно собрать с вашими текущими картами",
+                    "homepage": null,
                     "id": 848232873,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-29T07:44:13Z",
+                    "open_issues": 0,
                     "owner": "ZarenOFF",
                     "repo": "Balatro-HandPreview-RU",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2050,12 +2759,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "adds exit button in menu",
+                    "homepage": null,
                     "id": 1258139898,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2026-06-03T13:14:14Z",
+                    "open_issues": 0,
                     "owner": "RakibRyan",
                     "repo": "exit-button-rekindled-balatro",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2066,12 +2780,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1255520807,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-06-03T13:48:42Z",
+                    "open_issues": 0,
                     "owner": "RakibRyan",
                     "repo": "simple-fps-display-balatro",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -2089,12 +2808,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "some mods about game Balatro. Use Steamodded (https://github.com/Steamopollys/Steamodded) to load them.",
+                    "homepage": null,
                     "id": 768980223,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-04-09T14:50:15Z",
+                    "open_issues": 8,
                     "owner": "betmma",
                     "repo": "my_balatro_mods",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2105,12 +2829,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod. Face the Fear, Build the Future.",
+                    "homepage": null,
                     "id": 811338732,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-15T14:47:06Z",
+                    "open_issues": 6,
                     "owner": "Mysthaps",
                     "repo": "LobotomyCorp",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "balatro",
+                      "lobcorp",
+                      "mod"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2121,12 +2854,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers)",
+                    "homepage": null,
                     "id": 953911011,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-07-28T21:21:51Z",
+                    "open_issues": 0,
                     "owner": "crmykybord",
                     "repo": "Sculio",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "game",
+                      "mod"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2137,12 +2880,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mod for Balatro",
+                    "homepage": null,
                     "id": 767945930,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-02-16T18:57:57Z",
+                    "open_issues": 8,
                     "owner": "spikeof2010",
                     "repo": "JankJonklers",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2153,12 +2901,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mod for balatro that adds 31 new jokers, reverse tarot cards, and some new challenges.",
+                    "homepage": null,
                     "id": 767854367,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-04-23T16:42:25Z",
+                    "open_issues": 12,
                     "owner": "jamesthejellyfish",
                     "repo": "JellyMod",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2169,12 +2922,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that gives an evolution to a few jokers",
+                    "homepage": null,
                     "id": 812750540,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-11-20T14:42:26Z",
+                    "open_issues": 0,
                     "owner": "SDM0",
                     "repo": "Joker-Evolution",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2185,12 +2943,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Jonkler collection",
+                    "homepage": null,
                     "id": 794052610,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-02-12T18:21:46Z",
+                    "open_issues": 4,
                     "owner": "BBBalatroMod",
                     "repo": "BBBalatro",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2201,12 +2964,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that adds a new kind of joker, embracing the best thing in the world: GAMBLING",
+                    "homepage": null,
                     "id": 812789457,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-02-24T03:38:43Z",
+                    "open_issues": 2,
                     "owner": "GauntletGames-2086",
                     "repo": "D6-Jokers",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2217,12 +2985,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A balatro mod that adds various jokers",
+                    "homepage": null,
                     "id": 767220775,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-19T13:20:49Z",
+                    "open_issues": 1,
                     "owner": "iJohnMaged",
                     "repo": "multi-jokers",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2233,12 +3006,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "balatro thing",
+                    "homepage": null,
                     "id": 763502429,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-19T06:27:06Z",
+                    "open_issues": 0,
                     "owner": "Mysthaps",
                     "repo": "BalatroMods",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2249,12 +3027,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Steamodded mod to fix the Ancient Joker in Balatro.",
+                    "homepage": null,
                     "id": 779851127,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-03-31T00:51:00Z",
+                    "open_issues": 0,
                     "owner": "gabepesco",
                     "repo": "BalatroAncientJokerFix",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2265,12 +3048,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro: Jokers from DATE A LIVE",
+                    "homepage": null,
                     "id": 813935433,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-04-23T15:44:05Z",
+                    "open_issues": 0,
                     "owner": "snowylight",
                     "repo": "DatealiveBalatro",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2281,12 +3069,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mod which adds a Bad Apple joker to Balatro",
+                    "homepage": null,
                     "id": 773521019,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-17T22:04:40Z",
+                    "open_issues": 1,
                     "owner": "jamesthejellyfish",
                     "repo": "BadAppleBalatro",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2297,12 +3090,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A silly Balatro mod that adds 30 new, vanilla inspired Jokers to the game.",
+                    "homepage": "https://milankapitein.github.io/index.html",
                     "id": 964625855,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-09-20T06:59:07Z",
+                    "open_issues": 0,
                     "owner": "milankapitein",
                     "repo": "milatro-mod",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2313,12 +3111,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "You can choose booster packs from a \"multipack\"",
+                    "homepage": null,
                     "id": 881199654,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-04-17T05:09:20Z",
+                    "open_issues": 0,
                     "owner": "snowylight",
                     "repo": "Multipack",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2329,12 +3132,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 787768536,
                     "language": "Lua",
+                    "license": "GPL-2.0",
                     "last_commit": "2024-05-04T05:24:45Z",
+                    "open_issues": 1,
                     "owner": "ilikecheese0",
                     "repo": "CheesyJokers",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2345,12 +3153,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "adds a variety of different jokers",
+                    "homepage": null,
                     "id": 793776317,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-08-18T03:19:26Z",
+                    "open_issues": 2,
                     "owner": "Flounderlul",
                     "repo": "FloundersJokers",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2361,12 +3174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1233813735,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-06-07T11:34:25Z",
+                    "open_issues": 0,
                     "owner": "PLagger7",
                     "repo": "House-of-Hearts",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2377,12 +3195,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "bing bing wahoo",
+                    "homepage": null,
                     "id": 787576560,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-11-06T03:37:17Z",
+                    "open_issues": 0,
                     "owner": "DPS2004",
                     "repo": "Super-Balatrio-Bros",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2393,12 +3216,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that adds 2 jokers and 1 challenge to the game.",
+                    "homepage": null,
                     "id": 932875256,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-31T03:26:53Z",
+                    "open_issues": 0,
                     "owner": "ZJWCY",
                     "repo": "Balatro_BIG_BANG_by_ZJWCY",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2409,12 +3237,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mod for the game Balatro adding Greek mythology things",
+                    "homepage": null,
                     "id": 779474580,
                     "language": "Lua",
+                    "license": "CC0-1.0",
                     "last_commit": "2024-04-05T05:18:23Z",
+                    "open_issues": 0,
                     "owner": "AbhinavR314",
                     "repo": "BalatroOlympus",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2425,12 +3258,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 809593577,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-07-03T22:07:52Z",
+                    "open_issues": 0,
                     "owner": "AlexZGreat",
                     "repo": "Ro-Balatro",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2441,12 +3279,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro mod for a discord server (allegedly) ",
+                    "homepage": null,
                     "id": 785265171,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-21T01:14:10Z",
+                    "open_issues": 1,
                     "owner": "DPS2004",
                     "repo": "5CEBalatro",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2457,12 +3300,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "177013",
+                    "homepage": null,
                     "id": 785765257,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-14T03:18:45Z",
+                    "open_issues": 1,
                     "owner": "Snoresville",
                     "repo": "balatro-emergence-joker",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2473,12 +3321,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mod for Balatro",
+                    "homepage": null,
                     "id": 763843690,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-03-01T06:21:11Z",
+                    "open_issues": 1,
                     "owner": "lusciousdev",
                     "repo": "LushMod",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2489,12 +3342,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "mod for balatro, outdated",
+                    "homepage": null,
                     "id": 776911827,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-13T15:49:44Z",
+                    "open_issues": 0,
                     "owner": "lemonfsh",
                     "repo": "ror2funnyitems",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2505,12 +3363,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A bunch of themed Jokers that hopefully synergize together",
+                    "homepage": null,
                     "id": 774558635,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-09-04T06:37:53Z",
+                    "open_issues": 3,
                     "owner": "BlizzowX",
                     "repo": "Balatro---Themed-Jokers---OUTDATED",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2521,12 +3384,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 953578421,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2026-04-08T09:42:20Z",
+                    "open_issues": 0,
                     "owner": "JulianDeclercq",
                     "repo": "balatro-harambes-chosen",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2537,12 +3405,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Add Mor Jokers to Balatro!",
+                    "homepage": null,
                     "id": 787996078,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-01-02T04:12:39Z",
+                    "open_issues": 1,
                     "owner": "morpline",
                     "repo": "morjokers",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2553,12 +3426,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"Gambling is for fools\"",
+                    "homepage": "https://acyt.lol",
                     "id": 922049379,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-03-16T23:46:46Z",
+                    "open_issues": 0,
                     "owner": "RedrcknRbn",
                     "repo": "Panley-Joker",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2569,12 +3447,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PiJoker Balatro Joker Mod made using Steamodded",
+                    "homepage": null,
                     "id": 778651203,
                     "language": "Lua",
+                    "license": "CC0-1.0",
                     "last_commit": "2024-03-29T03:55:44Z",
+                    "open_issues": 0,
                     "owner": "erachlin",
                     "repo": "PiJoker",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2585,12 +3468,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro mod where I add whatever I feel like really, only jokers as of now",
+                    "homepage": null,
                     "id": 956357105,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-03-29T15:53:42Z",
+                    "open_issues": 0,
                     "owner": "acetna",
                     "repo": "Quilombo",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2601,12 +3489,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some small Balatro QoL mods",
+                    "homepage": null,
                     "id": 964793276,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-04-11T22:23:08Z",
+                    "open_issues": 1,
                     "owner": "Jdbye",
                     "repo": "BalatroMods",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2617,12 +3510,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slay the Princess mod for Balatro",
+                    "homepage": null,
                     "id": 1055813762,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-03-24T23:55:03Z",
+                    "open_issues": 2,
                     "owner": "Kastamera",
                     "repo": "SlayThePrincess",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2633,12 +3531,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a balatro mod idea from star rail",
+                    "homepage": null,
                     "id": 972977375,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-04-26T02:30:29Z",
+                    "open_issues": 0,
                     "owner": "snowylight",
                     "repo": "Starrailevents",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2649,12 +3552,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "anaglyph on steroids",
+                    "homepage": null,
                     "id": 789734341,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-21T13:46:35Z",
+                    "open_issues": 0,
                     "owner": "Snoresville",
                     "repo": "balatro-double-tag-joker",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2665,12 +3573,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "420",
+                    "homepage": null,
                     "id": 789015425,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-21T12:06:16Z",
+                    "open_issues": 0,
                     "owner": "Snoresville",
                     "repo": "balatro-blunt-joker",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2681,12 +3594,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1312563875,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-07-26T06:52:33Z",
+                    "open_issues": 0,
                     "owner": "RakibRyan",
                     "repo": "Betmma-Jokers-Mobile-friendly",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2697,12 +3615,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1254130446,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2026-05-30T09:03:12Z",
+                    "open_issues": 0,
                     "owner": "RakibRyan",
                     "repo": "Rule-Breaker-Joker",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2713,12 +3636,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Assemble Functional Modules to create your own Zilliax!",
+                    "homepage": null,
                     "id": 884577091,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-04-16T03:02:47Z",
+                    "open_issues": 0,
                     "owner": "snowylight",
                     "repo": "Zilliax",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -2736,12 +3664,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that adds in a new seal to the game",
+                    "homepage": null,
                     "id": 766727017,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-03-08T02:25:33Z",
+                    "open_issues": 1,
                     "owner": "AxBolduc",
                     "repo": "GreenSeal",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2752,12 +3685,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "adds seals that mess with probability",
+                    "homepage": null,
                     "id": 793775501,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-05-07T22:39:45Z",
+                    "open_issues": 1,
                     "owner": "Flounderlul",
                     "repo": "Dice-Seals",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -2775,12 +3713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 762491468,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-02-23T13:47:08Z",
+                    "open_issues": 5,
                     "owner": "Aurelius7309",
                     "repo": "SixSuits",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2791,12 +3734,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adds two new suits to balatro",
+                    "homepage": null,
                     "id": 776970060,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-02-18T23:13:27Z",
+                    "open_issues": 1,
                     "owner": "RattlingSnow353",
                     "repo": "InkAndColor",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2807,12 +3755,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 772300652,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-15T16:17:37Z",
+                    "open_issues": 0,
                     "owner": "tvroonhove",
                     "repo": "HanafudaHybridMod",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2823,12 +3776,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adds a new suit to Balatro: Notes! ♪",
+                    "homepage": null,
                     "id": 776413341,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-23T14:26:42Z",
+                    "open_issues": 1,
                     "owner": "itayfeder",
                     "repo": "MusicalSuit",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -2846,12 +3804,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 792104920,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-04-26T14:35:47Z",
+                    "open_issues": 6,
                     "owner": "JKd3vLD",
                     "repo": "BalatroTagPreview",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2862,12 +3825,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 943642882,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-03-16T05:33:36Z",
+                    "open_issues": 1,
                     "owner": "jlwoolf",
                     "repo": "balatro-dna-splice",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2878,12 +3846,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tag Manager is a mod to control tags in the game, you can manage the Ante when they can start appearing!",
+                    "homepage": null,
                     "id": 1017489311,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-08-17T21:24:28Z",
+                    "open_issues": 1,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-TagManager",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -2901,12 +3877,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dark mode texture pack for Balatro. Requires steammodded. ",
+                    "homepage": null,
                     "id": 796281048,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-06-03T20:40:56Z",
+                    "open_issues": 2,
                     "owner": "CarrotonMan",
                     "repo": "balatrodarkmode",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2917,12 +3898,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A visual Balatro mod that replicates the look and feel of a Windows 95 game!",
+                    "homepage": null,
                     "id": 808885906,
                     "language": "HLSL",
+                    "license": null,
                     "last_commit": "2024-08-30T10:26:01Z",
+                    "open_issues": 0,
                     "owner": "Sparktimus",
                     "repo": "Balatro95",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2933,12 +3919,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A bunch of mods I made for Balatro!",
+                    "homepage": null,
                     "id": 785175766,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-12-03T10:37:51Z",
+                    "open_issues": 0,
                     "owner": "LunaAstraCassiopeia",
                     "repo": "LunasBalatroMods",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2949,12 +3940,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 766606157,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-07-14T20:27:00Z",
+                    "open_issues": 0,
                     "owner": "XenoCHeart",
                     "repo": "Crimsons-Ultimate-Card-Collection",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2965,12 +3961,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "I just wanted an easier way to share my (or others) texture packs",
+                    "homepage": null,
                     "id": 762826134,
                     "language": "Lua",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-03-09T20:56:24Z",
+                    "open_issues": 0,
                     "owner": "alexse13dev",
                     "repo": "Balatro-Texture-Packs",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2981,12 +3982,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mirror from https://git.luuumine.com/luuumine/BalaQuints",
+                    "homepage": null,
                     "id": 936148515,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-18T00:17:04Z",
+                    "open_issues": 0,
                     "owner": "luuumine",
                     "repo": "BalaQuints",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2997,12 +4003,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Texture pack for Balatro which retextures all planet cards to astral bodies from the game Outer Wilds",
+                    "homepage": null,
                     "id": 783857647,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-23T18:28:14Z",
+                    "open_issues": 2,
                     "owner": "NataKilar",
                     "repo": "Balatro-Wilds",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3013,12 +4024,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Baldatro is a mod that makes all the jokers bald, thats it, enjoy!",
+                    "homepage": null,
                     "id": 1011542220,
                     "language": "PowerShell",
+                    "license": "MIT",
                     "last_commit": "2025-07-15T22:00:58Z",
+                    "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-Baldatro",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3029,12 +4045,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 932402843,
                     "language": "Lua",
+                    "license": "Unlicense",
                     "last_commit": "2025-02-15T16:33:28Z",
+                    "open_issues": 0,
                     "owner": "beznac",
                     "repo": "EclipseTextures",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3045,12 +4066,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro Mod that replaces Gros Michel with Michael Gross.",
+                    "homepage": null,
                     "id": 816174850,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-18T06:16:59Z",
+                    "open_issues": 0,
                     "owner": "chrishanel",
                     "repo": "grossBalatro",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3061,12 +4087,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 780386093,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-04-01T11:39:11Z",
+                    "open_issues": 0,
                     "owner": "Ard1tion",
                     "repo": "Improved-Booster-Tarots",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3077,12 +4108,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "the original textures from balatro version 0.8.8 imported to balatro version 1.0.0",
+                    "homepage": null,
                     "id": 775832531,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-03-22T06:11:33Z",
+                    "open_issues": 0,
                     "owner": "UppedHealer8521",
                     "repo": "Ogtextures",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3100,12 +4136,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A complete rework of the French translations of the game. Made by the community.",
+                    "homepage": null,
                     "id": 761400253,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-08-24T22:34:31Z",
+                    "open_issues": 5,
                     "owner": "FrBmt-BIGetNouf",
                     "repo": "balatro-french-translations",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3123,12 +4164,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "some mods about game Balatro. Use Steamodded (https://github.com/Steamopollys/Steamodded) to load them.",
+                    "homepage": null,
                     "id": 768980223,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-04-09T14:50:15Z",
+                    "open_issues": 8,
                     "owner": "betmma",
                     "repo": "my_balatro_mods",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3139,12 +4185,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1312563875,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2026-07-26T06:52:33Z",
+                    "open_issues": 0,
                     "owner": "RakibRyan",
                     "repo": "Betmma-Jokers-Mobile-friendly",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3162,12 +4213,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 807001541,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-09-11T17:24:19Z",
+                    "open_issues": 6,
                     "owner": "dvrp0",
                     "repo": "distro",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3178,12 +4234,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod dedicated to adding customized card backs to the game in ease",
+                    "homepage": null,
                     "id": 773221065,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-28T18:30:11Z",
+                    "open_issues": 0,
                     "owner": "Ken-Shi",
                     "repo": "Balatro_CardBackInjection",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3197,12 +4258,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A Balatro Modding Framework",
+            "homepage": null,
             "id": 727742435,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T22:19:48Z",
+            "open_issues": 114,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 959
+            "stars": 959,
+            "topics": []
           },
           "title": "Mods (Require Steamodded)",
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -3218,12 +4284,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3234,12 +4305,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro Mod adding new Seal effects and Spectral cards.",
+                    "homepage": null,
                     "id": 778447681,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-08-22T20:16:38Z",
+                    "open_issues": 0,
                     "owner": "jacobr1227",
                     "repo": "double_seals",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3257,12 +4333,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "balatro thing",
+                    "homepage": null,
                     "id": 763502429,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-19T06:27:06Z",
+                    "open_issues": 0,
                     "owner": "Mysthaps",
                     "repo": "BalatroMods",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3280,12 +4361,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3303,12 +4389,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "balatro thing",
+                    "homepage": null,
                     "id": 763502429,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-06-19T06:27:06Z",
+                    "open_issues": 0,
                     "owner": "Mysthaps",
                     "repo": "BalatroMods",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3326,12 +4417,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3342,12 +4438,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "https://discord.com/channels/1116389027176787968/1215516228525760543",
+                    "homepage": null,
                     "id": 769280692,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-26T04:28:42Z",
+                    "open_issues": 1,
                     "owner": "GoldenEpsilon",
                     "repo": "Balatro-CommunityPack",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3365,12 +4466,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of mods for Balatro",
+                    "homepage": null,
                     "id": 774617493,
                     "language": "Lua",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-05-06T20:05:51Z",
+                    "open_issues": 1,
                     "owner": "JopStro",
                     "repo": "BalatroMods",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3388,12 +4494,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3404,12 +4515,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Useful hotkeys for video game Balatro",
+                    "homepage": null,
                     "id": 775072847,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-09-15T14:51:09Z",
+                    "open_issues": 2,
                     "owner": "Agoraaa",
                     "repo": "FlushHotkeys",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "hotkey"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3420,12 +4540,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 778884557,
                     "language": "Lua",
+                    "license": "Unlicense",
                     "last_commit": "2024-03-28T15:53:20Z",
+                    "open_issues": 1,
                     "owner": "System-of-Root",
                     "repo": "Roots_Balatro_Mods",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3443,12 +4568,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is silly",
+                    "homepage": null,
                     "id": 765859358,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-08-21T11:04:57Z",
+                    "open_issues": 2,
                     "owner": "HeyImKyu",
                     "repo": "balatro-gay",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3459,12 +4589,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A mod for the Balatro video game. Adds a button to deselect all highlighted cards.",
+                    "homepage": null,
                     "id": 809292002,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-11T12:04:40Z",
+                    "open_issues": 0,
                     "owner": "Zei33",
                     "repo": "deselect-all-balamod",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3475,12 +4610,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Stop accidentally ruining your Balatro games! Use this mod to prevent disaster.",
+                    "homepage": "https://hex.pro",
                     "id": 794044346,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-11T12:05:25Z",
+                    "open_issues": 1,
                     "owner": "Zei33",
                     "repo": "balatro-safety-balamod",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3498,12 +4638,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3514,12 +4659,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3530,12 +4680,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3546,12 +4701,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of mods for Balatro",
+                    "homepage": null,
                     "id": 774617493,
                     "language": "Lua",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2024-05-06T20:05:51Z",
+                    "open_issues": 1,
                     "owner": "JopStro",
                     "repo": "BalatroMods",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3562,12 +4722,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 764245428,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-14T19:09:50Z",
+                    "open_issues": 1,
                     "owner": "GoldenEpsilon",
                     "repo": "ShamPack",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3578,12 +4743,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Slutty joker idea taken from reddit",
+                    "homepage": null,
                     "id": 766539573,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2024-03-18T21:31:59Z",
+                    "open_issues": 0,
                     "owner": "HeyImKyu",
                     "repo": "balatro-slutty-joker",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3601,12 +4771,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3624,12 +4799,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro Mod adding new Seal effects and Spectral cards.",
+                    "homepage": null,
                     "id": 778447681,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-08-22T20:16:38Z",
+                    "open_issues": 0,
                     "owner": "jacobr1227",
                     "repo": "double_seals",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3640,12 +4820,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro Mod adding new Seal effects and Spectral cards.",
+                    "homepage": null,
                     "id": 778447681,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-08-22T20:16:38Z",
+                    "open_issues": 0,
                     "owner": "jacobr1227",
                     "repo": "double_seals",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3656,12 +4841,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro Mod adding new Seal effects and Spectral cards.",
+                    "homepage": null,
                     "id": 778447681,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2024-08-22T20:16:38Z",
+                    "open_issues": 0,
                     "owner": "jacobr1227",
                     "repo": "double_seals",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3679,12 +4869,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3702,12 +4897,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3725,12 +4925,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A complete rework of the French translations of the game. Made by the community.",
+                    "homepage": null,
                     "id": 761400253,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2025-08-24T22:34:31Z",
+                    "open_issues": 5,
                     "owner": "FrBmt-BIGetNouf",
                     "repo": "balatro-french-translations",
-                    "stars": 18
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3748,12 +4953,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "collection of balatro mods",
+                    "homepage": null,
                     "id": 765467007,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-10-28T18:18:45Z",
+                    "open_issues": 0,
                     "owner": "nicholassam6425",
                     "repo": "balatro-mods",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3767,12 +4977,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Modloader/Injector/Decompiler that supports ingame code injection for Balatro (Linux/Windows/Mac)",
+            "homepage": "https://balamod.github.io",
             "id": 731795154,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-11T11:09:03Z",
+            "open_issues": 10,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "balamod",
+              "balatro",
+              "mod",
+              "modding",
+              "modloader"
+            ]
           },
           "title": "Mods (Require Balamod)",
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -3788,12 +5009,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A mod to enhance high-scoring runs",
+                    "homepage": null,
                     "id": 802280847,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-15T03:16:39Z",
+                    "open_issues": 40,
                     "owner": "SpectralPack",
                     "repo": "Talisman",
-                    "stars": 145
+                    "stars": 145,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3804,12 +5030,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro Quality-of-Life Mod",
+                    "homepage": null,
                     "id": 796113541,
                     "language": "Lua",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-06-15T15:59:47Z",
+                    "open_issues": 45,
                     "owner": "OceanRamen",
                     "repo": "Brainstorm",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3820,12 +5051,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "typist - a keyboard driven UX mod for the poker rogue-lite game Balatro",
+                    "homepage": null,
                     "id": 937939564,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-22T15:20:42Z",
+                    "open_issues": 1,
                     "owner": "kasimeka",
                     "repo": "balatro-typist-mod",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": [
+                      "balatro",
+                      "keyboards",
+                      "lua",
+                      "modding",
+                      "vim"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3836,12 +5078,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro seed search mod with native C search engine",
+                    "homepage": null,
                     "id": 1175050857,
                     "language": "Lua",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-07-17T03:21:35Z",
+                    "open_issues": 0,
                     "owner": "lafiosca",
                     "repo": "GreenNeedle",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3852,12 +5099,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ASS is a Lovely mod for Balatro that allows you to set your screenshake unreasonably high.",
+                    "homepage": null,
                     "id": 1066059929,
                     "language": "Lua",
+                    "license": "MIT",
                     "last_commit": "2026-02-26T03:32:43Z",
+                    "open_issues": 0,
                     "owner": "developerrowan",
                     "repo": "AmplifiedScreenShake",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3868,12 +5120,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro mod: toggle a forced alternative game speed while playing a blind. Lovely-only, no Steamodded required.",
+                    "homepage": null,
                     "id": 1318301190,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-31T12:01:33Z",
+                    "open_issues": 0,
                     "owner": "PixeledLobster",
                     "repo": "Balatro-Alternative-Speed-Toggle",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "accessibility",
+                      "balatro",
+                      "lovely",
+                      "mod",
+                      "quality-of-life"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3884,12 +5147,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro mod: an in-run panel with buttons to select any poker hand, suit or combination in one click. Keyboard-driven, rebindable, Lovely-only.",
+                    "homepage": null,
                     "id": 1319384894,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-01T15:09:02Z",
+                    "open_issues": 0,
                     "owner": "PixeledLobster",
                     "repo": "Quick-Hand-Selector",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": [
+                      "accessibility",
+                      "balatro",
+                      "lovely",
+                      "mod",
+                      "quality-of-life"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3907,12 +5181,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple Balatro mod that displays information such as modifiers or relevant hands, ranks or suits under Jokers.",
+                    "homepage": null,
                     "id": 802691875,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-25T02:04:17Z",
+                    "open_issues": 5,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 159
+                    "stars": 159,
+                    "topics": [
+                      "balatro"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3923,12 +5204,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Balatro mod that handles texture packs",
+                    "homepage": null,
                     "id": 879950776,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-31T21:26:55Z",
+                    "open_issues": 28,
                     "owner": "Eremel",
                     "repo": "Malverk",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3939,12 +5225,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro mod that improves legibility of in-game texts and cards by making everything smooth.",
+                    "homepage": null,
                     "id": 779271785,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2025-02-25T09:18:09Z",
+                    "open_issues": 3,
                     "owner": "bladeSk",
                     "repo": "readabletro",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3955,12 +5246,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"Use\" a planet card while the cash-out animations play.",
+                    "homepage": null,
                     "id": 919664505,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-01-21T02:34:52Z",
+                    "open_issues": 0,
                     "owner": "antler5",
                     "repo": "Balatro-Planet-Card-Cash-Out-Mod",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -3978,12 +5274,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro mod with quality of life deck & UI optimizations",
+                    "homepage": null,
                     "id": 824175635,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-03T18:28:33Z",
+                    "open_issues": 7,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
-                    "stars": 76
+                    "stars": 76,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -3994,12 +5295,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Balatro mod that makes Blueprint joker dynamically change texture to the card it's copying",
+                    "homepage": null,
                     "id": 862946710,
                     "language": "Lua",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-07-25T20:51:13Z",
+                    "open_issues": 4,
                     "owner": "stupxd",
                     "repo": "Blueprint",
-                    "stars": 66
+                    "stars": 66,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -4010,12 +5316,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "#1 Victory Royale!",
+                    "homepage": null,
                     "id": 801175402,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-05-15T18:33:42Z",
+                    "open_issues": 0,
                     "owner": "MOONLIT3",
                     "repo": "balatro_victory_royale",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -4026,12 +5337,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Klondike Solitaire mod for Balatro (Lovely injector / Steamodded)",
+                    "homepage": null,
                     "id": 1295275321,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-09T13:19:07Z",
+                    "open_issues": 1,
                     "owner": "bryanthaboi",
                     "repo": "solatro",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -4042,12 +5358,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "When the impostor is Sun",
+                    "homepage": null,
                     "id": 801203044,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-05-15T19:42:03Z",
+                    "open_issues": 0,
                     "owner": "MOONLIT3",
                     "repo": "sun_is_sus",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -4065,12 +5386,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is my own Russian localization for Balatro",
+                    "homepage": null,
                     "id": 770553664,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-03-30T23:48:08Z",
+                    "open_issues": 2,
                     "owner": "Nitablade",
                     "repo": "Balatro_ProperRussian",
-                    "stars": 124
+                    "stars": 124,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -4088,12 +5414,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Better Debug Tools for Balatro",
+                    "homepage": null,
                     "id": 785482440,
                     "language": "Lua",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-15T07:29:53Z",
+                    "open_issues": 12,
                     "owner": "WilsontheWolf",
                     "repo": "DebugPlus",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -4104,12 +5435,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Misc Balatro Mods",
+                    "homepage": null,
                     "id": 776135245,
                     "language": "Lua",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-07-03T00:06:25Z",
+                    "open_issues": 0,
                     "owner": "WilsontheWolf",
                     "repo": "balatro-mods",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 }
@@ -4123,12 +5459,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A runtime lua injector for games built with LÖVE",
+            "homepage": null,
             "id": 767195324,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:45:12Z",
+            "open_issues": 39,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 589
+            "stars": 589,
+            "topics": []
           },
           "title": "Mods (Require Lovely)",
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4138,15 +5479,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:41:35.075Z",
+    "last_updated": "2026-08-29T04:33:13.894Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of Balatro Mods and Tools",
+      "homepage": null,
       "id": 765516608,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-15T03:16:39Z",
+      "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1252
+      "stars": 1252,
+      "topics": [
+        "awesome",
+        "balatro"
+      ]
     },
     "original_repository_sha": "9853ab852ebd6f42254cdc1d3ef85e76a0568f75",
     "enhanced_repository": "enhansome/enhansome-balatro",

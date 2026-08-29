@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,739 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,738 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 162 | 🐛 22 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
