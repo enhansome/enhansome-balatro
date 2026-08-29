@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1738,
+            "stars": 1737,
             "topics": [
               "android",
               "balatro",
@@ -5084,7 +5084,7 @@
                     "language": "Lua",
                     "license": "MPL-2.0",
                     "last_commit": "2026-07-17T03:21:35Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "lafiosca",
                     "repo": "GreenNeedle",
                     "stars": 2,
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:33:13.894Z",
+    "last_updated": "2026-08-29T19:30:07.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
