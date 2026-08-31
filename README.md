@@ -16,7 +16,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Balatro-blue?logo=discord)](https://discord.gg/balatro)
 [![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=fandom)](https://balatrogame.fandom.com/)
 
-English | [简体中文](https://github.com/jie65535/awesome-balatro/blob/Chinese/README-zh_CN.md) ⭐ 1,253 | 🐛 5 | 📅 2026-08-15
+English | [简体中文](https://github.com/jie65535/awesome-balatro/blob/Chinese/README-zh_CN.md) ⭐ 1,254 | 🐛 5 | 📅 2026-08-15
 
 Collect all Balatro mods and tools, welcome to add!
 
@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,738 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,741 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 162 | 🐛 22 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
@@ -101,12 +101,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 961 | 🐛 112 | 🌐 Lua | 📅 2026-08-29 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 961 | 🐛 115 | 🌐 Lua | 📅 2026-08-29 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 * [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 589 | 🐛 39 | 🌐 Rust | 📅 2026-08-24 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 156 | 🐛 10 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 961 | 🐛 112 | 🌐 Lua | 📅 2026-08-29)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 961 | 🐛 115 | 🌐 Lua | 📅 2026-08-29)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -172,7 +172,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [Pauper Deck](https://github.com/AiksiLotl/Pauper-Deck) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-01-22 - Shop has no Jokers. Open a Jumbo Pack after each Blind. Only Jokers earn you money. by [@AiksiLotl](https://github.com/AiksiLotl)
 * [Deck Inversion Challenge Konfiguration](https://github.com/tgreenmonkey/Deck-Inversion-Challenge-Konfiguration) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-04-01 - Replaces all vanilla decks with inversed versions of them! by [@tgreenmonkey](https://github.com/tgreenmonkey)
 * [DNA Splice Deck](https://github.com/jlwoolf/DNASplice) ⭐ 0 | 🐛 1 | 🌐 Lua | 📅 2025-03-16 - Adds a deck that gives a DNA joker at run start. by [@jlwoolf](https://github.com/jlwoolf)
-* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 332 | 🐛 64 | 🌐 Lua | 📅 2026-08-20. by [@jacksoncmu](https://github.com/jacksoncmu)
+* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 333 | 🐛 64 | 🌐 Lua | 📅 2026-08-20. by [@jacksoncmu](https://github.com/jacksoncmu)
 * [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains **one Ace of each suit**! by `@Chamels`, `@UnknownEternity`
 * [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
 * [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free **mega standard packs**. by `@Rose Happy`
@@ -220,9 +220,9 @@ Collect all Balatro mods and tools, welcome to add!
 
 * [Stickers Always Shown](https://github.com/SirMaiquis/Balatro-Stickers-Always-Shown) ⭐ 18 | 🐛 0 | 🌐 Lua | 📅 2025-04-23 - The joker's stickers are always shown!. by [@SirMaiquis](https://github.com/SirMaiquis)
 
-* [Hermit Level Up](https://www.nexusmods.com/balatro/mods/331) | [github](https://github.com/LnxFCA/balatro-mods/tree/main/hermit-level-up) ⭐ 16 | 🐛 2 | 🌐 Lua | 📅 2026-07-18 - Adds a level system for **The Hermit**, increasing its money cap with each level. by [@LnxFCA](https://github.com/LnxFCA) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
+* [Hermit Level Up](https://www.nexusmods.com/balatro/mods/331) | [github](https://github.com/LnxFCA/balatro-mods/tree/main/hermit-level-up) ⭐ 17 | 🐛 2 | 🌐 Lua | 📅 2026-07-18 - Adds a level system for **The Hermit**, increasing its money cap with each level. by [@LnxFCA](https://github.com/LnxFCA) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 
-* [lock-the-deal](https://github.com/LnxFCA/balatro-mods/tree/main/lock-the-deal) ⭐ 16 | 🐛 2 | 🌐 Lua | 📅 2026-07-18 - Allows locking of a joker, tarot card or planet card in shop to be purchased later. [@LnxFCA](https://github.com/LnxFCA) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
+* [lock-the-deal](https://github.com/LnxFCA/balatro-mods/tree/main/lock-the-deal) ⭐ 17 | 🐛 2 | 🌐 Lua | 📅 2026-07-18 - Allows locking of a joker, tarot card or planet card in shop to be purchased later. [@LnxFCA](https://github.com/LnxFCA) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 
 * [Milck QOL](https://github.com/Mi1cK/Milcks-QOL) ⭐ 16 | 🐛 9 | 🌐 Lua | 📅 2024-04-03 - Add keyboard shortcuts to the game. by [Milck](https://github.com/Mi1cK)
 
@@ -347,7 +347,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 * [LobotomyCorp](https://github.com/Mysthaps/LobotomyCorp) ⭐ 26 | 🐛 6 | 🌐 Lua | 📅 2026-06-15 - A Balatro mod. Face the Fear, Build the Future. by [@Mysthaps](https://github.com/Mysthaps)
 
-* [Sculio](https://github.com/crmykybord/Sculio) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-07-28 - A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by [@crmykybord](https://github.com/crmykybord)
+* [Sculio](https://github.com/crmykybord/Sculio) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-08-31 - A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by [@crmykybord](https://github.com/crmykybord)
 
 * [JankJonklers](https://github.com/spikeof2010/JankJonklers) ⭐ 21 | 🐛 8 | 🌐 Lua | 📅 2025-02-16 - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 
@@ -609,7 +609,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Functional
 
 * [Talisman](https://github.com/MathIsFun0/Talisman) ⚠️ Archived | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from \~10^308 to \~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun\_](https://github.com/mathisfun0) <img src="https://img.shields.io/badge/occasional%20crashes-smods%20v1.0.0-orange" align="center">
-* [Brainstorm](https://github.com/OceanRamen/Brainstorm) ⭐ 131 | 🐛 45 | 🌐 Lua | 📅 2026-06-15 | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
+* [Brainstorm](https://github.com/OceanRamen/Brainstorm) ⭐ 132 | 🐛 45 | 🌐 Lua | 📅 2026-06-15 | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
 * [typist](https://github.com/kasimeka/balatro-typist-mod) ⭐ 27 | 🐛 1 | 🌐 Lua | 📅 2026-08-22 - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
 * [Green Needle](https://github.com/lafiosca/GreenNeedle) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2026-07-17 - Green Needle is a powerful seed search mod inspired by Brainstorm, with multi-platform native search engine. by [@lafiosca](https://github.com/lafiosca)
 * [Advanced Screen Shake](https://github.com/developerrowan/AmplifiedScreenShake) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-02-26 - Advanced Screen Shake is a mod that allows you to set the level of your screenshake unreasonably high. by [@DeveloperRowan](https://github.com/developerrowan)
@@ -618,7 +618,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### GUI
 
-* [JokerDisplay](https://github.com/nh6574/JokerDisplay) ⭐ 159 | 🐛 5 | 🌐 Lua | 📅 2026-08-29 - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
+* [JokerDisplay](https://github.com/nh6574/JokerDisplay) ⭐ 160 | 🐛 5 | 🌐 Lua | 📅 2026-08-29 - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
 * [Malverk](https://github.com/Eremel/Malverk) ⭐ 53 | 🐛 28 | 🌐 Lua | 📅 2026-07-31 - Malverk is an all-in-one texture manager. With an inbuilt API for AltTextures and TexturePacks, Malverk integrates a simple UI to customise which textures are applied to your game whenever you wish. by [@Eremel\_](https://github.com/Eremel)
 * [Readabletro](https://github.com/bladeSk/readabletro) ⭐ 33 | 🐛 3 | 🌐 Lua | 📅 2025-02-25 - Readabletro improves readability of the game, especially on lower res screens (Steam Deck) by using a more legible vector typeface and smoothly upscaled card textures. by [@bladeSk](https://github.com/bladeSk)
 * [Planet Card Cash-Out Mod](https://github.com/antler5/Balatro-Planet-Card-Cash-Out-Mod) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2025-01-21 [discord](https://discord.com/channels/1116389027176787968/1331076935362547833) - "Use" a planet card while the cash-out animations play. by [@antler5](https://github.com/antler5)
@@ -674,4 +674,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

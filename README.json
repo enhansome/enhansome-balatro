@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1738,
+            "stars": 1741,
             "topics": [
               "android",
               "balatro",
@@ -411,7 +411,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-08-29T20:49:01Z",
-            "open_issues": 112,
+            "open_issues": 115,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 961,
@@ -1553,7 +1553,7 @@
                     "open_issues": 2,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -1581,7 +1581,7 @@
                     "open_issues": 2,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 16,
+                    "stars": 17,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -2859,7 +2859,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-07-28T21:21:51Z",
+                    "last_commit": "2026-08-31T12:37:17Z",
                     "open_issues": 0,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4264,7 +4264,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-08-29T20:49:01Z",
-            "open_issues": 112,
+            "open_issues": 115,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 961,
@@ -5039,7 +5039,7 @@
                     "open_issues": 45,
                     "owner": "OceanRamen",
                     "repo": "Brainstorm",
-                    "stars": 131,
+                    "stars": 132,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5190,7 +5190,7 @@
                     "open_issues": 5,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 159,
+                    "stars": 160,
                     "topics": [
                       "balatro"
                     ]
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:26:11.270Z",
+    "last_updated": "2026-08-31T21:37:30.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5491,7 +5491,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1253,
+      "stars": 1254,
       "topics": [
         "awesome",
         "balatro"
