@@ -334,7 +334,7 @@
             "language": "Swift",
             "license": null,
             "last_commit": "2026-08-10T01:56:48Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "alex-cova",
             "repo": "perkeoapp",
             "stars": 6,
@@ -435,7 +435,7 @@
             "open_issues": 39,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 590,
+            "stars": 591,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1408,7 +1408,7 @@
                     "open_issues": 4,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
-                    "stars": 140,
+                    "stars": 141,
                     "topics": [
                       "balatro",
                       "lovely",
@@ -5468,7 +5468,7 @@
             "open_issues": 39,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 590,
+            "stars": 591,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:35:11.928Z",
+    "last_updated": "2026-09-02T19:29:34.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
