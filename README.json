@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "android",
               "balatro",
@@ -160,7 +160,7 @@
             "open_issues": 0,
             "owner": "kleinfreund",
             "repo": "balatrolator",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "balatro",
               "calculator"
@@ -410,11 +410,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T19:03:43Z",
-            "open_issues": 115,
+            "last_commit": "2026-09-05T17:37:01Z",
+            "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 964,
+            "stars": 965,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1405,7 +1405,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-24T02:29:53Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
                     "stars": 141,
@@ -2036,6 +2036,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Always Show Seed rekindled",
+                  "description": "Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by @RakibRyan",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "shows seed of current run",
+                    "homepage": null,
+                    "id": 1258245704,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2026-06-03T13:13:51Z",
+                    "open_issues": 0,
+                    "owner": "RakibRyan",
+                    "repo": "always-show-seed-rekindled-balatro",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Aurinko",
                   "description": "Lets plant cards generate with editions by @MathIsFun0",
                   "children": [],
@@ -2072,27 +2093,6 @@
                     "owner": "MOONLIT3",
                     "repo": "metal_card_falling",
                     "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Always Show Seed rekindled",
-                  "description": "Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by @RakibRyan",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "shows seed of current run",
-                    "homepage": null,
-                    "id": 1258245704,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2026-06-03T13:13:51Z",
-                    "open_issues": 0,
-                    "owner": "RakibRyan",
-                    "repo": "always-show-seed-rekindled-balatro",
-                    "stars": 0,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2859,7 +2859,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-04T13:51:12Z",
+                    "last_commit": "2026-09-05T06:14:29Z",
                     "open_issues": 0,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4263,11 +4263,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-04T19:03:43Z",
-            "open_issues": 115,
+            "last_commit": "2026-09-05T17:37:01Z",
+            "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 964,
+            "stars": 965,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5186,7 +5186,7 @@
                     "id": 802691875,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-29T22:26:07Z",
+                    "last_commit": "2026-09-05T15:55:02Z",
                     "open_issues": 5,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:08:02.330Z",
+    "last_updated": "2026-09-05T18:34:10.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5491,7 +5491,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1257,
+      "stars": 1258,
       "topics": [
         "awesome",
         "balatro"
