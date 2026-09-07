@@ -47,7 +47,7 @@
             "open_issues": 22,
             "owner": "SpectralPack",
             "repo": "Immolate",
-            "stars": 162,
+            "stars": 163,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -411,7 +411,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-09-05T23:17:02Z",
-            "open_issues": 117,
+            "open_issues": 119,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 966,
@@ -432,7 +432,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-24T20:45:12Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
             "stars": 595,
@@ -1408,7 +1408,7 @@
                     "open_issues": 5,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
-                    "stars": 141,
+                    "stars": 142,
                     "topics": [
                       "balatro",
                       "lovely",
@@ -2162,7 +2162,7 @@
                     "open_issues": 10,
                     "owner": "DivvyCr",
                     "repo": "Balatro-Preview",
-                    "stars": 158,
+                    "stars": 157,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4264,7 +4264,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-09-05T23:17:02Z",
-            "open_issues": 117,
+            "open_issues": 119,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 966,
@@ -5190,7 +5190,7 @@
                     "open_issues": 5,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 160,
+                    "stars": 161,
                     "topics": [
                       "balatro"
                     ]
@@ -5465,7 +5465,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-24T20:45:12Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
             "stars": 595,
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:37:49.875Z",
+    "last_updated": "2026-09-07T20:08:54.884Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
