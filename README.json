@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1751,
+            "stars": 1752,
             "topics": [
               "android",
               "balatro",
@@ -410,11 +410,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T19:22:44Z",
-            "open_issues": 124,
+            "last_commit": "2026-09-10T01:12:12Z",
+            "open_issues": 127,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 966,
+            "stars": 965,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4263,11 +4263,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T19:22:44Z",
-            "open_issues": 124,
+            "last_commit": "2026-09-10T01:12:12Z",
+            "open_issues": 127,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 966,
+            "stars": 965,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5186,8 +5186,8 @@
                     "id": 802691875,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-08T22:28:38Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-09-09T21:56:48Z",
+                    "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
                     "stars": 161,
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T19:28:43.566Z",
+    "last_updated": "2026-09-10T19:15:27.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
