@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1752,
+            "stars": 1753,
             "topics": [
               "android",
               "balatro",
@@ -410,8 +410,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T01:12:12Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-10T23:10:47Z",
+            "open_issues": 128,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 965,
@@ -1910,6 +1910,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Always Show Seed rekindled",
+                  "description": "Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by @RakibRyan",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "shows seed of current run",
+                    "homepage": null,
+                    "id": 1258245704,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2026-06-03T13:13:51Z",
+                    "open_issues": 0,
+                    "owner": "RakibRyan",
+                    "repo": "always-show-seed-rekindled-balatro",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "GameSpeed Display and Spacereroll",
                   "description": "Always display the speed. Press the shift key to change speed and space key to reroll in shop, also disable the FPS display. by @snowylight",
                   "children": [],
@@ -2029,27 +2050,6 @@
                     "open_issues": 0,
                     "owner": "encarvlucas",
                     "repo": "EncarvlucasBalatroMods",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Always Show Seed rekindled",
-                  "description": "Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by @RakibRyan",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "shows seed of current run",
-                    "homepage": null,
-                    "id": 1258245704,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2026-06-03T13:13:51Z",
-                    "open_issues": 0,
-                    "owner": "RakibRyan",
-                    "repo": "always-show-seed-rekindled-balatro",
                     "stars": 1,
                     "topics": []
                   },
@@ -2483,7 +2483,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-08T16:51:30Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "HuyTheKiller",
                     "repo": "SilkTouch",
                     "stars": 9,
@@ -2859,7 +2859,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-09T03:22:02Z",
+                    "last_commit": "2026-09-11T03:29:48Z",
                     "open_issues": 0,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4263,8 +4263,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T01:12:12Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-10T23:10:47Z",
+            "open_issues": 128,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 965,
@@ -5190,7 +5190,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 161,
+                    "stars": 163,
                     "topics": [
                       "balatro"
                     ]
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:15:27.338Z",
+    "last_updated": "2026-09-11T19:17:03.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
