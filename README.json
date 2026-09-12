@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1753,
+            "stars": 1754,
             "topics": [
               "android",
               "balatro",
@@ -47,7 +47,7 @@
             "open_issues": 22,
             "owner": "SpectralPack",
             "repo": "Immolate",
-            "stars": 163,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -410,8 +410,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T23:10:47Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-11T22:02:50Z",
+            "open_issues": 129,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 965,
@@ -1518,27 +1518,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Stickers Always Shown",
-                  "description": "The joker's stickers are always shown!. by @SirMaiquis",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Welcome to the \"Stickers Always Shown\" mod repository for Balatro! This mod is designed to enhance your gameplay experience by ensuring that stickers remain visible on the Jokers at all times during a run. This feature is particularly beneficial for players aiming to achieve the Completionist++ achievement.",
-                    "homepage": null,
-                    "id": 793213354,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2025-04-23T05:52:14Z",
-                    "open_issues": 0,
-                    "owner": "SirMaiquis",
-                    "repo": "Balatro-Stickers-Always-Shown",
-                    "stars": 18,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Hermit Level Up",
                   "description": "github - Adds a level system for The Hermit, increasing its money cap with each level. by @LnxFCA",
                   "children": [],
@@ -1550,10 +1529,10 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-07-18T23:09:32Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -1578,10 +1557,10 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-07-18T23:09:32Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -1590,6 +1569,27 @@
                       "smods",
                       "steamodded"
                     ]
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Stickers Always Shown",
+                  "description": "The joker's stickers are always shown!. by @SirMaiquis",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Welcome to the \"Stickers Always Shown\" mod repository for Balatro! This mod is designed to enhance your gameplay experience by ensuring that stickers remain visible on the Jokers at all times during a run. This feature is particularly beneficial for players aiming to achieve the Completionist++ achievement.",
+                    "homepage": null,
+                    "id": 793213354,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2025-04-23T05:52:14Z",
+                    "open_issues": 0,
+                    "owner": "SirMaiquis",
+                    "repo": "Balatro-Stickers-Always-Shown",
+                    "stars": 18,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -4263,8 +4263,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-10T23:10:47Z",
-            "open_issues": 128,
+            "last_commit": "2026-09-11T22:02:50Z",
+            "open_issues": 129,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 965,
@@ -5186,7 +5186,7 @@
                     "id": 802691875,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-09T21:56:48Z",
+                    "last_commit": "2026-09-12T17:56:18Z",
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
@@ -5280,7 +5280,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-04T03:27:14Z",
-                    "open_issues": 5,
+                    "open_issues": 6,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
                     "stars": 76,
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:17:03.207Z",
+    "last_updated": "2026-09-12T18:45:07.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
