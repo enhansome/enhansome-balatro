@@ -257,6 +257,30 @@
         },
         {
           "node_type": "item",
+          "title": "Motely",
+          "description": "A C# CPU SIMD seed searcher for Balatro. by @tacodiva",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fast SIMD seed searcher for Balatro",
+            "homepage": null,
+            "id": 918890827,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2025-12-04T05:08:39Z",
+            "open_issues": 1,
+            "owner": "Tacodiva",
+            "repo": "Motely",
+            "stars": 10,
+            "topics": [
+              "balatro",
+              "seed-searcher"
+            ]
+          },
+          "first_seen": "2026-08-29T00:41:35.075Z"
+        },
+        {
+          "node_type": "item",
           "title": "Balatro.antihypertensive",
           "description": "Save Manager for Balatro, macOS only. by @miku1958",
           "children": [],
@@ -273,30 +297,6 @@
             "repo": "Balatro.antihypertensive",
             "stars": 9,
             "topics": []
-          },
-          "first_seen": "2026-08-29T00:41:35.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Motely",
-          "description": "A C# CPU SIMD seed searcher for Balatro. by @tacodiva",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A fast SIMD seed searcher for Balatro",
-            "homepage": null,
-            "id": 918890827,
-            "language": "C#",
-            "license": null,
-            "last_commit": "2025-12-04T05:08:39Z",
-            "open_issues": 1,
-            "owner": "Tacodiva",
-            "repo": "Motely",
-            "stars": 9,
-            "topics": [
-              "balatro",
-              "seed-searcher"
-            ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -410,11 +410,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T22:02:50Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-14T07:01:09Z",
+            "open_issues": 134,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 966,
+            "stars": 967,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -432,7 +432,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-24T20:45:12Z",
-            "open_issues": 41,
+            "open_issues": 40,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
             "stars": 597,
@@ -1528,8 +1528,8 @@
                     "id": 911502312,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-07-18T23:09:32Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-14T16:54:29Z",
+                    "open_issues": 1,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
                     "stars": 18,
@@ -1556,8 +1556,8 @@
                     "id": 911502312,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-07-18T23:09:32Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-09-14T16:54:29Z",
+                    "open_issues": 1,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
                     "stars": 18,
@@ -2486,7 +2486,7 @@
                     "open_issues": 2,
                     "owner": "HuyTheKiller",
                     "repo": "SilkTouch",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4145,7 +4145,7 @@
                     "open_issues": 5,
                     "owner": "FrBmt-BIGetNouf",
                     "repo": "balatro-french-translations",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4263,11 +4263,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T22:02:50Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-14T07:01:09Z",
+            "open_issues": 134,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 966,
+            "stars": 967,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -4934,7 +4934,7 @@
                     "open_issues": 5,
                     "owner": "FrBmt-BIGetNouf",
                     "repo": "balatro-french-translations",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5190,7 +5190,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 164,
+                    "stars": 165,
                     "topics": [
                       "balatro"
                     ]
@@ -5465,7 +5465,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-24T20:45:12Z",
-            "open_issues": 41,
+            "open_issues": 40,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
             "stars": 597,
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:56:29.562Z",
+    "last_updated": "2026-09-14T20:33:25.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
