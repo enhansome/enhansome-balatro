@@ -47,7 +47,7 @@
             "open_issues": 22,
             "owner": "SpectralPack",
             "repo": "Immolate",
-            "stars": 164,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -410,11 +410,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T07:01:09Z",
+            "last_commit": "2026-09-15T15:47:32Z",
             "open_issues": 134,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 967,
+            "stars": 968,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2859,7 +2859,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-11T03:29:48Z",
+                    "last_commit": "2026-09-15T13:14:58Z",
                     "open_issues": 0,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4263,11 +4263,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-14T07:01:09Z",
+            "last_commit": "2026-09-15T15:47:32Z",
             "open_issues": 134,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 967,
+            "stars": 968,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5190,7 +5190,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 165,
+                    "stars": 166,
                     "topics": [
                       "balatro"
                     ]
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:33:25.583Z",
+    "last_updated": "2026-09-15T19:49:18.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
