@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1756,
+            "stars": 1755,
             "topics": [
               "android",
               "balatro",
@@ -410,11 +410,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T15:47:32Z",
+            "last_commit": "2026-09-17T14:27:59Z",
             "open_issues": 137,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 969,
+            "stars": 970,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -435,7 +435,7 @@
             "open_issues": 39,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 597,
+            "stars": 599,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2854,12 +2854,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers)",
+                    "description": "A vanilla-esque mod that aims to add new and faithful content to Balatro",
                     "homepage": null,
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-16T12:18:44Z",
+                    "last_commit": "2026-09-17T06:41:15Z",
                     "open_issues": 0,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4263,11 +4263,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T15:47:32Z",
+            "last_commit": "2026-09-17T14:27:59Z",
             "open_issues": 137,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 969,
+            "stars": 970,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5057,7 +5057,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-22T15:20:42Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "kasimeka",
                     "repo": "balatro-typist-mod",
                     "stars": 27,
@@ -5468,7 +5468,7 @@
             "open_issues": 39,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 597,
+            "stars": 599,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:41:32.839Z",
+    "last_updated": "2026-09-17T19:51:00.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5491,7 +5491,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1261,
+      "stars": 1260,
       "topics": [
         "awesome",
         "balatro"

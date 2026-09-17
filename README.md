@@ -16,7 +16,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Balatro-blue?logo=discord)](https://discord.gg/balatro)
 [![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=fandom)](https://balatrogame.fandom.com/)
 
-English | [简体中文](https://github.com/jie65535/awesome-balatro/blob/Chinese/README-zh_CN.md) ⭐ 1,261 | 🐛 5 | 📅 2026-08-15
+English | [简体中文](https://github.com/jie65535/awesome-balatro/blob/Chinese/README-zh_CN.md) ⭐ 1,260 | 🐛 5 | 📅 2026-08-15
 
 Collect all Balatro mods and tools, welcome to add!
 
@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,756 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,755 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 165 | 🐛 22 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
@@ -101,12 +101,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 969 | 🐛 137 | 🌐 Lua | 📅 2026-09-15 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
-* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 597 | 🐛 39 | 🌐 Rust | 📅 2026-08-24 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 970 | 🐛 137 | 🌐 Lua | 📅 2026-09-17 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 599 | 🐛 39 | 🌐 Rust | 📅 2026-08-24 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 158 | 🐛 9 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 969 | 🐛 137 | 🌐 Lua | 📅 2026-09-15)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 970 | 🐛 137 | 🌐 Lua | 📅 2026-09-17)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -347,7 +347,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 * [LobotomyCorp](https://github.com/Mysthaps/LobotomyCorp) ⭐ 26 | 🐛 6 | 🌐 Lua | 📅 2026-06-15 - A Balatro mod. Face the Fear, Build the Future. by [@Mysthaps](https://github.com/Mysthaps)
 
-* [Sculio](https://github.com/crmykybord/Sculio) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-09-16 - A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by [@crmykybord](https://github.com/crmykybord)
+* [Sculio](https://github.com/crmykybord/Sculio) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-09-17 - A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by [@crmykybord](https://github.com/crmykybord)
 
 * [JankJonklers](https://github.com/spikeof2010/JankJonklers) ⭐ 21 | 🐛 8 | 🌐 Lua | 📅 2025-02-16 - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 
@@ -600,7 +600,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 597 | 🐛 39 | 🌐 Rust | 📅 2026-08-24)
+## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 599 | 🐛 39 | 🌐 Rust | 📅 2026-08-24)
 
 ### Decks
 
@@ -610,7 +610,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 * [Talisman](https://github.com/MathIsFun0/Talisman) ⚠️ Archived | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from \~10^308 to \~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun\_](https://github.com/mathisfun0) <img src="https://img.shields.io/badge/occasional%20crashes-smods%20v1.0.0-orange" align="center">
 * [Brainstorm](https://github.com/OceanRamen/Brainstorm) ⭐ 132 | 🐛 45 | 🌐 Lua | 📅 2026-06-15 | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
-* [typist](https://github.com/kasimeka/balatro-typist-mod) ⭐ 27 | 🐛 1 | 🌐 Lua | 📅 2026-08-22 - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
+* [typist](https://github.com/kasimeka/balatro-typist-mod) ⭐ 27 | 🐛 2 | 🌐 Lua | 📅 2026-08-22 - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
 * [Green Needle](https://github.com/lafiosca/GreenNeedle) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2026-07-17 - Green Needle is a powerful seed search mod inspired by Brainstorm, with multi-platform native search engine. by [@lafiosca](https://github.com/lafiosca)
 * [Advanced Screen Shake](https://github.com/developerrowan/AmplifiedScreenShake) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-02-26 - Advanced Screen Shake is a mod that allows you to set the level of your screenshake unreasonably high. by [@DeveloperRowan](https://github.com/developerrowan)
 * [Alternative Speed Toggle](https://github.com/PixeledLobster/balatro-alternative-speed-toggle) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-07-31 - Adds a draggable HUD checkbox and rebindable shortcut to force an alternative game speed while playing a blind. by [@PixeledLobster](https://github.com/PixeledLobster)
@@ -674,4 +674,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
