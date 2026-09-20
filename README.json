@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1755,
+            "stars": 1757,
             "topics": [
               "android",
               "balatro",
@@ -410,11 +410,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T14:24:55Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-19T22:18:43Z",
+            "open_issues": 124,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 972,
+            "stars": 971,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1030,7 +1030,7 @@
                     "open_issues": 8,
                     "owner": "JeffVi",
                     "repo": "DX-Tarots",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1408,7 +1408,7 @@
                     "open_issues": 5,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
-                    "stars": 142,
+                    "stars": 143,
                     "topics": [
                       "balatro",
                       "lovely",
@@ -2162,7 +2162,7 @@
                     "open_issues": 10,
                     "owner": "DivvyCr",
                     "repo": "Balatro-Preview",
-                    "stars": 157,
+                    "stars": 158,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2838,7 +2838,7 @@
                     "open_issues": 6,
                     "owner": "Mysthaps",
                     "repo": "LobotomyCorp",
-                    "stars": 26,
+                    "stars": 27,
                     "topics": [
                       "balatro",
                       "lobcorp",
@@ -2859,7 +2859,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-19T13:25:02Z",
+                    "last_commit": "2026-09-20T18:32:35Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4263,11 +4263,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T14:24:55Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-19T22:18:43Z",
+            "open_issues": 124,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 972,
+            "stars": 971,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5190,7 +5190,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 168,
+                    "stars": 171,
                     "topics": [
                       "balatro"
                     ]
@@ -5419,7 +5419,7 @@
                     "id": 785482440,
                     "language": "Lua",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-08-15T07:29:53Z",
+                    "last_commit": "2026-09-20T05:00:12Z",
                     "open_issues": 12,
                     "owner": "WilsontheWolf",
                     "repo": "DebugPlus",
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T18:54:07.700Z",
+    "last_updated": "2026-09-20T19:02:49.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
