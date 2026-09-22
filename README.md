@@ -101,12 +101,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 975 | 🐛 127 | 🌐 Lua | 📅 2026-09-20 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 975 | 🐛 121 | 🌐 Lua | 📅 2026-09-20 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
 * [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 601 | 🐛 39 | 🌐 Rust | 📅 2026-08-24 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 158 | 🐛 9 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 975 | 🐛 127 | 🌐 Lua | 📅 2026-09-20)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 975 | 🐛 121 | 🌐 Lua | 📅 2026-09-20)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -212,7 +212,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 * [Saturn](https://github.com/OceanRamen/Saturn) ⭐ 96 | 🐛 11 | 🌐 Lua | 📅 2026-05-22 - introduces some Quality of Life features for better game experience on endless mode.. by [@OceanRamen](https://github.com/OceanRamen/)
 
-* [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) ⭐ 59 | 🐛 1 | 🌐 Lua | 📅 2025-07-13 - Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by [@Kooluve](https://github.com/Kooluve)
+* [Better Mouse And Gamepad](https://github.com/Kooluve/Better-Mouse-And-Gamepad) ⭐ 60 | 🐛 1 | 🌐 Lua | 📅 2025-07-13 - Make mouse and gamepad more efficient and easier to use. For example multiply select cards by holding and dragging right mouse button. by [@Kooluve](https://github.com/Kooluve)
 
 * [Quick Restart](https://github.com/nicholassam6425/balatro-mods/blob/main/steamodded/mods/quickrestart_steamodded.lua) ⭐ 31 | 🐛 0 | 🌐 Lua | 📅 2025-10-28 - Quickly reroll ante 1 tags by clicking f2. by [@arachnei](https://github.com/nicholassam6425)
 
@@ -618,7 +618,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### GUI
 
-* [JokerDisplay](https://github.com/nh6574/JokerDisplay) ⭐ 171 | 🐛 2 | 🌐 Lua | 📅 2026-09-16 - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
+* [JokerDisplay](https://github.com/nh6574/JokerDisplay) ⭐ 172 | 🐛 2 | 🌐 Lua | 📅 2026-09-22 - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
 * [Malverk](https://github.com/Eremel/Malverk) ⭐ 55 | 🐛 28 | 🌐 Lua | 📅 2026-07-31 - Malverk is an all-in-one texture manager. With an inbuilt API for AltTextures and TexturePacks, Malverk integrates a simple UI to customise which textures are applied to your game whenever you wish. by [@Eremel\_](https://github.com/Eremel)
 * [Readabletro](https://github.com/bladeSk/readabletro) ⭐ 33 | 🐛 3 | 🌐 Lua | 📅 2025-02-25 - Readabletro improves readability of the game, especially on lower res screens (Steam Deck) by using a more legible vector typeface and smoothly upscaled card textures. by [@bladeSk](https://github.com/bladeSk)
 * [Planet Card Cash-Out Mod](https://github.com/antler5/Balatro-Planet-Card-Cash-Out-Mod) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2025-01-21 [discord](https://discord.com/channels/1116389027176787968/1331076935362547833) - "Use" a planet card while the cash-out animations play. by [@antler5](https://github.com/antler5)
@@ -674,4 +674,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

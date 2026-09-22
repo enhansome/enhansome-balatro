@@ -411,7 +411,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-09-20T20:33:46Z",
-            "open_issues": 127,
+            "open_issues": 121,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 975,
@@ -1457,7 +1457,7 @@
                     "open_issues": 1,
                     "owner": "Kooluve",
                     "repo": "Better-Mouse-And-Gamepad",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": [
                       "balatro",
                       "functionality",
@@ -4264,7 +4264,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-09-20T20:33:46Z",
-            "open_issues": 127,
+            "open_issues": 121,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 975,
@@ -5186,11 +5186,11 @@
                     "id": 802691875,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-16T18:32:15Z",
+                    "last_commit": "2026-09-22T02:48:34Z",
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 171,
+                    "stars": 172,
                     "topics": [
                       "balatro"
                     ]
@@ -5479,7 +5479,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:35:22.438Z",
+    "last_updated": "2026-09-22T19:52:53.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
