@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1759,
+            "stars": 1760,
             "topics": [
               "android",
               "balatro",
@@ -391,6 +391,46 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Balatro Save Editor",
+          "description": "Desktop save editor for Windows, macOS and Linux: set money, beat the current blind, set hand mult, raise joker/consumable slots, and edit jokers (type, edition, stickers, sell value). Backs up and validates every write. Built on problemsalved's CLI editor. by @BurntToasters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Balatro save editor: change money, beat the blind, set hand mult, raise slot limits and edit jokers in save.jkr. Windows, macOS (Apple Silicon), Linux.",
+            "homepage": "https://bse.burnttoasters.com/",
+            "id": 1273985531,
+            "language": "Python",
+            "license": "MPL-2.0",
+            "last_commit": "2026-09-24T20:03:14Z",
+            "open_issues": 0,
+            "owner": "BurntToasters",
+            "repo": "balatro-save-editor-gui",
+            "stars": 0,
+            "topics": [
+              "balatro",
+              "balatro-jokers",
+              "balatro-save-editor",
+              "balatro-tools",
+              "cross-platform",
+              "desktop-app",
+              "desktop-gui",
+              "game-save-editor",
+              "game-tools",
+              "gui",
+              "linux",
+              "macos",
+              "python",
+              "pywebview",
+              "save-editor",
+              "save-game-editor",
+              "savegame-editor",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-09-24T20:07:29.543Z"
         }
       ],
       "title": "Tools"
@@ -410,8 +450,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T16:59:16Z",
-            "open_issues": 122,
+            "last_commit": "2026-09-24T07:19:33Z",
+            "open_issues": 124,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 976,
@@ -435,7 +475,7 @@
             "open_issues": 38,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 601,
+            "stars": 603,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2162,7 +2202,7 @@
                     "open_issues": 10,
                     "owner": "DivvyCr",
                     "repo": "Balatro-Preview",
-                    "stars": 158,
+                    "stars": 159,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4263,8 +4303,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T16:59:16Z",
-            "open_issues": 122,
+            "last_commit": "2026-09-24T07:19:33Z",
+            "open_issues": 124,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 976,
@@ -5468,7 +5508,7 @@
             "open_issues": 38,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 601,
+            "stars": 603,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5479,7 +5519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:48:14.400Z",
+    "last_updated": "2026-09-24T20:07:29.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5487,7 +5527,7 @@
       "id": 765516608,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-15T03:16:39Z",
+      "last_commit": "2026-09-24T07:43:42Z",
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
@@ -5497,7 +5537,7 @@
         "balatro"
       ]
     },
-    "original_repository_sha": "9853ab852ebd6f42254cdc1d3ef85e76a0568f75",
+    "original_repository_sha": "d874db6fbfe4c771b19c863760c8adb900534858",
     "enhanced_repository": "enhansome/enhansome-balatro",
     "enhanced_repository_description": null,
     "title": "Awesome-Balatro with stars"

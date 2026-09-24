@@ -16,7 +16,7 @@
 [![Discord](https://img.shields.io/badge/Discord-Balatro-blue?logo=discord)](https://discord.gg/balatro)
 [![WiKi](https://img.shields.io/badge/WiKi-Balatro-blue?logo=fandom)](https://balatrogame.fandom.com/)
 
-English | [简体中文](https://github.com/jie65535/awesome-balatro/blob/Chinese/README-zh_CN.md) ⭐ 1,264 | 🐛 5 | 📅 2026-08-15
+English | [简体中文](https://github.com/jie65535/awesome-balatro/blob/Chinese/README-zh_CN.md) ⭐ 1,264 | 🐛 5 | 📅 2026-09-24
 
 Collect all Balatro mods and tools, welcome to add!
 
@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,759 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,760 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 166 | 🐛 22 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
@@ -92,6 +92,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [PerkeoApp](https://github.com/alex-cova/perkeoapp) ⭐ 6 | 🐛 3 | 🌐 Swift | 📅 2026-08-10 - A Balatro iOS companion app coded in Swift. by [@alex-cova](https://github.com/alex-cova)
 * [JokerDeck](https://github.com/Ch3rryC0d3r/JokerDeck) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-06-05 - A mod manager for Balatro with mod browsing, one-click install, instant enable/disable on browser and locally, dependency detection and more. by [@Ch3rryC0d3r](https://github.com/Ch3rryC0d3r)
 * [Balatrones](https://github.com/bconlon1/Balatrones-Modpack-Manager) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2025-02-28 - Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by [@bconlon1](https://github.com/bconlon1)
+* [Balatro Save Editor](https://github.com/BurntToasters/balatro-save-editor-gui) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-24 - Desktop save editor for Windows, macOS and Linux: set money, beat the current blind, set hand mult, raise joker/consumable slots, and edit jokers (type, edition, stickers, sell value). Backs up and validates every write. Built on problemsalved's CLI editor. by [@BurntToasters](https://github.com/BurntToasters)
 * [Balatro Calculator](https://efhiii.github.io/balatro-calculator/) - Calculate the best score for any Balatro hand. by [@Saffron](https://github.com/efhiii)
 * [Balatro HQ](https://balatrohq.com/) - Web tools for Balatro: a score calculator with side-by-side build comparison, a free seed analyzer with AI playstyle advice, and a seed vault that saves seeds with their build summary and notes. by [@o98k-ok](https://github.com/o98k-ok)
 * [BalatroLab](https://balatrolab.com/) - A bilingual (English/中文) Balatro database companion: 278 searchable cards, consumables, vouchers, decks, and poker hands with local media and source-reviewed relationships, plus a deterministic score calculator, joker synergy finder, unlock tracker, deck builder, and seed vault. by [@Max179](https://github.com/Max179)
@@ -101,12 +102,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 976 | 🐛 122 | 🌐 Lua | 📅 2026-09-23 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
-* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 601 | 🐛 38 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 976 | 🐛 124 | 🌐 Lua | 📅 2026-09-24 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 603 | 🐛 38 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 158 | 🐛 9 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 976 | 🐛 122 | 🌐 Lua | 📅 2026-09-23)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 976 | 🐛 124 | 🌐 Lua | 📅 2026-09-24)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -302,7 +303,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### GUI
 
-* [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) ⭐ 158 | 🐛 10 | 🌐 Lua | 📅 2025-09-26 - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
+* [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) ⭐ 159 | 🐛 10 | 🌐 Lua | 📅 2025-09-26 - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 * [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) ⭐ 63 | 🐛 31 | 🌐 Lua | 📅 2025-03-22 - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
 * [Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) ⭐ 28 | 🐛 2 | 🌐 Lua | 📅 2024-05-14 - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
 * [More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) ⭐ 28 | 🐛 0 | 🌐 GLSL | 📅 2026-06-25 - More Speed options! by [@Steamo](https://github.com/Steamopollys) <img src="https://img.shields.io/badge/use%20Saturn-smods%20v1.0.0-lightgrey" align="center">
@@ -600,7 +601,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 601 | 🐛 38 | 🌐 Rust | 📅 2026-09-23)
+## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 603 | 🐛 38 | 🌐 Rust | 📅 2026-09-23)
 
 ### Decks
 
@@ -674,4 +675,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
