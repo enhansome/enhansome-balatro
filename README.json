@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1760,
+            "stars": 1761,
             "topics": [
               "android",
               "balatro",
@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-06T08:56:47Z",
+            "last_commit": "2026-09-25T07:46:22Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -404,7 +404,7 @@
             "id": 1273985531,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-24T20:03:14Z",
+            "last_commit": "2026-09-24T21:32:00Z",
             "open_issues": 0,
             "owner": "BurntToasters",
             "repo": "balatro-save-editor-gui",
@@ -450,11 +450,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T07:19:33Z",
-            "open_issues": 124,
+            "last_commit": "2026-09-25T12:14:50Z",
+            "open_issues": 126,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 976,
+            "stars": 977,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4303,11 +4303,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T07:19:33Z",
-            "open_issues": 124,
+            "last_commit": "2026-09-25T12:14:50Z",
+            "open_issues": 126,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 976,
+            "stars": 977,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5519,7 +5519,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:07:29.543Z",
+    "last_updated": "2026-09-25T20:07:47.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5531,7 +5531,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1264,
+      "stars": 1265,
       "topics": [
         "awesome",
         "balatro"
