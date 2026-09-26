@@ -16,10 +16,10 @@
             "language": "C#",
             "license": null,
             "last_commit": "2024-11-10T01:58:39Z",
-            "open_issues": 151,
+            "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1761,
+            "stars": 1760,
             "topics": [
               "android",
               "balatro",
@@ -191,6 +191,27 @@
         },
         {
           "node_type": "item",
+          "title": "Balatro4J",
+          "description": "An seed searcher and database based in Immolate coded in Java. by @alex-cova",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "immolate java port",
+            "homepage": "https://alex-cova.github.io/balatro4j/",
+            "id": 911880975,
+            "language": "Java",
+            "license": null,
+            "last_commit": "2026-02-21T23:18:32Z",
+            "open_issues": 2,
+            "owner": "alex-cova",
+            "repo": "balatro4j",
+            "stars": 11,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T00:41:35.075Z"
+        },
+        {
+          "node_type": "item",
           "title": "Balatro Ultimate Speedup Mod",
           "description": "A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by @sse2",
           "children": [],
@@ -222,36 +243,16 @@
             "id": 837996803,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-01-19T21:37:30Z",
+            "last_commit": "2026-09-26T01:01:28Z",
             "open_issues": 0,
             "owner": "blackfan321",
             "repo": "balatro-completionist-plus-plus-tracker",
             "stars": 10,
             "topics": [
               "balatro",
+              "balatro-tools",
               "javascript"
             ]
-          },
-          "first_seen": "2026-08-29T00:41:35.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Balatro4J",
-          "description": "An seed searcher and database based in Immolate coded in Java. by @alex-cova",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "immolate java port",
-            "homepage": "https://alex-cova.github.io/balatro4j/",
-            "id": 911880975,
-            "language": "Java",
-            "license": null,
-            "last_commit": "2026-02-21T23:18:32Z",
-            "open_issues": 2,
-            "owner": "alex-cova",
-            "repo": "balatro4j",
-            "stars": 10,
-            "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
         },
@@ -450,8 +451,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T12:14:50Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-26T14:38:57Z",
+            "open_issues": 120,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 977,
@@ -475,7 +476,7 @@
             "open_issues": 38,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 603,
+            "stars": 604,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1448,7 +1449,7 @@
                     "open_issues": 6,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
-                    "stars": 143,
+                    "stars": 144,
                     "topics": [
                       "balatro",
                       "lovely",
@@ -1635,27 +1636,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Milck QOL",
-                  "description": "Add keyboard shortcuts to the game. by Milck",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Small collection of mods to add quality of life improvements",
-                    "homepage": null,
-                    "id": 765031884,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2024-04-03T17:25:56Z",
-                    "open_issues": 9,
-                    "owner": "Mi1cK",
-                    "repo": "Milcks-QOL",
-                    "stars": 16,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Hotkeys Collection",
                   "description": "Adds hotkeys / keyboard shortcuts for a wide range of Balatro game actions, designed to be able to play most common hands without having to click very often. by @DorkDad141 based on @Agoraaa's mod",
                   "children": [],
@@ -1670,6 +1650,27 @@
                     "open_issues": 7,
                     "owner": "DorkDad141",
                     "repo": "keyboard-shortcuts",
+                    "stars": 15,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Milck QOL",
+                  "description": "Add keyboard shortcuts to the game. by Milck",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Small collection of mods to add quality of life improvements",
+                    "homepage": null,
+                    "id": 765031884,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2024-04-03T17:25:56Z",
+                    "open_issues": 9,
+                    "owner": "Mi1cK",
+                    "repo": "Milcks-QOL",
                     "stars": 15,
                     "topics": []
                   },
@@ -2899,7 +2900,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-23T12:35:03Z",
+                    "last_commit": "2026-09-26T13:50:25Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4303,8 +4304,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T12:14:50Z",
-            "open_issues": 126,
+            "last_commit": "2026-09-26T14:38:57Z",
+            "open_issues": 120,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 977,
@@ -5058,7 +5059,7 @@
                     "open_issues": 40,
                     "owner": "SpectralPack",
                     "repo": "Talisman",
-                    "stars": 144,
+                    "stars": 145,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5230,7 +5231,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 172,
+                    "stars": 174,
                     "topics": [
                       "balatro"
                     ]
@@ -5508,7 +5509,7 @@
             "open_issues": 38,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 603,
+            "stars": 604,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5519,7 +5520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T20:07:47.577Z",
+    "last_updated": "2026-09-26T19:22:28.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
