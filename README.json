@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1760,
+            "stars": 1762,
             "topics": [
               "android",
               "balatro",
@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-25T07:46:22Z",
+            "last_commit": "2026-09-27T08:30:18Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -451,11 +451,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T14:38:57Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-27T03:37:39Z",
+            "open_issues": 123,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 977,
+            "stars": 979,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -476,7 +476,7 @@
             "open_issues": 38,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 604,
+            "stars": 605,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2900,7 +2900,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-26T13:50:25Z",
+                    "last_commit": "2026-09-27T14:07:24Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4304,11 +4304,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T14:38:57Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-27T03:37:39Z",
+            "open_issues": 123,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 977,
+            "stars": 979,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5097,7 +5097,7 @@
                     "id": 937939564,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-22T15:20:42Z",
+                    "last_commit": "2026-09-27T08:19:31Z",
                     "open_issues": 2,
                     "owner": "kasimeka",
                     "repo": "balatro-typist-mod",
@@ -5509,7 +5509,7 @@
             "open_issues": 38,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 604,
+            "stars": 605,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5520,7 +5520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:22:28.200Z",
+    "last_updated": "2026-09-27T19:51:55.743Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5529,10 +5529,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-24T07:43:42Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1265,
+      "stars": 1266,
       "topics": [
         "awesome",
         "balatro"
