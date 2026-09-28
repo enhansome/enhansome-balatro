@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T08:30:18Z",
+            "last_commit": "2026-09-28T08:32:56Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -476,7 +476,7 @@
             "open_issues": 38,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 605,
+            "stars": 607,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -497,7 +497,7 @@
             "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "balamod",
               "balatro",
@@ -2524,7 +2524,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-08T16:51:30Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "HuyTheKiller",
                     "repo": "SilkTouch",
                     "stars": 10,
@@ -2900,7 +2900,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-27T14:07:24Z",
+                    "last_commit": "2026-09-28T13:49:05Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -5027,7 +5027,7 @@
             "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "balamod",
               "balatro",
@@ -5231,7 +5231,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 174,
+                    "stars": 175,
                     "topics": [
                       "balatro"
                     ]
@@ -5254,7 +5254,7 @@
                     "open_issues": 28,
                     "owner": "Eremel",
                     "repo": "Malverk",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5324,7 +5324,7 @@
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5509,7 +5509,7 @@
             "open_issues": 38,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 605,
+            "stars": 607,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5520,7 +5520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:51:55.743Z",
+    "last_updated": "2026-09-28T22:16:17.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
