@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1762,
+            "stars": 1761,
             "topics": [
               "android",
               "balatro",
@@ -212,6 +212,30 @@
         },
         {
           "node_type": "item",
+          "title": "Motely",
+          "description": "A C# CPU SIMD seed searcher for Balatro. by @tacodiva",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A fast SIMD seed searcher for Balatro",
+            "homepage": null,
+            "id": 918890827,
+            "language": "C#",
+            "license": null,
+            "last_commit": "2025-12-04T05:08:39Z",
+            "open_issues": 1,
+            "owner": "Tacodiva",
+            "repo": "Motely",
+            "stars": 11,
+            "topics": [
+              "balatro",
+              "seed-searcher"
+            ]
+          },
+          "first_seen": "2026-08-29T00:41:35.075Z"
+        },
+        {
+          "node_type": "item",
           "title": "Balatro Ultimate Speedup Mod",
           "description": "A mod that speeds up the entire game. Doesn't need a mod loader. (Windows only) by @sse2",
           "children": [],
@@ -252,30 +276,6 @@
               "balatro",
               "balatro-tools",
               "javascript"
-            ]
-          },
-          "first_seen": "2026-08-29T00:41:35.075Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Motely",
-          "description": "A C# CPU SIMD seed searcher for Balatro. by @tacodiva",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A fast SIMD seed searcher for Balatro",
-            "homepage": null,
-            "id": 918890827,
-            "language": "C#",
-            "license": null,
-            "last_commit": "2025-12-04T05:08:39Z",
-            "open_issues": 1,
-            "owner": "Tacodiva",
-            "repo": "Motely",
-            "stars": 10,
-            "topics": [
-              "balatro",
-              "seed-searcher"
             ]
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -406,7 +406,7 @@
             "language": "Python",
             "license": "MPL-2.0",
             "last_commit": "2026-09-24T21:32:00Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "BurntToasters",
             "repo": "balatro-save-editor-gui",
             "stars": 0,
@@ -455,7 +455,7 @@
             "open_issues": 123,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 979,
+            "stars": 980,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -473,10 +473,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 607,
+            "stars": 609,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1232,6 +1232,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Enchanted Deck",
+                  "description": "Start the game with some of your cards already be enhanced! by @Encarvlucas",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Repository to track my Balatro modding projects",
+                    "homepage": null,
+                    "id": 766716025,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2024-03-14T15:51:37Z",
+                    "open_issues": 0,
+                    "owner": "encarvlucas",
+                    "repo": "EncarvlucasBalatroMods",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Sylvie's Silliness",
                   "description": "A few decks, jokers, etc. Have fun! by @NewtTheFish",
                   "children": [],
@@ -1247,27 +1268,6 @@
                     "owner": "NewtTheFish",
                     "repo": "SylvieSilly",
                     "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Enchanted Deck",
-                  "description": "Start the game with some of your cards already be enhanced! by @Encarvlucas",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Repository to track my Balatro modding projects",
-                    "homepage": null,
-                    "id": 766716025,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2024-03-14T15:51:37Z",
-                    "open_issues": 0,
-                    "owner": "encarvlucas",
-                    "repo": "EncarvlucasBalatroMods",
-                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1449,7 +1449,7 @@
                     "open_issues": 6,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
-                    "stars": 144,
+                    "stars": 145,
                     "topics": [
                       "balatro",
                       "lovely",
@@ -1951,6 +1951,48 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "+1 Shop slot for High Stakes",
+                  "description": "Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by @Encarvlucas",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Repository to track my Balatro modding projects",
+                    "homepage": null,
+                    "id": 766716025,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2024-03-14T15:51:37Z",
+                    "open_issues": 0,
+                    "owner": "encarvlucas",
+                    "repo": "EncarvlucasBalatroMods",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Add +1 Shop to Every Run",
+                  "description": "Adds Overstock Voucher (+1 card slot in Shop) to all runs. by @Encarvlucas",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Repository to track my Balatro modding projects",
+                    "homepage": null,
+                    "id": 766716025,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2024-03-14T15:51:37Z",
+                    "open_issues": 0,
+                    "owner": "encarvlucas",
+                    "repo": "EncarvlucasBalatroMods",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Always Show Seed rekindled",
                   "description": "Shows the seed and makes you able to copy it at all time on the options eveon on non seeded run. by @RakibRyan",
                   "children": [],
@@ -2050,48 +2092,6 @@
                     "owner": "Aurelius7309",
                     "repo": "Survival",
                     "stars": 2,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "+1 Shop slot for High Stakes",
-                  "description": "Adds Overstock Voucher (+1 card slot in Shop) to all runs at Blue Stakes or higher. by @Encarvlucas",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Repository to track my Balatro modding projects",
-                    "homepage": null,
-                    "id": 766716025,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2024-03-14T15:51:37Z",
-                    "open_issues": 0,
-                    "owner": "encarvlucas",
-                    "repo": "EncarvlucasBalatroMods",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Add +1 Shop to Every Run",
-                  "description": "Adds Overstock Voucher (+1 card slot in Shop) to all runs. by @Encarvlucas",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Repository to track my Balatro modding projects",
-                    "homepage": null,
-                    "id": 766716025,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2024-03-14T15:51:37Z",
-                    "open_issues": 0,
-                    "owner": "encarvlucas",
-                    "repo": "EncarvlucasBalatroMods",
-                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2900,7 +2900,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-28T13:49:05Z",
+                    "last_commit": "2026-09-29T07:49:51Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4308,7 +4308,7 @@
             "open_issues": 123,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 979,
+            "stars": 980,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5227,7 +5227,7 @@
                     "id": 802691875,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-22T02:48:34Z",
+                    "last_commit": "2026-09-29T15:52:36Z",
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
@@ -5506,10 +5506,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 607,
+            "stars": 609,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5520,7 +5520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:16:17.052Z",
+    "last_updated": "2026-09-29T21:02:45.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
