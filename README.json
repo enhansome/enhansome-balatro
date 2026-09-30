@@ -455,7 +455,7 @@
             "open_issues": 123,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 980,
+            "stars": 982,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -473,10 +473,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 609,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2900,7 +2900,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-09-29T07:49:51Z",
+                    "last_commit": "2026-09-30T13:42:54Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4308,7 +4308,7 @@
             "open_issues": 123,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 980,
+            "stars": 982,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5183,6 +5183,34 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Balatro Seed Suite",
+                  "description": "Seed finder with odds and step-by-step routes to each hit, an in-run oracle that predicts shops, packs, tags and bosses (checked against real seeded runs), named save slots with card previews, and a run journal. by @r-metal",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Seed finder, seed oracle, save slots and run journal for Balatro. Lovely mods, every prediction checked against the real game.",
+                    "homepage": null,
+                    "id": 1389747627,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2026-09-28T23:08:11Z",
+                    "open_issues": 0,
+                    "owner": "r-metal",
+                    "repo": "balatro-seed-suite",
+                    "stars": 0,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "love2d",
+                      "lovely",
+                      "lua",
+                      "seed-finder"
+                    ]
+                  },
+                  "first_seen": "2026-09-30T21:00:13.454Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Quick Hand Selector",
                   "description": "Adds an in-run panel with buttons to select any available poker hand, suit or combination in one click, with rebindable keyboard shortcuts for every action. by @PixeledLobster",
                   "children": [],
@@ -5231,7 +5259,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 175,
+                    "stars": 176,
                     "topics": [
                       "balatro"
                     ]
@@ -5506,10 +5534,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 39,
+            "open_issues": 40,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 609,
+            "stars": 611,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5520,7 +5548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T21:02:45.628Z",
+    "last_updated": "2026-09-30T21:00:13.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5528,8 +5556,8 @@
       "id": 765516608,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-24T07:43:42Z",
-      "open_issues": 6,
+      "last_commit": "2026-09-30T11:28:47Z",
+      "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
       "stars": 1266,
@@ -5538,7 +5566,7 @@
         "balatro"
       ]
     },
-    "original_repository_sha": "d874db6fbfe4c771b19c863760c8adb900534858",
+    "original_repository_sha": "3aa30efc53c4de7649c8fb4df77d4e104495a214",
     "enhanced_repository": "enhansome/enhansome-balatro",
     "enhanced_repository_description": null,
     "title": "Awesome-Balatro with stars"
