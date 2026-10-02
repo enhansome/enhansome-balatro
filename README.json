@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T08:32:56Z",
+            "last_commit": "2026-10-02T04:50:26Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -451,7 +451,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T03:37:39Z",
+            "last_commit": "2026-10-02T20:32:08Z",
             "open_issues": 124,
             "owner": "Steamodded",
             "repo": "smods",
@@ -494,7 +494,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2025-01-11T11:09:03Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "balamod",
             "repo": "balamod",
             "stars": 159,
@@ -676,6 +676,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Final Boss",
+                  "description": "Bosses talk back in 15 languages, showdowns become cinematic boss fights with an HP bar and an explosive finale, and you decide when final bosses appear. by @SirMaiquis",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1398920468,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2026-10-02T06:12:08Z",
+                    "open_issues": 0,
+                    "owner": "SirMaiquis",
+                    "repo": "Balatro-FinalBoss",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-02T20:57:46.734Z"
                 }
               ],
               "description": null,
@@ -2524,7 +2545,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-01T12:51:00Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "HuyTheKiller",
                     "repo": "SilkTouch",
                     "stars": 10,
@@ -2900,7 +2921,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-01T03:34:10Z",
+                    "last_commit": "2026-10-02T13:38:28Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4304,7 +4325,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-27T03:37:39Z",
+            "last_commit": "2026-10-02T20:32:08Z",
             "open_issues": 124,
             "owner": "Steamodded",
             "repo": "smods",
@@ -5024,7 +5045,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2025-01-11T11:09:03Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "balamod",
             "repo": "balamod",
             "stars": 159,
@@ -5097,7 +5118,7 @@
                     "id": 937939564,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-27T08:19:31Z",
+                    "last_commit": "2026-10-02T10:28:51Z",
                     "open_issues": 3,
                     "owner": "kasimeka",
                     "repo": "balatro-typist-mod",
@@ -5352,7 +5373,7 @@
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5373,7 +5394,7 @@
                     "open_issues": 4,
                     "owner": "stupxd",
                     "repo": "Blueprint",
-                    "stars": 68,
+                    "stars": 69,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5548,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:20:12.755Z",
+    "last_updated": "2026-10-02T20:57:46.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5556,7 +5577,7 @@
       "id": 765516608,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-30T11:28:47Z",
+      "last_commit": "2026-10-02T06:18:34Z",
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
@@ -5566,7 +5587,7 @@
         "balatro"
       ]
     },
-    "original_repository_sha": "3aa30efc53c4de7649c8fb4df77d4e104495a214",
+    "original_repository_sha": "220e6ae907ef5a09334c23532e8adbe59f04c216",
     "enhanced_repository": "enhansome/enhansome-balatro",
     "enhanced_repository_description": null,
     "title": "Awesome-Balatro with stars"
