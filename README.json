@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1762,
+            "stars": 1761,
             "topics": [
               "android",
               "balatro",
@@ -132,8 +132,8 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T04:50:26Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-03T00:09:56Z",
+            "open_issues": 9,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
             "stars": 19,
@@ -451,7 +451,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T20:32:08Z",
+            "last_commit": "2026-10-03T01:31:06Z",
             "open_issues": 124,
             "owner": "Steamodded",
             "repo": "smods",
@@ -4325,7 +4325,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T20:32:08Z",
+            "last_commit": "2026-10-03T01:31:06Z",
             "open_issues": 124,
             "owner": "Steamodded",
             "repo": "smods",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:57:46.734Z",
+    "last_updated": "2026-10-03T04:33:53.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1266,
+      "stars": 1267,
       "topics": [
         "awesome",
         "balatro"
