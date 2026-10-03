@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1761,
+            "stars": 1762,
             "topics": [
               "android",
               "balatro",
@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T00:09:56Z",
+            "last_commit": "2026-10-03T09:05:17Z",
             "open_issues": 9,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -451,11 +451,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T01:31:06Z",
-            "open_issues": 124,
+            "last_commit": "2026-10-03T14:50:37Z",
+            "open_issues": 125,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 982,
+            "stars": 983,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4325,11 +4325,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T01:31:06Z",
-            "open_issues": 124,
+            "last_commit": "2026-10-03T14:50:37Z",
+            "open_issues": 125,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 982,
+            "stars": 983,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5485,7 +5485,7 @@
                     "open_issues": 2,
                     "owner": "Nitablade",
                     "repo": "Balatro_ProperRussian",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:33:53.769Z",
+    "last_updated": "2026-10-03T19:23:57.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
