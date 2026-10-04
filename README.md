@@ -80,7 +80,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
 * [BalatroWebSiteTemplate](https://github.com/notmario/balatrowebsitetemplate) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2024-04-12 - Use web pages to show your Jokers. like [this](https://notmario.github.io/MoreFluff/). by [@notmario](https://github.com/notmario)
-* [Balatro Seed Oracle](https://github.com/OptimusPi/BalatroSeedOracle) ⭐ 19 | 🐛 9 | 🌐 C# | 📅 2026-10-03 - Balatro Seed Searcher with visual drag\&drop filter builder coded in C# and AvaloniaUI. by [@OptimusPi](https://github.com/OptimusPi)
+* [Balatro Seed Oracle](https://github.com/OptimusPi/BalatroSeedOracle) ⭐ 19 | 🐛 8 | 🌐 C# | 📅 2026-10-04 - Balatro Seed Searcher with visual drag\&drop filter builder coded in C# and AvaloniaUI. by [@OptimusPi](https://github.com/OptimusPi)
 * [Balatrolator](https://github.com/kleinfreund/balatrolator) ⭐ 18 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-10 - Score calculator for Balatro. by [@kleinfreund](https://github.com/kleinfreund)
 * [balatro-sprites-i18n](https://github.com/Signez/balatro-sprites-i18n) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-17 - Internationalization toolchain to translate Balatro's sprites. by [@Signez](https://github.com/Signez)
 * [Balatro4J](https://github.com/alex-cova/balatro4j) ⭐ 11 | 🐛 2 | 🌐 Java | 📅 2026-02-21 - An seed searcher and database based in Immolate coded in Java. by [@alex-cova](https://github.com/alex-cova)
@@ -102,12 +102,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 983 | 🐛 125 | 🌐 Lua | 📅 2026-10-03 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
-* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 611 | 🐛 40 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 984 | 🐛 125 | 🌐 Lua | 📅 2026-10-03 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 610 | 🐛 40 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 159 | 🐛 10 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 983 | 🐛 125 | 🌐 Lua | 📅 2026-10-03)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 984 | 🐛 125 | 🌐 Lua | 📅 2026-10-03)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -123,7 +123,7 @@ Collect all Balatro mods and tools, welcome to add!
 ### Blinds
 
 * [MathBlinds](https://github.com/Bazinga9000/MathBlinds) ⭐ 9 | 🐛 2 | 🌐 Lua | 📅 2024-09-07 | [discord](https://discord.com/channels/1116389027176787968/1245962046235873301) - This mod adds seventeen (and counting) new blinds based on mathematical symbols. by [@Bazinga9000](https://github.com/Bazinga9000) <img src="https://img.shields.io/badge/needs%20api%20rewrite-smods%20v0.9.2-orange" align="center"><img src="https://img.shields.io/badge/patch%20in%20works-blueviolet" align="center">
-* [Final Boss](https://github.com/SirMaiquis/Balatro-FinalBoss) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-10-02 - Bosses talk back in 15 languages, showdowns become cinematic boss fights with an HP bar and an explosive finale, and you decide when final bosses appear. by [@SirMaiquis](https://github.com/SirMaiquis)
+* [Final Boss](https://github.com/SirMaiquis/Balatro-FinalBoss) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-10-04 - Bosses talk back in 15 languages, showdowns become cinematic boss fights with an HP bar and an explosive finale, and you decide when final bosses appear. by [@SirMaiquis](https://github.com/SirMaiquis)
 
 ### Challenges
 
@@ -157,9 +157,9 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Decks
 
-* [Absolute Deck](https://github.com/Steamodded/examples/blob/master/Mods/AbsoluteDeck.lua) ⭐ 28 | 🐛 0 | 🌐 GLSL | 📅 2026-06-25 - Absolute Deck of **PolyGlass**! by [@Steamo](https://github.com/Steamopollys)
-* [Deck of 4](https://github.com/Steamodded/examples/blob/master/Mods/DeckOf4s.lua) ⭐ 28 | 🐛 0 | 🌐 GLSL | 📅 2026-06-25 - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
-* [Ultimate Random Deck](https://github.com/Steamodded/examples/blob/master/Mods/UltimateRandom.lua) ⭐ 28 | 🐛 0 | 🌐 GLSL | 📅 2026-06-25 - Ultimate Random Deck! by [@Steamo](https://github.com/Steamopollys)
+* [Absolute Deck](https://github.com/Steamodded/examples/blob/master/Mods/AbsoluteDeck.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-04 - Absolute Deck of **PolyGlass**! by [@Steamo](https://github.com/Steamopollys)
+* [Deck of 4](https://github.com/Steamodded/examples/blob/master/Mods/DeckOf4s.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-04 - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
+* [Ultimate Random Deck](https://github.com/Steamodded/examples/blob/master/Mods/UltimateRandom.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-04 - Ultimate Random Deck! by [@Steamo](https://github.com/Steamopollys)
 * [High Card Deck and Jokers](https://github.com/Ken-Shi/Balatro_HighCardMod) ⭐ 14 | 🐛 1 | 🌐 Lua | 📅 2024-06-23 - Create a deck that references the HighCard Franchise! by [@Kenny Stone](https://github.com/Ken-Shi)
 * [Randomizer Deck](https://github.com/Hellyom/HellyomBalatroMods) ⭐ 11 | 🐛 2 | 🌐 Lua | 📅 2024-04-04 - The Randomizer Deck randomizes itself, jokers, vouchers, planets, costs etc. by [@Hellyom](https://github.com/Hellyom)
 * [Eccentric Deck](https://github.com/mojimoon/MojiBalatro/blob/main/EccentricDeck/EccentricDeck.lua) ⚠️ Archived - All Ranks and Suits in deck are randomized but heavily **biased** towards a specific type. Enhancements, editions and seals are also biasely added to some cards. by [@Mojimoon](https://github.com/mojimoon/)
@@ -307,7 +307,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) ⭐ 159 | 🐛 10 | 🌐 Lua | 📅 2025-09-26 - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 * [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) ⭐ 63 | 🐛 31 | 🌐 Lua | 📅 2025-03-22 - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
 * [Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) ⭐ 28 | 🐛 2 | 🌐 Lua | 📅 2024-05-14 - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
-* [More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) ⭐ 28 | 🐛 0 | 🌐 GLSL | 📅 2026-06-25 - More Speed options! by [@Steamo](https://github.com/Steamopollys) <img src="https://img.shields.io/badge/use%20Saturn-smods%20v1.0.0-lightgrey" align="center">
+* [More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-04 - More Speed options! by [@Steamo](https://github.com/Steamopollys) <img src="https://img.shields.io/badge/use%20Saturn-smods%20v1.0.0-lightgrey" align="center">
 * [Divvy's History](https://github.com/DivvyCr/Balatro-History) ⭐ 27 | 🐛 8 | 🌐 Lua | 📅 2025-04-27 - View your last played hand! by  [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 * [SystemClock](https://github.com/Breezebuilder/SystemClock) ⭐ 27 | 🐛 0 | 🌐 Lua | 📅 2025-03-15 - Adds a draggable, resizable, customizable clock to the game screen. by [@Breezebuilder](https://github.com/Breezebuilder)
 * [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) ⭐ 23 | 🐛 3 | 🌐 Lua | 📅 2024-02-26 - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
@@ -602,7 +602,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 611 | 🐛 40 | 🌐 Rust | 📅 2026-09-23)
+## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 610 | 🐛 40 | 🌐 Rust | 📅 2026-09-23)
 
 ### Decks
 
@@ -621,7 +621,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### GUI
 
-* [JokerDisplay](https://github.com/nh6574/JokerDisplay) ⭐ 176 | 🐛 2 | 🌐 Lua | 📅 2026-09-29 - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
+* [JokerDisplay](https://github.com/nh6574/JokerDisplay) ⭐ 175 | 🐛 2 | 🌐 Lua | 📅 2026-09-29 - Adds a small window under vanilla Jokers that displays useful information. by [@nh6574](https://github.com/nh6574/)
 * [Malverk](https://github.com/Eremel/Malverk) ⭐ 56 | 🐛 28 | 🌐 Lua | 📅 2026-07-31 - Malverk is an all-in-one texture manager. With an inbuilt API for AltTextures and TexturePacks, Malverk integrates a simple UI to customise which textures are applied to your game whenever you wish. by [@Eremel\_](https://github.com/Eremel)
 * [Readabletro](https://github.com/bladeSk/readabletro) ⭐ 33 | 🐛 3 | 🌐 Lua | 📅 2025-02-25 - Readabletro improves readability of the game, especially on lower res screens (Steam Deck) by using a more legible vector typeface and smoothly upscaled card textures. by [@bladeSk](https://github.com/bladeSk)
 * [Planet Card Cash-Out Mod](https://github.com/antler5/Balatro-Planet-Card-Cash-Out-Mod) ⭐ 5 | 🐛 0 | 🌐 Lua | 📅 2025-01-21 [discord](https://discord.com/channels/1116389027176787968/1331076935362547833) - "Use" a planet card while the cash-out animations play. by [@antler5](https://github.com/antler5)
@@ -632,8 +632,8 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Miscellaneous
 
-* [Cartomancer](https://github.com/stupxd/Cartomancer) ⭐ 79 | 🐛 5 | 🌐 Lua | 📅 2026-09-23 - Improved deck view and joker management with stacking and scrolling, capped deck pile and scoring flames customization. Made for long endless runs and crazy modded runs. by [@stupxd](https://github.com/stupxd)
-* [Blueprint](https://github.com/stupxd/Blueprint) ⭐ 69 | 🐛 4 | 🌐 Lua | 📅 2025-07-25 - Dynamically adjust Blueprint joker texture to the joker it is copying. by [@stupxd](https://github.com/stupxd) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center"><img src="https://img.shields.io/badge/patch%20in%20works-blueviolet" align="center">
+* [Cartomancer](https://github.com/stupxd/Cartomancer) ⭐ 78 | 🐛 5 | 🌐 Lua | 📅 2026-09-23 - Improved deck view and joker management with stacking and scrolling, capped deck pile and scoring flames customization. Made for long endless runs and crazy modded runs. by [@stupxd](https://github.com/stupxd)
+* [Blueprint](https://github.com/stupxd/Blueprint) ⭐ 68 | 🐛 4 | 🌐 Lua | 📅 2025-07-25 - Dynamically adjust Blueprint joker texture to the joker it is copying. by [@stupxd](https://github.com/stupxd) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center"><img src="https://img.shields.io/badge/patch%20in%20works-blueviolet" align="center">
 * [#1 Victory Royale!](https://github.com/Muddieee/balatro_victory_royale) ⭐ 0 | 🐛 0 | 📅 2024-05-15 - On win screen, replaces the "YOU WIN!" text with "#1 VICTORY ROYALE!" and the default win music with fortnite default dance. by [@Muddie](https://github.com/Muddieee)
 * [Solatro](https://github.com/bryanthaboi/solatro) ⭐ 0 | 🐛 1 | 🌐 Lua | 📅 2026-07-09 - Turns the entire game into a game of Solitaire. by [@bryanthaboi](https://github.com/bryanthaboi)
 * [When the impostor is Sun](https://github.com/Muddieee/sun_is_sus) ⭐ 0 | 🐛 0 | 📅 2024-05-15 - Renames The Sun tarot card to The Sus and replaces its texture. by [@Muddie](https://github.com/Muddieee)
@@ -677,4 +677,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

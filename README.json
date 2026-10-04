@@ -132,8 +132,8 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T09:05:17Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-04T02:20:27Z",
+            "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
             "stars": 19,
@@ -451,11 +451,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T14:50:37Z",
+            "last_commit": "2026-10-03T20:44:34Z",
             "open_issues": 125,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 983,
+            "stars": 984,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -476,7 +476,7 @@
             "open_issues": 40,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 611,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -689,7 +689,7 @@
                     "id": 1398920468,
                     "language": "Lua",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T06:12:08Z",
+                    "last_commit": "2026-10-04T04:32:10Z",
                     "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-FinalBoss",
@@ -1116,8 +1116,8 @@
                     "id": 913082363,
                     "language": "GLSL",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-06-25T14:04:19Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-04T04:46:37Z",
+                    "open_issues": 1,
                     "owner": "Steamodded",
                     "repo": "examples",
                     "stars": 28,
@@ -1137,8 +1137,8 @@
                     "id": 913082363,
                     "language": "GLSL",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-06-25T14:04:19Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-04T04:46:37Z",
+                    "open_issues": 1,
                     "owner": "Steamodded",
                     "repo": "examples",
                     "stars": 28,
@@ -1158,8 +1158,8 @@
                     "id": 913082363,
                     "language": "GLSL",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-06-25T14:04:19Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-04T04:46:37Z",
+                    "open_issues": 1,
                     "owner": "Steamodded",
                     "repo": "examples",
                     "stars": 28,
@@ -2283,8 +2283,8 @@
                     "id": 913082363,
                     "language": "GLSL",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-06-25T14:04:19Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-04T04:46:37Z",
+                    "open_issues": 1,
                     "owner": "Steamodded",
                     "repo": "examples",
                     "stars": 28,
@@ -4325,11 +4325,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T14:50:37Z",
+            "last_commit": "2026-10-03T20:44:34Z",
             "open_issues": 125,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 983,
+            "stars": 984,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5280,7 +5280,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 176,
+                    "stars": 175,
                     "topics": [
                       "balatro"
                     ]
@@ -5373,7 +5373,7 @@
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
-                    "stars": 79,
+                    "stars": 78,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5394,7 +5394,7 @@
                     "open_issues": 4,
                     "owner": "stupxd",
                     "repo": "Blueprint",
-                    "stars": 69,
+                    "stars": 68,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5558,7 +5558,7 @@
             "open_issues": 40,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 611,
+            "stars": 610,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:23:57.472Z",
+    "last_updated": "2026-10-04T19:47:57.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1267,
+      "stars": 1269,
       "topics": [
         "awesome",
         "balatro"
