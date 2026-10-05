@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1762,
+            "stars": 1761,
             "topics": [
               "android",
               "balatro",
@@ -202,7 +202,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-02-21T23:18:32Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "alex-cova",
             "repo": "balatro4j",
             "stars": 11,
@@ -451,11 +451,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T20:44:34Z",
+            "last_commit": "2026-10-05T22:54:39Z",
             "open_issues": 125,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 984,
+            "stars": 985,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -473,7 +473,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
             "stars": 610,
@@ -497,7 +497,7 @@
             "open_issues": 10,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 159,
+            "stars": 158,
             "topics": [
               "balamod",
               "balatro",
@@ -689,7 +689,7 @@
                     "id": 1398920468,
                     "language": "Lua",
                     "license": "MIT",
-                    "last_commit": "2026-10-04T04:32:10Z",
+                    "last_commit": "2026-10-05T14:52:21Z",
                     "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-FinalBoss",
@@ -1467,7 +1467,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-24T02:29:53Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
                     "stars": 145,
@@ -1594,7 +1594,7 @@
                     "open_issues": 1,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -1622,7 +1622,7 @@
                     "open_issues": 1,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 19,
+                    "stars": 20,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -2245,7 +2245,7 @@
                     "open_issues": 31,
                     "owner": "adambennett",
                     "repo": "Balatro-DeckCreator",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2897,7 +2897,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-06-15T14:47:06Z",
-                    "open_issues": 6,
+                    "open_issues": 5,
                     "owner": "Mysthaps",
                     "repo": "LobotomyCorp",
                     "stars": 27,
@@ -3487,7 +3487,7 @@
                   "description": "Adds the Panley Joker to the game. by @RedrcknRbn",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "\"Gambling is for fools\"",
                     "homepage": "https://acyt.lol",
                     "id": 922049379,
@@ -3948,7 +3948,7 @@
                     "open_issues": 2,
                     "owner": "CarrotonMan",
                     "repo": "balatrodarkmode",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4325,11 +4325,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-03T20:44:34Z",
+            "last_commit": "2026-10-05T22:54:39Z",
             "open_issues": 125,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 984,
+            "stars": 985,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5048,7 +5048,7 @@
             "open_issues": 10,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 159,
+            "stars": 158,
             "topics": [
               "balamod",
               "balatro",
@@ -5276,7 +5276,7 @@
                     "id": 802691875,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-29T15:52:36Z",
+                    "last_commit": "2026-10-05T22:23:06Z",
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
@@ -5391,7 +5391,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2025-07-25T20:51:13Z",
-                    "open_issues": 4,
+                    "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Blueprint",
                     "stars": 68,
@@ -5513,7 +5513,7 @@
                     "open_issues": 12,
                     "owner": "WilsontheWolf",
                     "repo": "DebugPlus",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5555,7 +5555,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
             "stars": 610,
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T19:47:57.781Z",
+    "last_updated": "2026-10-05T22:54:42.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
