@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,761 | 🐛 150 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,762 | 🐛 150 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 166 | 🐛 22 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
@@ -157,9 +157,9 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Decks
 
-* [Absolute Deck](https://github.com/Steamodded/examples/blob/master/Mods/AbsoluteDeck.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-05 - Absolute Deck of **PolyGlass**! by [@Steamo](https://github.com/Steamopollys)
-* [Deck of 4](https://github.com/Steamodded/examples/blob/master/Mods/DeckOf4s.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-05 - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
-* [Ultimate Random Deck](https://github.com/Steamodded/examples/blob/master/Mods/UltimateRandom.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-05 - Ultimate Random Deck! by [@Steamo](https://github.com/Steamopollys)
+* [Absolute Deck](https://github.com/Steamodded/examples/blob/master/Mods/AbsoluteDeck.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-06 - Absolute Deck of **PolyGlass**! by [@Steamo](https://github.com/Steamopollys)
+* [Deck of 4](https://github.com/Steamodded/examples/blob/master/Mods/DeckOf4s.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-06 - Create a special deck that only contains **4**s! by [@Steamo](https://github.com/Steamopollys)
+* [Ultimate Random Deck](https://github.com/Steamodded/examples/blob/master/Mods/UltimateRandom.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-06 - Ultimate Random Deck! by [@Steamo](https://github.com/Steamopollys)
 * [High Card Deck and Jokers](https://github.com/Ken-Shi/Balatro_HighCardMod) ⭐ 14 | 🐛 1 | 🌐 Lua | 📅 2024-06-23 - Create a deck that references the HighCard Franchise! by [@Kenny Stone](https://github.com/Ken-Shi)
 * [Randomizer Deck](https://github.com/Hellyom/HellyomBalatroMods) ⭐ 11 | 🐛 2 | 🌐 Lua | 📅 2024-04-04 - The Randomizer Deck randomizes itself, jokers, vouchers, planets, costs etc. by [@Hellyom](https://github.com/Hellyom)
 * [Eccentric Deck](https://github.com/mojimoon/MojiBalatro/blob/main/EccentricDeck/EccentricDeck.lua) ⚠️ Archived - All Ranks and Suits in deck are randomized but heavily **biased** towards a specific type. Enhancements, editions and seals are also biasely added to some cards. by [@Mojimoon](https://github.com/mojimoon/)
@@ -307,7 +307,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [Divvy's Preview](https://github.com/DivvyCr/Balatro-Preview) ⭐ 159 | 🐛 10 | 🌐 Lua | 📅 2025-09-26 - Simulate and preview the score that your hand will get! by [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 * [Deck Creator](https://github.com/adambennett/Balatro-DeckCreator) ⭐ 64 | 🐛 31 | 🌐 Lua | 📅 2025-03-22 - GUI mod for creating, saving, loading, and sharing your own customizable decks! by [@Nyoxide](https://github.com/adambennett)
 * [Balatro Hand Preview](https://github.com/Toeler/Balatro-HandPreview) ⭐ 28 | 🐛 2 | 🌐 Lua | 📅 2024-05-14 - Adds a window showing the possible poker hands that you can make with your current hand! by [@Toeler](https://github.com/Toeler) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
-* [More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-05 - More Speed options! by [@Steamo](https://github.com/Steamopollys) <img src="https://img.shields.io/badge/use%20Saturn-smods%20v1.0.0-lightgrey" align="center">
+* [More Speed](https://github.com/Steamodded/examples/blob/master/Mods/MoreSpeeds.lua) ⭐ 28 | 🐛 1 | 🌐 GLSL | 📅 2026-10-06 - More Speed options! by [@Steamo](https://github.com/Steamopollys) <img src="https://img.shields.io/badge/use%20Saturn-smods%20v1.0.0-lightgrey" align="center">
 * [Divvy's History](https://github.com/DivvyCr/Balatro-History) ⭐ 27 | 🐛 8 | 🌐 Lua | 📅 2025-04-27 - View your last played hand! by  [@DivvyCr](https://github.com/DivvyCr) <img src="https://img.shields.io/badge/partial%20mod%20conflict-smods%20v1.0.0-yellow" align="center">
 * [SystemClock](https://github.com/Breezebuilder/SystemClock) ⭐ 27 | 🐛 0 | 🌐 Lua | 📅 2025-03-15 - Adds a draggable, resizable, customizable clock to the game screen. by [@Breezebuilder](https://github.com/Breezebuilder)
 * [Jimbo's Histories | Run Reviewer](https://github.com/Mi1cK/Jimbos-Histories) ⭐ 23 | 🐛 3 | 🌐 Lua | 📅 2024-02-26 - Review run after it has ended. by [@MilcK](https://github.com/Mi1cK)
