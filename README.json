@@ -451,11 +451,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T22:54:39Z",
-            "open_issues": 125,
+            "last_commit": "2026-10-07T20:46:03Z",
+            "open_issues": 117,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 984,
+            "stars": 983,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -689,7 +689,7 @@
                     "id": 1398920468,
                     "language": "Lua",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T14:52:21Z",
+                    "last_commit": "2026-10-07T18:09:54Z",
                     "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-FinalBoss",
@@ -1713,7 +1713,7 @@
                     "open_issues": 2,
                     "owner": "xioxin",
                     "repo": "BalatroMods",
-                    "stars": 13,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2534,27 +2534,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "SilkTouch",
-                  "description": "enable mobile like touch ui everywhere for smoother frictionless gameplay @HuyTheKiller",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Balatro mod that brings touch controls from mobile version to PC/Mac. Built with extensibility, allowing other mods to define their own drag areas.",
-                    "homepage": null,
-                    "id": 1184672646,
-                    "language": "Lua",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-01T12:51:00Z",
-                    "open_issues": 1,
-                    "owner": "HuyTheKiller",
-                    "repo": "SilkTouch",
-                    "stars": 10,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Wheel of Fortune Tracker + Guarantee",
                   "description": "Track your Nope! rate for The Wheel of Fortune, OR Guarantee the \"1 in 4\" success rate for The Wheel of Fortune. by @sabslikesobs",
                   "children": [],
@@ -2575,6 +2554,27 @@
                       "game-modding",
                       "lua"
                     ]
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SilkTouch",
+                  "description": "enable mobile like touch ui everywhere for smoother frictionless gameplay @HuyTheKiller",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Balatro mod that brings touch controls from mobile version to PC/Mac. Built with extensibility, allowing other mods to define their own drag areas.",
+                    "homepage": null,
+                    "id": 1184672646,
+                    "language": "Lua",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-01T12:51:00Z",
+                    "open_issues": 1,
+                    "owner": "HuyTheKiller",
+                    "repo": "SilkTouch",
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -4325,11 +4325,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-05T22:54:39Z",
-            "open_issues": 125,
+            "last_commit": "2026-10-07T20:46:03Z",
+            "open_issues": 117,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 984,
+            "stars": 983,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5101,7 +5101,7 @@
                     "open_issues": 45,
                     "owner": "OceanRamen",
                     "repo": "Brainstorm",
-                    "stars": 132,
+                    "stars": 131,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:13:59.808Z",
+    "last_updated": "2026-10-07T21:33:42.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1270,
+      "stars": 1271,
       "topics": [
         "awesome",
         "balatro"
