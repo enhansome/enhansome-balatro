@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1762,
+            "stars": 1765,
             "topics": [
               "android",
               "balatro",
@@ -451,8 +451,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T20:46:03Z",
-            "open_issues": 117,
+            "last_commit": "2026-10-08T07:43:16Z",
+            "open_issues": 114,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 983,
@@ -1470,7 +1470,7 @@
                     "open_issues": 7,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": [
                       "balatro",
                       "lovely",
@@ -2534,6 +2534,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "SilkTouch",
+                  "description": "enable mobile like touch ui everywhere for smoother frictionless gameplay @HuyTheKiller",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Balatro mod that brings touch controls from mobile version to PC/Mac. Built with extensibility, allowing other mods to define their own drag areas.",
+                    "homepage": null,
+                    "id": 1184672646,
+                    "language": "Lua",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-01T12:51:00Z",
+                    "open_issues": 1,
+                    "owner": "HuyTheKiller",
+                    "repo": "SilkTouch",
+                    "stars": 10,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Wheel of Fortune Tracker + Guarantee",
                   "description": "Track your Nope! rate for The Wheel of Fortune, OR Guarantee the \"1 in 4\" success rate for The Wheel of Fortune. by @sabslikesobs",
                   "children": [],
@@ -2554,27 +2575,6 @@
                       "game-modding",
                       "lua"
                     ]
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "SilkTouch",
-                  "description": "enable mobile like touch ui everywhere for smoother frictionless gameplay @HuyTheKiller",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Balatro mod that brings touch controls from mobile version to PC/Mac. Built with extensibility, allowing other mods to define their own drag areas.",
-                    "homepage": null,
-                    "id": 1184672646,
-                    "language": "Lua",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-01T12:51:00Z",
-                    "open_issues": 1,
-                    "owner": "HuyTheKiller",
-                    "repo": "SilkTouch",
-                    "stars": 9,
-                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -2921,7 +2921,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-02T13:38:28Z",
+                    "last_commit": "2026-10-08T17:13:13Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4325,8 +4325,8 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T20:46:03Z",
-            "open_issues": 117,
+            "last_commit": "2026-10-08T07:43:16Z",
+            "open_issues": 114,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 983,
@@ -5080,7 +5080,7 @@
                     "open_issues": 40,
                     "owner": "SpectralPack",
                     "repo": "Talisman",
-                    "stars": 145,
+                    "stars": 144,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5119,7 +5119,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-02T10:28:51Z",
-                    "open_issues": 3,
+                    "open_issues": 4,
                     "owner": "kasimeka",
                     "repo": "balatro-typist-mod",
                     "stars": 27,
@@ -5177,6 +5177,34 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Balatro Seed Suite",
+                  "description": "Seed finder with odds and step-by-step routes to each hit, an in-run oracle that predicts shops, packs, tags and bosses (checked against real seeded runs), named save slots with card previews, and a run journal. by @r-metal",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Seed finder, seed oracle, save slots and run journal for Balatro. Lovely mods, every prediction checked against the real game.",
+                    "homepage": "https://bss.r-metal.tech/",
+                    "id": 1389747627,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2026-10-01T02:42:53Z",
+                    "open_issues": 0,
+                    "owner": "r-metal",
+                    "repo": "balatro-seed-suite",
+                    "stars": 1,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "love2d",
+                      "lovely",
+                      "lua",
+                      "seed-finder"
+                    ]
+                  },
+                  "first_seen": "2026-09-30T21:00:13.454Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Alternative Speed Toggle",
                   "description": "Adds a draggable HUD checkbox and rebindable shortcut to force an alternative game speed while playing a blind. by @PixeledLobster",
                   "children": [],
@@ -5201,34 +5229,6 @@
                     ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Balatro Seed Suite",
-                  "description": "Seed finder with odds and step-by-step routes to each hit, an in-run oracle that predicts shops, packs, tags and bosses (checked against real seeded runs), named save slots with card previews, and a run journal. by @r-metal",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Seed finder, seed oracle, save slots and run journal for Balatro. Lovely mods, every prediction checked against the real game.",
-                    "homepage": "https://bss.r-metal.tech/",
-                    "id": 1389747627,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2026-10-01T02:42:53Z",
-                    "open_issues": 0,
-                    "owner": "r-metal",
-                    "repo": "balatro-seed-suite",
-                    "stars": 0,
-                    "topics": [
-                      "balatro",
-                      "balatro-mod",
-                      "love2d",
-                      "lovely",
-                      "lua",
-                      "seed-finder"
-                    ]
-                  },
-                  "first_seen": "2026-09-30T21:00:13.454Z"
                 },
                 {
                   "node_type": "item",
@@ -5299,7 +5299,7 @@
                     "id": 879950776,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-07-31T21:26:55Z",
+                    "last_commit": "2026-10-07T22:26:53Z",
                     "open_issues": 28,
                     "owner": "Eremel",
                     "repo": "Malverk",
@@ -5373,7 +5373,7 @@
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
-                    "stars": 78,
+                    "stars": 79,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:33:42.740Z",
+    "last_updated": "2026-10-08T21:29:42.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1271,
+      "stars": 1273,
       "topics": [
         "awesome",
         "balatro"
