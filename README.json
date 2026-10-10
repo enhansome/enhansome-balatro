@@ -44,7 +44,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2025-04-04T21:58:24Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "SpectralPack",
             "repo": "Immolate",
             "stars": 166,
@@ -451,7 +451,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T07:43:16Z",
+            "last_commit": "2026-10-09T23:48:28Z",
             "open_issues": 114,
             "owner": "Steamodded",
             "repo": "smods",
@@ -476,7 +476,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2252,6 +2252,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Balatro Hand Preview",
+                  "description": "Adds a window showing the possible poker hands that you can make with your current hand! by @Toeler",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A mod for Balatro which adds a window showing the possible poker hands that you can make with your current hand",
+                    "homepage": null,
+                    "id": 800249880,
+                    "language": "Lua",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-05-14T03:07:14Z",
+                    "open_issues": 2,
+                    "owner": "Toeler",
+                    "repo": "Balatro-HandPreview",
+                    "stars": 29,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "More Speed",
                   "description": "More Speed options! by @Steamo",
                   "children": [],
@@ -2267,27 +2288,6 @@
                     "owner": "Steamodded",
                     "repo": "examples",
                     "stars": 29,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Balatro Hand Preview",
-                  "description": "Adds a window showing the possible poker hands that you can make with your current hand! by @Toeler",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A mod for Balatro which adds a window showing the possible poker hands that you can make with your current hand",
-                    "homepage": null,
-                    "id": 800249880,
-                    "language": "Lua",
-                    "license": "GPL-3.0",
-                    "last_commit": "2024-05-14T03:07:14Z",
-                    "open_issues": 2,
-                    "owner": "Toeler",
-                    "repo": "Balatro-HandPreview",
-                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2921,7 +2921,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-08T17:13:13Z",
+                    "last_commit": "2026-10-10T12:17:34Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4325,7 +4325,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-08T07:43:16Z",
+            "last_commit": "2026-10-09T23:48:28Z",
             "open_issues": 114,
             "owner": "Steamodded",
             "repo": "smods",
@@ -5280,7 +5280,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 176,
+                    "stars": 177,
                     "topics": [
                       "balatro"
                     ]
@@ -5373,7 +5373,7 @@
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5394,7 +5394,7 @@
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Blueprint",
-                    "stars": 69,
+                    "stars": 70,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5513,7 +5513,7 @@
                     "open_issues": 12,
                     "owner": "WilsontheWolf",
                     "repo": "DebugPlus",
-                    "stars": 88,
+                    "stars": 89,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5558,7 +5558,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:15:19.627Z",
+    "last_updated": "2026-10-10T20:19:10.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1277,
+      "stars": 1279,
       "topics": [
         "awesome",
         "balatro"
