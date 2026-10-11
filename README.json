@@ -452,7 +452,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-10-09T23:48:28Z",
-            "open_issues": 114,
+            "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 985,
@@ -557,7 +557,7 @@
                     "language": "Lua",
                     "license": null,
                     "last_commit": "2024-04-28T23:33:52Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "besteon",
                     "repo": "balatrobot",
                     "stars": 62,
@@ -956,7 +956,7 @@
                     "language": "Lua",
                     "license": null,
                     "last_commit": "2026-10-01T07:14:20Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "EricTheToon",
                     "repo": "Fortlatro",
                     "stars": 10,
@@ -1467,7 +1467,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-24T02:29:53Z",
-                    "open_issues": 7,
+                    "open_issues": 6,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
                     "stars": 147,
@@ -2403,6 +2403,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Gay Mod",
+                  "description": "Changes a \"Straight\" into a \"Gay\". Also changes \"Venus\" into \"Penis\" as a bonus. by @FosterBarnes",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Straight -> Gay. Venus -> Penis (Now with Anus)",
+                    "homepage": null,
+                    "id": 877430276,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2025-08-02T08:45:15Z",
+                    "open_issues": 0,
+                    "owner": "fosterbarnes",
+                    "repo": "balatroGayPenis",
+                    "stars": 12,
+                    "topics": [
+                      "balatro",
+                      "gay",
+                      "mod",
+                      "penis"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Taikomochi",
                   "description": "New zen game mode, loosing is not the end of the run, just restart the ante. by @Amvoled",
                   "children": [],
@@ -2419,32 +2445,6 @@
                     "repo": "Taikomochi",
                     "stars": 12,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Gay Mod",
-                  "description": "Changes a \"Straight\" into a \"Gay\". Also changes \"Venus\" into \"Penis\" as a bonus. by @FosterBarnes",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Straight -> Gay. Venus -> Penis (Now with Anus)",
-                    "homepage": null,
-                    "id": 877430276,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2025-08-02T08:45:15Z",
-                    "open_issues": 0,
-                    "owner": "fosterbarnes",
-                    "repo": "balatroGayPenis",
-                    "stars": 11,
-                    "topics": [
-                      "balatro",
-                      "gay",
-                      "mod",
-                      "penis"
-                    ]
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
                 },
@@ -4326,7 +4326,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-10-09T23:48:28Z",
-            "open_issues": 114,
+            "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 985,
@@ -5188,7 +5188,7 @@
                     "language": "Lua",
                     "license": "MIT",
                     "last_commit": "2026-10-01T02:42:53Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "r-metal",
                     "repo": "balatro-seed-suite",
                     "stars": 1,
@@ -5369,7 +5369,7 @@
                     "id": 824175635,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-23T19:18:56Z",
+                    "last_commit": "2026-10-11T02:49:43Z",
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
@@ -5390,8 +5390,8 @@
                     "id": 862946710,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2025-07-25T20:51:13Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-10-11T03:08:13Z",
+                    "open_issues": 4,
                     "owner": "stupxd",
                     "repo": "Blueprint",
                     "stars": 70,
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T20:19:10.320Z",
+    "last_updated": "2026-10-11T20:33:55.384Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1279,
+      "stars": 1280,
       "topics": [
         "awesome",
         "balatro"
