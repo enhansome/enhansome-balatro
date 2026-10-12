@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1767,
+            "stars": 1768,
             "topics": [
               "android",
               "balatro",
@@ -409,7 +409,7 @@
             "open_issues": 1,
             "owner": "BurntToasters",
             "repo": "balatro-save-editor-gui",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "balatro",
               "balatro-jokers",
@@ -455,7 +455,7 @@
             "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 985,
+            "stars": 987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -494,7 +494,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2025-01-11T11:09:03Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "balamod",
             "repo": "balamod",
             "stars": 160,
@@ -4329,7 +4329,7 @@
             "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 985,
+            "stars": 987,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5045,7 +5045,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2025-01-11T11:09:03Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "balamod",
             "repo": "balamod",
             "stars": 160,
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:33:55.384Z",
+    "last_updated": "2026-10-12T23:12:52.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
