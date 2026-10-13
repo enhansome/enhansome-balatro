@@ -405,8 +405,8 @@
             "id": 1273985531,
             "language": "Python",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-24T21:32:00Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-13T07:08:32Z",
+            "open_issues": 0,
             "owner": "BurntToasters",
             "repo": "balatro-save-editor-gui",
             "stars": 1,
@@ -451,11 +451,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T23:48:28Z",
+            "last_commit": "2026-10-13T16:38:11Z",
             "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 987,
+            "stars": 988,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -476,7 +476,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 611,
+            "stars": 610,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -494,7 +494,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2025-01-11T11:09:03Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
             "stars": 160,
@@ -693,7 +693,7 @@
                     "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-FinalBoss",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-10-02T20:57:46.734Z"
@@ -1470,7 +1470,7 @@
                     "open_issues": 6,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
-                    "stars": 147,
+                    "stars": 145,
                     "topics": [
                       "balatro",
                       "lovely",
@@ -1689,7 +1689,7 @@
                     "language": "Lua",
                     "license": "MIT",
                     "last_commit": "2024-04-03T17:25:56Z",
-                    "open_issues": 9,
+                    "open_issues": 8,
                     "owner": "Mi1cK",
                     "repo": "Milcks-QOL",
                     "stars": 15,
@@ -4325,11 +4325,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-09T23:48:28Z",
+            "last_commit": "2026-10-13T16:38:11Z",
             "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 987,
+            "stars": 988,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5045,7 +5045,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2025-01-11T11:09:03Z",
-            "open_issues": 10,
+            "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
             "stars": 160,
@@ -5080,7 +5080,7 @@
                     "open_issues": 40,
                     "owner": "SpectralPack",
                     "repo": "Talisman",
-                    "stars": 144,
+                    "stars": 143,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5558,7 +5558,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 611,
+            "stars": 610,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:12:52.307Z",
+    "last_updated": "2026-10-13T21:32:28.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1280,
+      "stars": 1282,
       "topics": [
         "awesome",
         "balatro"
