@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1768,
+            "stars": 1767,
             "topics": [
               "android",
               "balatro",
@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-04T02:20:27Z",
+            "last_commit": "2026-10-14T18:19:38Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -201,7 +201,7 @@
             "id": 911880975,
             "language": "Java",
             "license": null,
-            "last_commit": "2026-10-06T19:03:26Z",
+            "last_commit": "2026-10-14T16:06:04Z",
             "open_issues": 2,
             "owner": "alex-cova",
             "repo": "balatro4j",
@@ -451,11 +451,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T16:38:11Z",
-            "open_issues": 116,
+            "last_commit": "2026-10-14T20:03:20Z",
+            "open_issues": 110,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 988,
+            "stars": 990,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -689,11 +689,11 @@
                     "id": 1398920468,
                     "language": "Lua",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T18:09:54Z",
+                    "last_commit": "2026-10-14T15:43:19Z",
                     "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-FinalBoss",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-10-02T20:57:46.734Z"
@@ -1467,7 +1467,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-24T02:29:53Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
                     "stars": 145,
@@ -4325,11 +4325,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T16:38:11Z",
-            "open_issues": 116,
+            "last_commit": "2026-10-14T20:03:20Z",
+            "open_issues": 110,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 988,
+            "stars": 990,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5276,7 +5276,7 @@
                     "id": 802691875,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-05T22:23:06Z",
+                    "last_commit": "2026-10-14T20:17:46Z",
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
@@ -5373,7 +5373,7 @@
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
-                    "stars": 80,
+                    "stars": 81,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T21:32:28.425Z",
+    "last_updated": "2026-10-14T20:19:33.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1282,
+      "stars": 1283,
       "topics": [
         "awesome",
         "balatro"
