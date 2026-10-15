@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,767 | 🐛 150 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,769 | 🐛 150 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 166 | 🐛 23 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
@@ -103,7 +103,7 @@ Collect all Balatro mods and tools, welcome to add!
 ## Mod Loaders
 
 * [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 990 | 🐛 110 | 🌐 Lua | 📅 2026-10-14 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
-* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 610 | 🐛 41 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 610 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 160 | 🐛 9 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
@@ -602,7 +602,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 610 | 🐛 41 | 🌐 Rust | 📅 2026-09-23)
+## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 610 | 🐛 42 | 🌐 Rust | 📅 2026-09-23)
 
 ### Decks
 
@@ -677,4 +677,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
