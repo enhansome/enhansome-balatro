@@ -19,7 +19,7 @@
             "open_issues": 150,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1769,
+            "stars": 1770,
             "topics": [
               "android",
               "balatro",
@@ -455,7 +455,7 @@
             "open_issues": 110,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 990,
+            "stars": 991,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -476,7 +476,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4329,7 +4329,7 @@
             "open_issues": 110,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 990,
+            "stars": 991,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5558,7 +5558,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 610,
+            "stars": 611,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:01:50.449Z",
+    "last_updated": "2026-10-16T19:41:52.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5577,17 +5577,17 @@
       "id": 765516608,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-02T06:18:34Z",
+      "last_commit": "2026-10-16T04:37:42Z",
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1285,
+      "stars": 1287,
       "topics": [
         "awesome",
         "balatro"
       ]
     },
-    "original_repository_sha": "220e6ae907ef5a09334c23532e8adbe59f04c216",
+    "original_repository_sha": "4be961585050f5c5082e3b8307fda199f4fed4e0",
     "enhanced_repository": "enhansome/enhansome-balatro",
     "enhanced_repository_description": null,
     "title": "Awesome-Balatro with stars"
