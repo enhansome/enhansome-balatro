@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,770 | 🐛 150 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,769 | 🐛 150 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 166 | 🐛 23 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
@@ -103,12 +103,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 991 | 🐛 110 | 🌐 Lua | 📅 2026-10-14 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
-* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 611 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 991 | 🐛 109 | 🌐 Lua | 📅 2026-10-17 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 612 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 160 | 🐛 9 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 991 | 🐛 110 | 🌐 Lua | 📅 2026-10-14)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 991 | 🐛 109 | 🌐 Lua | 📅 2026-10-17)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -603,7 +603,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 611 | 🐛 42 | 🌐 Rust | 📅 2026-09-23)
+## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 612 | 🐛 42 | 🌐 Rust | 📅 2026-09-23)
 
 ### Decks
 
@@ -613,7 +613,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 * [Talisman](https://github.com/MathIsFun0/Talisman) ⚠️ Archived | [discord](https://discord.com/channels/1116389027176787968/1241172556849876993) - Talisman is a mod for Balatro that increases the score cap from \~10^308 to \~10^10^308, allowing for endless runs to go past "naneinf" and Ante 39. by [@MathIsFun\_](https://github.com/mathisfun0) <img src="https://img.shields.io/badge/occasional%20crashes-smods%20v1.0.0-orange" align="center">
 * [Brainstorm](https://github.com/OceanRamen/Brainstorm) ⭐ 131 | 🐛 45 | 🌐 Lua | 📅 2026-06-15 | [discord](https://discord.com/channels/1116389027176787968/1242974974701080617) - Brainstorm allows for super-fast rerolling through the use of an in-game key bind. by [@OceanRamen](https://github.com/OceanRamen)
-* [typist](https://github.com/kasimeka/balatro-typist-mod) ⭐ 27 | 🐛 4 | 🌐 Lua | 📅 2026-10-02 - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
+* [typist](https://github.com/kasimeka/balatro-typist-mod) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2026-10-02 - typist is an implementation of fully keyboard-driven UX for Balatro and includes a lot of QoL shortcuts as well. by [@kasimeka](https://github.com/kasimeka)
 * [Green Needle](https://github.com/lafiosca/GreenNeedle) ⭐ 2 | 🐛 1 | 🌐 Lua | 📅 2026-07-17 - Green Needle is a powerful seed search mod inspired by Brainstorm, with multi-platform native search engine. by [@lafiosca](https://github.com/lafiosca)
 * [Advanced Screen Shake](https://github.com/developerrowan/AmplifiedScreenShake) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2026-02-26 - Advanced Screen Shake is a mod that allows you to set the level of your screenshake unreasonably high. by [@DeveloperRowan](https://github.com/developerrowan)
 * [Balatro Seed Suite](https://github.com/r-metal/balatro-seed-suite) ⭐ 1 | 🐛 1 | 🌐 Lua | 📅 2026-10-01 - Seed finder with odds and step-by-step routes to each hit, an in-run oracle that predicts shops, packs, tags and bosses (checked against real seeded runs), named save slots with card previews, and a run journal. by [@r-metal](https://github.com/r-metal)
@@ -645,7 +645,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Utils
 
-* [DebugPlus](https://github.com/WilsontheWolf/DebugPlus) ⭐ 89 | 🐛 12 | 🌐 Lua | 📅 2026-09-20 | [discord](https://discord.com/channels/1116389027176787968/1228149931257237664) - A simple mod that adds a bunch more debug functions on top of Balatro's built in. by [@WilsontheWolf](https://github.com/WilsontheWolf)
+* [DebugPlus](https://github.com/WilsontheWolf/DebugPlus) ⭐ 89 | 🐛 13 | 🌐 Lua | 📅 2026-09-20 | [discord](https://discord.com/channels/1116389027176787968/1228149931257237664) - A simple mod that adds a bunch more debug functions on top of Balatro's built in. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [ScoreImprovements](https://github.com/WilsontheWolf/balatro-mods/tree/master/lovely/ScoreImprovements) ⭐ 3 | 🐛 0 | 🌐 Lua | 📅 2025-07-03 [discord](https://canary.discord.com/channels/1116389027176787968/1235719119093891184) - Misc score improvements (Better score display, fixed fire at inf, inf blinds let you win). by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Altrand](https://discord.com/channels/1116389027176787968/1230007377806229595) - Improved Randomization. by `@tertu`
 * [json](https://thunderstore.io/c/balatro/p/JoStro/json/) - Exposes json.lua as a module using lovely. by [@JoStro](https://thunderstore.io/c/balatro/p/JoStro/)
@@ -678,4 +678,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
