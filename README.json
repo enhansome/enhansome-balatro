@@ -16,10 +16,10 @@
             "language": "C#",
             "license": null,
             "last_commit": "2024-11-10T01:58:39Z",
-            "open_issues": 150,
+            "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1771,
+            "stars": 1772,
             "topics": [
               "android",
               "balatro",
@@ -452,10 +452,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-10-20T12:50:49Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 992,
+            "stars": 994,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1657,27 +1657,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Hotkeys Collection",
-                  "description": "Adds hotkeys / keyboard shortcuts for a wide range of Balatro game actions, designed to be able to play most common hands without having to click very often. by @DorkDad141 based on @Agoraaa's mod",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Many keyboard shortcuts for the game Balatro",
-                    "homepage": null,
-                    "id": 804072842,
-                    "language": "Lua",
-                    "license": "MIT",
-                    "last_commit": "2025-02-09T16:56:49Z",
-                    "open_issues": 7,
-                    "owner": "DorkDad141",
-                    "repo": "keyboard-shortcuts",
-                    "stars": 15,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Milck QOL",
                   "description": "Add keyboard shortcuts to the game. by Milck",
                   "children": [],
@@ -1692,6 +1671,27 @@
                     "open_issues": 8,
                     "owner": "Mi1cK",
                     "repo": "Milcks-QOL",
+                    "stars": 16,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hotkeys Collection",
+                  "description": "Adds hotkeys / keyboard shortcuts for a wide range of Balatro game actions, designed to be able to play most common hands without having to click very often. by @DorkDad141 based on @Agoraaa's mod",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Many keyboard shortcuts for the game Balatro",
+                    "homepage": null,
+                    "id": 804072842,
+                    "language": "Lua",
+                    "license": "MIT",
+                    "last_commit": "2025-02-09T16:56:49Z",
+                    "open_issues": 7,
+                    "owner": "DorkDad141",
+                    "repo": "keyboard-shortcuts",
                     "stars": 15,
                     "topics": []
                   },
@@ -2900,7 +2900,7 @@
                     "open_issues": 5,
                     "owner": "Mysthaps",
                     "repo": "LobotomyCorp",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": [
                       "balatro",
                       "lobcorp",
@@ -2921,7 +2921,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-19T12:22:53Z",
+                    "last_commit": "2026-10-21T03:49:21Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -4326,10 +4326,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-10-20T12:50:49Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 992,
+            "stars": 994,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5280,7 +5280,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 178,
+                    "stars": 180,
                     "topics": [
                       "balatro"
                     ]
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:07:38.470Z",
+    "last_updated": "2026-10-21T20:21:13.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
