@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-14T18:19:38Z",
+            "last_commit": "2026-10-22T07:44:04Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -455,7 +455,7 @@
             "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 994,
+            "stars": 997,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -473,10 +473,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 43,
+            "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 612,
+            "stars": 613,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4329,7 +4329,7 @@
             "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 994,
+            "stars": 997,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5373,7 +5373,7 @@
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5555,10 +5555,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 43,
+            "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 612,
+            "stars": 613,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:21:13.052Z",
+    "last_updated": "2026-10-22T20:17:28.039Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1285,
+      "stars": 1284,
       "topics": [
         "awesome",
         "balatro"
