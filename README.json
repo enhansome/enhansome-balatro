@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1772,
+            "stars": 1773,
             "topics": [
               "android",
               "balatro",
@@ -476,7 +476,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 613,
+            "stars": 614,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2492,6 +2492,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "SilkTouch",
+                  "description": "enable mobile like touch ui everywhere for smoother frictionless gameplay @HuyTheKiller",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Balatro mod that brings touch controls from mobile version to PC/Mac. Built with extensibility, allowing other mods to define their own drag areas.",
+                    "homepage": null,
+                    "id": 1184672646,
+                    "language": "Lua",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-01T12:51:00Z",
+                    "open_issues": 1,
+                    "owner": "HuyTheKiller",
+                    "repo": "SilkTouch",
+                    "stars": 11,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Balatro Safety",
                   "description": "Presents a confirmation dialogue when you select a dangerous action (like using ankh or hex). by @Zei33",
                   "children": [],
@@ -2527,27 +2548,6 @@
                     "open_issues": 3,
                     "owner": "Wiwiweb",
                     "repo": "BalatroMods",
-                    "stars": 10,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "SilkTouch",
-                  "description": "enable mobile like touch ui everywhere for smoother frictionless gameplay @HuyTheKiller",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Balatro mod that brings touch controls from mobile version to PC/Mac. Built with extensibility, allowing other mods to define their own drag areas.",
-                    "homepage": null,
-                    "id": 1184672646,
-                    "language": "Lua",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-01T12:51:00Z",
-                    "open_issues": 1,
-                    "owner": "HuyTheKiller",
-                    "repo": "SilkTouch",
                     "stars": 10,
                     "topics": []
                   },
@@ -2921,7 +2921,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-10-21T03:49:21Z",
+                    "last_commit": "2026-10-23T02:51:28Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -5558,7 +5558,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 613,
+            "stars": 614,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:17:28.039Z",
+    "last_updated": "2026-10-23T20:04:44.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",

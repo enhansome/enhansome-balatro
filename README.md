@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,772 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,773 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 166 | 🐛 23 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
@@ -104,7 +104,7 @@ Collect all Balatro mods and tools, welcome to add!
 ## Mod Loaders
 
 * [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 997 | 🐛 111 | 🌐 Lua | 📅 2026-10-20 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
-* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 613 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 614 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 160 | 🐛 9 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2025-07-08 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
@@ -318,9 +318,9 @@ Collect all Balatro mods and tools, welcome to add!
 * [Taikomochi](https://github.com/Amvoled/Taikomochi) ⭐ 12 | 🐛 2 | 🌐 Lua | 📅 2025-03-20 - New zen game mode, loosing is not the end of the run, just restart the ante. by [@Amvoled](https://github.com/Amvoled)
 * [JokerSellValue](https://github.com/OppositeWolf770/JokerSellValue) ⭐ 11 | 🐛 3 | 🌐 Lua | 📅 2025-12-11 - QOL mod for Jokers in Buffoon Packs and the shop. by [@OppositeWolf770](https://github.com/OppositeWolf770) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 * [Roulette](https://github.com/Hellyom/HellyomBalatroMods) ⭐ 11 | 🐛 2 | 🌐 Lua | 📅 2024-04-04 - Adds a roulette to the game so you can lose all your money and loose your run faster, obviously. by [@Hellyom](https://github.com/Hellyom)
+* [SilkTouch](https://github.com/HuyTheKiller/SilkTouch) ⭐ 11 | 🐛 1 | 🌐 Lua | 📅 2026-10-01 - enable mobile like touch ui everywhere for smoother frictionless gameplay [@HuyTheKiller](https://github.com/HuyTheKiller) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 * [Balatro Safety](https://github.com/Zei33/balatro-safety-steamodded) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2024-06-10 - Presents a confirmation dialogue when you select a dangerous action (like using ankh or hex). by [@Zei33](https://github.com/Zei33)
 * [Hold For Final Hand Score](https://github.com/Wiwiweb/BalatroMods/blob/main/HoldForFinalHandScore.lua) ⭐ 10 | 🐛 3 | 🌐 Lua | 📅 2024-11-19 - Pauses a moment for the final Chip X Mult count, and another moment for the final hand chip total. Especially noticeable on big hands that trigger flames. by [@Wiwiweb](https://github.com/Wiwiweb) <img src="https://img.shields.io/badge/buggy-smods%20v0.9.8-yellow" align="center">
-* [SilkTouch](https://github.com/HuyTheKiller/SilkTouch) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2026-10-01 - enable mobile like touch ui everywhere for smoother frictionless gameplay [@HuyTheKiller](https://github.com/HuyTheKiller) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 * [Wheel of Fortune Tracker + Guarantee](https://github.com/sabslikesobs/pitywheel) ⭐ 10 | 🐛 1 | 🌐 Lua | 📅 2025-03-28 - Track your Nope! rate for The Wheel of Fortune, OR Guarantee the "1 in 4" success rate for The Wheel of Fortune. by [@sabslikesobs](https://github.com/sabslikesobs)
 * [Fold Button](https://github.com/happinyz/BalatroFoldButton) ⭐ 8 | 🐛 0 | 🌐 Lua | 📅 2024-02-28 - Quickly forfeit your runs with the 'Fold' button! by [@happinyz](https://github.com/happinyz) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 * [YippeeGameOver](https://github.com/Mysthaps/BalatroMods) ⚠️ Archived - Replaces Jimbo in the win screen with tbh. by [@Mysthaps](https://github.com/Mysthaps)
@@ -350,7 +350,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 * [LobotomyCorp](https://github.com/Mysthaps/LobotomyCorp) ⭐ 28 | 🐛 5 | 🌐 Lua | 📅 2026-06-15 - A Balatro mod. Face the Fear, Build the Future. by [@Mysthaps](https://github.com/Mysthaps)
 
-* [Sculio](https://github.com/crmykybord/Sculio) ⭐ 25 | 🐛 1 | 🌐 Lua | 📅 2026-10-21 - A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by [@crmykybord](https://github.com/crmykybord)
+* [Sculio](https://github.com/crmykybord/Sculio) ⭐ 25 | 🐛 1 | 🌐 Lua | 📅 2026-10-23 - A vanilla-esque mod that aims to add new and faithful content to Balatro (Currently contains 45+ Jokers). by [@crmykybord](https://github.com/crmykybord)
 
 * [JankJonklers](https://github.com/spikeof2010/JankJonklers) ⭐ 21 | 🐛 8 | 🌐 Lua | 📅 2025-02-16 - A small pack of Jokers for the game. by [@Lyman](https://github.com/spikeof2010)
 
@@ -603,7 +603,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 613 | 🐛 42 | 🌐 Rust | 📅 2026-09-23)
+## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 614 | 🐛 42 | 🌐 Rust | 📅 2026-09-23)
 
 ### Decks
 
@@ -678,4 +678,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
