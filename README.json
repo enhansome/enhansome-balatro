@@ -455,7 +455,7 @@
             "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 997,
+            "stars": 999,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -476,7 +476,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 614,
+            "stars": 615,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -497,7 +497,7 @@
             "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "balamod",
               "balatro",
@@ -4329,7 +4329,7 @@
             "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 997,
+            "stars": 999,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5048,7 +5048,7 @@
             "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 160,
+            "stars": 161,
             "topics": [
               "balamod",
               "balatro",
@@ -5303,7 +5303,7 @@
                     "open_issues": 28,
                     "owner": "Eremel",
                     "repo": "Malverk",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5373,7 +5373,7 @@
                     "open_issues": 5,
                     "owner": "stupxd",
                     "repo": "Cartomancer",
-                    "stars": 82,
+                    "stars": 83,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5558,7 +5558,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 614,
+            "stars": 615,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:04:44.433Z",
+    "last_updated": "2026-10-24T18:59:19.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
