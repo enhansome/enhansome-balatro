@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1772,
+            "stars": 1773,
             "topics": [
               "android",
               "balatro",
@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-22T07:44:04Z",
+            "last_commit": "2026-10-26T14:05:40Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -451,7 +451,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T12:50:49Z",
+            "last_commit": "2026-10-26T15:50:17Z",
             "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
@@ -689,7 +689,7 @@
                     "id": 1398920468,
                     "language": "Lua",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T19:32:38Z",
+                    "last_commit": "2026-10-26T01:15:00Z",
                     "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-FinalBoss",
@@ -4325,7 +4325,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-20T12:50:49Z",
+            "last_commit": "2026-10-26T15:50:17Z",
             "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
@@ -5187,7 +5187,7 @@
                     "id": 1389747627,
                     "language": "Lua",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T02:42:53Z",
+                    "last_commit": "2026-10-25T19:39:58Z",
                     "open_issues": 1,
                     "owner": "r-metal",
                     "repo": "balatro-seed-suite",
@@ -5276,11 +5276,11 @@
                     "id": 802691875,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-14T20:32:25Z",
+                    "last_commit": "2026-10-26T12:57:58Z",
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 180,
+                    "stars": 181,
                     "topics": [
                       "balatro"
                     ]
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:14:51.775Z",
+    "last_updated": "2026-10-26T21:11:31.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1285,
+      "stars": 1286,
       "topics": [
         "awesome",
         "balatro"
