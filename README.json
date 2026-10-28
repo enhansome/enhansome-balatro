@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-27T19:31:09Z",
+            "last_commit": "2026-10-28T20:54:07Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -455,7 +455,7 @@
             "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1003,
+            "stars": 1004,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -476,7 +476,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 619,
+            "stars": 618,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -689,7 +689,7 @@
                     "id": 1398920468,
                     "language": "Lua",
                     "license": "MIT",
-                    "last_commit": "2026-10-26T01:15:00Z",
+                    "last_commit": "2026-10-28T20:12:48Z",
                     "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-FinalBoss",
@@ -4329,7 +4329,7 @@
             "open_issues": 111,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1003,
+            "stars": 1004,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5558,7 +5558,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 619,
+            "stars": 618,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T20:57:55.010Z",
+    "last_updated": "2026-10-28T21:18:59.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
