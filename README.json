@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1775,
+            "stars": 1776,
             "topics": [
               "android",
               "balatro",
@@ -451,11 +451,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T15:13:52Z",
+            "last_commit": "2026-11-02T19:17:42Z",
             "open_issues": 112,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1009,
+            "stars": 1010,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -476,7 +476,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 620,
+            "stars": 621,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -520,7 +520,7 @@
             "id": 971739497,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2025-07-08T03:19:27Z",
+            "last_commit": "2026-11-02T01:42:16Z",
             "open_issues": 4,
             "owner": "3XPLwastaken",
             "repo": "naneINF-Balatro-Modloader",
@@ -2900,7 +2900,7 @@
                     "open_issues": 5,
                     "owner": "Mysthaps",
                     "repo": "LobotomyCorp",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": [
                       "balatro",
                       "lobcorp",
@@ -4325,11 +4325,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T15:13:52Z",
+            "last_commit": "2026-11-02T19:17:42Z",
             "open_issues": 112,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1009,
+            "stars": 1010,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5401,27 +5401,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "#1 Victory Royale!",
-                  "description": "On win screen, replaces the \"YOU WIN!\" text with \"#1 VICTORY ROYALE!\" and the default win music with fortnite default dance. by @Muddie",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "#1 Victory Royale!",
-                    "homepage": null,
-                    "id": 801175402,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2024-05-15T18:33:42Z",
-                    "open_issues": 0,
-                    "owner": "MOONLIT3",
-                    "repo": "balatro_victory_royale",
-                    "stars": 0,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Solatro",
                   "description": "Turns the entire game into a game of Solitaire. by @bryanthaboi",
                   "children": [],
@@ -5436,6 +5415,27 @@
                     "open_issues": 1,
                     "owner": "bryanthaboi",
                     "repo": "solatro",
+                    "stars": 1,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "#1 Victory Royale!",
+                  "description": "On win screen, replaces the \"YOU WIN!\" text with \"#1 VICTORY ROYALE!\" and the default win music with fortnite default dance. by @Muddie",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "#1 Victory Royale!",
+                    "homepage": null,
+                    "id": 801175402,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2024-05-15T18:33:42Z",
+                    "open_issues": 0,
+                    "owner": "MOONLIT3",
+                    "repo": "balatro_victory_royale",
                     "stars": 0,
                     "topics": []
                   },
@@ -5558,7 +5558,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 620,
+            "stars": 621,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:49:16.558Z",
+    "last_updated": "2026-11-02T23:41:09.227Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
