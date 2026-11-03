@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1776,
+            "stars": 1777,
             "topics": [
               "android",
               "balatro",
@@ -689,7 +689,7 @@
                     "id": 1398920468,
                     "language": "Lua",
                     "license": "MIT",
-                    "last_commit": "2026-10-28T20:12:48Z",
+                    "last_commit": "2026-11-03T19:20:46Z",
                     "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-FinalBoss",
@@ -718,7 +718,7 @@
                     "language": "Lua",
                     "license": null,
                     "last_commit": "2026-04-09T14:50:15Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "betmma",
                     "repo": "my_balatro_mods",
                     "stars": 51,
@@ -2876,7 +2876,7 @@
                     "language": "Lua",
                     "license": null,
                     "last_commit": "2026-04-09T14:50:15Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "betmma",
                     "repo": "my_balatro_mods",
                     "stars": 51,
@@ -4232,7 +4232,7 @@
                     "language": "Lua",
                     "license": null,
                     "last_commit": "2026-04-09T14:50:15Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "betmma",
                     "repo": "my_balatro_mods",
                     "stars": 51,
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:41:09.227Z",
+    "last_updated": "2026-11-03T21:59:05.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",

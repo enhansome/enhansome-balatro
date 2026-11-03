@@ -75,7 +75,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Tools
 
-* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,776 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
+* [Balatro Mobile Maker](https://github.com/blake502/balatro-mobile-maker) ⭐ 1,777 | 🐛 151 | 🌐 C# | 📅 2024-11-10 - Create a mobile Balatro app from your Steam version of Balatro. by [@blake502](https://github.com/blake502)
 * [Immolate](https://github.com/MathIsFun0/Immolate) ⭐ 166 | 🐛 23 | 🌐 C | 📅 2025-04-04 - An OpenCL seed searcher for Balatro. by [@MathIsFun\_](https://github.com/MathIsFun0)
 * [balatro-save-loader](https://github.com/WilsontheWolf/balatro-save-loader) ⭐ 30 | 🐛 4 | 🌐 JavaScript | 📅 2024-03-14 - A simple save loader/modder for balatro. by [@WilsontheWolf](https://github.com/WilsontheWolf)
 * [Balatro Modpack Manager](https://github.com/Dimserene/Balatro-ModpackManager) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2025-03-30 - Install, update, and customize modpacks in one streamlined tool. by \[@Dimserene]
@@ -124,11 +124,11 @@ Collect all Balatro mods and tools, welcome to add!
 ### Blinds
 
 * [MathBlinds](https://github.com/Bazinga9000/MathBlinds) ⭐ 9 | 🐛 2 | 🌐 Lua | 📅 2024-09-07 | [discord](https://discord.com/channels/1116389027176787968/1245962046235873301) - This mod adds seventeen (and counting) new blinds based on mathematical symbols. by [@Bazinga9000](https://github.com/Bazinga9000) <img src="https://img.shields.io/badge/needs%20api%20rewrite-smods%20v0.9.2-orange" align="center"><img src="https://img.shields.io/badge/patch%20in%20works-blueviolet" align="center">
-* [Final Boss](https://github.com/SirMaiquis/Balatro-FinalBoss) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-10-28 - Bosses talk back in 15 languages, showdowns become cinematic boss fights with an HP bar and an explosive finale, and you decide when final bosses appear. by [@SirMaiquis](https://github.com/SirMaiquis)
+* [Final Boss](https://github.com/SirMaiquis/Balatro-FinalBoss) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2026-11-03 - Bosses talk back in 15 languages, showdowns become cinematic boss fights with an HP bar and an explosive finale, and you decide when final bosses appear. by [@SirMaiquis](https://github.com/SirMaiquis)
 
 ### Challenges
 
-* [5 legendary challenges](https://github.com/betmma/my_balatro_mods) ⭐ 51 | 🐛 8 | 🌐 Lua | 📅 2026-04-09 - 5 more challenges, each featuring a legendary joker. by [@Betmma](https://github.com/betmma)
+* [5 legendary challenges](https://github.com/betmma/my_balatro_mods) ⭐ 51 | 🐛 9 | 🌐 Lua | 📅 2026-04-09 - 5 more challenges, each featuring a legendary joker. by [@Betmma](https://github.com/betmma)
 * [GoldenChallenge](https://github.com/Mysthaps/BalatroMods) ⚠️ Archived - Adds the challenge "Golden". by [@Mysthaps](https://github.com/Mysthaps)
 * [Riff-Raffling](https://github.com/UppedHealer8521/Riff-Raffling) ⭐ 4 | 🐛 1 | 🌐 Lua | 📅 2024-03-19 - start with a negative eternal riffraff you have to get money and win with just common jokers. by [@UppedHealer8521](https://github.com/UppedHealer8521)
 * [Stylish Sleeves Challenge](https://github.com/Aurelius7309/StylishSleeves) ⭐ 4 | 🐛 4 | 🌐 Lua | 📅 2024-02-24 - Adds the Stylish Sleeves Challenge to the game: The effects of all base game decks apply, X2 base blind score. by [@Aure](https://github.com/Aurelius7309)
@@ -175,7 +175,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [Pauper Deck](https://github.com/AiksiLotl/Pauper-Deck) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-01-22 - Shop has no Jokers. Open a Jumbo Pack after each Blind. Only Jokers earn you money. by [@AiksiLotl](https://github.com/AiksiLotl)
 * [Deck Inversion Challenge Konfiguration](https://github.com/tgreenmonkey/Deck-Inversion-Challenge-Konfiguration) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-04-01 - Replaces all vanilla decks with inversed versions of them! by [@tgreenmonkey](https://github.com/tgreenmonkey)
 * [DNA Splice Deck](https://github.com/jlwoolf/DNASplice) ⭐ 0 | 🐛 1 | 🌐 Lua | 📅 2025-03-16 - Adds a deck that gives a DNA joker at run start. by [@jlwoolf](https://github.com/jlwoolf)
-* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 356 | 🐛 66 | 🌐 Lua | 📅 2026-11-02. by [@jacksoncmu](https://github.com/jacksoncmu)
+* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 356 | 🐛 55 | 🌐 Lua | 📅 2026-11-03. by [@jacksoncmu](https://github.com/jacksoncmu)
 * [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains **one Ace of each suit**! by `@Chamels`, `@UnknownEternity`
 * [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
 * [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free **mega standard packs**. by `@Rose Happy`
@@ -346,7 +346,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Jokers
 
-* [Betmma Jokers](https://github.com/betmma/my_balatro_mods) ⭐ 51 | 🐛 8 | 🌐 Lua | 📅 2026-04-09 -  5 More Jokers! by [@Betmma](https://github.com/betmma) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
+* [Betmma Jokers](https://github.com/betmma/my_balatro_mods) ⭐ 51 | 🐛 9 | 🌐 Lua | 📅 2026-04-09 -  5 More Jokers! by [@Betmma](https://github.com/betmma) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
 
 * [LobotomyCorp](https://github.com/Mysthaps/LobotomyCorp) ⭐ 29 | 🐛 5 | 🌐 Lua | 📅 2026-06-15 - A Balatro mod. Face the Fear, Build the Future. by [@Mysthaps](https://github.com/Mysthaps)
 
@@ -513,7 +513,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Vouchers
 
-* [Betmma Vouchers](https://github.com/betmma/my_balatro_mods) ⭐ 51 | 🐛 8 | 🌐 Lua | 📅 2026-04-09 - 10 More Vouchers! by [@Betmma](https://github.com/betmma) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
+* [Betmma Vouchers](https://github.com/betmma/my_balatro_mods) ⭐ 51 | 🐛 9 | 🌐 Lua | 📅 2026-04-09 - 10 More Vouchers! by [@Betmma](https://github.com/betmma) <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center">
 * [Betmma Vouchers Mobile Friendly](https://github.com/RakibRyan/Betmma-Jokers-Mobile-friendly) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-07-26 - The same Betmma Vouchers mod with compatible shaders, allowing it to work on mobile devices. by [@RakibRyan](https://github.com/RakibRyan) <img src="https://img.shields.io/badge/fully%20functional-smods%20v1.0.0-brightgreen" align="center">
 * [Loop](https://discord.com/channels/1116389027176787968/1248431147784863840) - Adds a new voucher called Loop, allowing certain vouchers to be re-redeemed in the same run. by `@jenwalter666` <img src="https://img.shields.io/badge/not%20mobile%20compatible-smods%20v1.0.0-lightgrey" align="center"><img src="https://img.shields.io/badge/patch%20in%20works-blueviolet" align="center">
 
@@ -678,4 +678,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
