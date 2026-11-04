@@ -103,12 +103,12 @@ Collect all Balatro mods and tools, welcome to add!
 
 ## Mod Loaders
 
-* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 1,010 | 🐛 112 | 🌐 Lua | 📅 2026-11-02 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
-* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 621 | 🐛 42 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
+* [Steamodded](https://github.com/Steamopollys/Steamodded) ⭐ 1,010 | 🐛 112 | 🌐 Lua | 📅 2026-11-04 - A Balatro ModLoader. by [@Steamo](https://github.com/Steamopollys)
+* [Lovely](https://github.com/ethangreen-dev/lovely-injector) ⭐ 621 | 🐛 43 | 🌐 Rust | 📅 2026-09-23 - A runtime lua injector for games built with LÖVE. by [@ethangreen-dev](https://github.com/ethangreen-dev)
 * [Balamod](https://github.com/balamod/balamod) ⭐ 161 | 🐛 9 | 🌐 Rust | 📅 2025-01-11 - Mod loader, Injector and Decompiler that supports **in-game code injection for Balatro**. by [@UwUDev](https://github.com/UwUDev)
 * [NANEINF](https://github.com/3XPLwastaken/naneINF-Balatro-Modloader) ⭐ 28 | 🐛 4 | 🌐 Lua | 📅 2026-11-02 - A WIP mobile runtime lua injector for games built with LÖVE, based on, and supporting Lovely. by [@3XPLwastaken](https://github.com/3XPLwastaken)
 
-## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 1,010 | 🐛 112 | 🌐 Lua | 📅 2026-11-02)
+## Mods (Require [**Steamodded**](https://github.com/Steamopollys/Steamodded) ⭐ 1,010 | 🐛 112 | 🌐 Lua | 📅 2026-11-04)
 
 * <img src="https://img.shields.io/github/v/release/Steamodded/smods?label=CURRENT%20SMODS%20VERSION&color=blue" align="center">
 
@@ -175,7 +175,7 @@ Collect all Balatro mods and tools, welcome to add!
 * [Pauper Deck](https://github.com/AiksiLotl/Pauper-Deck) ⭐ 1 | 🐛 0 | 🌐 Lua | 📅 2025-01-22 - Shop has no Jokers. Open a Jumbo Pack after each Blind. Only Jokers earn you money. by [@AiksiLotl](https://github.com/AiksiLotl)
 * [Deck Inversion Challenge Konfiguration](https://github.com/tgreenmonkey/Deck-Inversion-Challenge-Konfiguration) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2026-04-01 - Replaces all vanilla decks with inversed versions of them! by [@tgreenmonkey](https://github.com/tgreenmonkey)
 * [DNA Splice Deck](https://github.com/jlwoolf/DNASplice) ⭐ 0 | 🐛 1 | 🌐 Lua | 📅 2025-03-16 - Adds a deck that gives a DNA joker at run start. by [@jlwoolf](https://github.com/jlwoolf)
-* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 356 | 🐛 55 | 🌐 Lua | 📅 2026-11-03. by [@jacksoncmu](https://github.com/jacksoncmu)
+* [SmallWorldDeck](https://github.com/jacksoncmu/smallworld-deck-balatro) ⭐ 0 | 🐛 0 | 🌐 Lua | 📅 2025-10-13 - A deck that randomly bans 75% of all of all Jokers, Tarots, Planets, and Spectrals each run, forcing you to adapt and experiment with new builds. Starts you off with a Negative Showman. Inspired by the [Small World ruleset for Balatro multiplayer](https://github.com/Balatro-Multiplayer/BalatroMultiplayer) ⭐ 357 | 🐛 38 | 🌐 Lua | 📅 2026-11-04. by [@jacksoncmu](https://github.com/jacksoncmu)
 * [Ace in the Hole](https://discord.com/channels/1116389027176787968/1215144701586575360) - Create a special deck that only contains **one Ace of each suit**! by `@Chamels`, `@UnknownEternity`
 * [Astronomer Deck](https://discord.com/channels/1116389027176787968/1215091624829517876) - A deck perfect for an aspiring astronomer! by `@Vicendithas`
 * [Borrowed deck](https://discord.com/channels/1116389027176787968/1213054535334109184) - Build a big deck with tons of free **mega standard packs**. by `@Rose Happy`
@@ -211,7 +211,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ### Functionality
 
-* [Card Sleeves](https://github.com/larswijn/CardSleeves) ⭐ 145 | 🐛 7 | 🌐 Lua | 📅 2026-08-24 - Adds fancy sleeves which not only keep the cards cosy, but also apply the modifier of the deck it represents (e.g. get +$10 at start with Yellow Sleeve). by [@Larswijn](https://github.com/larswijn)
+* [Card Sleeves](https://github.com/larswijn/CardSleeves) ⭐ 145 | 🐛 8 | 🌐 Lua | 📅 2026-08-24 - Adds fancy sleeves which not only keep the cards cosy, but also apply the modifier of the deck it represents (e.g. get +$10 at start with Yellow Sleeve). by [@Larswijn](https://github.com/larswijn)
 
 * [Saturn](https://github.com/OceanRamen/Saturn) ⭐ 97 | 🐛 11 | 🌐 Lua | 📅 2026-05-22 - introduces some Quality of Life features for better game experience on endless mode.. by [@OceanRamen](https://github.com/OceanRamen/)
 
@@ -603,7 +603,7 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 621 | 🐛 42 | 🌐 Rust | 📅 2026-09-23)
+## Mods (Require [**Lovely**](https://github.com/ethangreen-dev/lovely-injector) ⭐ 621 | 🐛 43 | 🌐 Rust | 📅 2026-09-23)
 
 ### Decks
 
@@ -678,4 +678,4 @@ Collect all Balatro mods and tools, welcome to add!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
