@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1775,
+            "stars": 1774,
             "topics": [
               "android",
               "balatro",
@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T13:06:52Z",
+            "last_commit": "2026-11-06T20:55:10Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -455,7 +455,7 @@
             "open_issues": 112,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1009,
+            "stars": 1011,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -497,7 +497,7 @@
             "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "balamod",
               "balatro",
@@ -1495,7 +1495,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-05-22T11:55:04Z",
-                    "open_issues": 11,
+                    "open_issues": 12,
                     "owner": "OceanRamen",
                     "repo": "Saturn",
                     "stars": 98,
@@ -2417,7 +2417,7 @@
                     "open_issues": 0,
                     "owner": "fosterbarnes",
                     "repo": "balatroGayPenis",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "balatro",
                       "gay",
@@ -2921,7 +2921,7 @@
                     "id": 953911011,
                     "language": "Lua",
                     "license": null,
-                    "last_commit": "2026-11-05T03:30:56Z",
+                    "last_commit": "2026-11-06T03:18:30Z",
                     "open_issues": 1,
                     "owner": "crmykybord",
                     "repo": "Sculio",
@@ -2972,7 +2972,7 @@
                     "open_issues": 12,
                     "owner": "jamesthejellyfish",
                     "repo": "JellyMod",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4207,7 +4207,7 @@
                     "open_issues": 5,
                     "owner": "FrBmt-BIGetNouf",
                     "repo": "balatro-french-translations",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4329,7 +4329,7 @@
             "open_issues": 112,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1009,
+            "stars": 1011,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -4639,7 +4639,7 @@
                     "open_issues": 2,
                     "owner": "HeyImKyu",
                     "repo": "balatro-gay",
-                    "stars": 21,
+                    "stars": 22,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4996,7 +4996,7 @@
                     "open_issues": 5,
                     "owner": "FrBmt-BIGetNouf",
                     "repo": "balatro-french-translations",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5048,7 +5048,7 @@
             "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "balamod",
               "balatro",
@@ -5482,7 +5482,7 @@
                     "language": "Lua",
                     "license": "NOASSERTION",
                     "last_commit": "2025-03-30T23:48:08Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "Nitablade",
                     "repo": "Balatro_ProperRussian",
                     "stars": 126,
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:16:51.911Z",
+    "last_updated": "2026-11-06T21:45:11.359Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
