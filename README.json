@@ -455,7 +455,7 @@
             "open_issues": 113,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1014,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1089,7 +1089,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-01T15:18:55Z",
-                    "open_issues": 6,
+                    "open_issues": 7,
                     "owner": "JeffVi",
                     "repo": "DX-Tarots",
                     "stars": 16,
@@ -4329,7 +4329,7 @@
             "open_issues": 113,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1014,
+            "stars": 1015,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:56:48.932Z",
+    "last_updated": "2026-11-11T23:02:42.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
