@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1778,
+            "stars": 1780,
             "topics": [
               "android",
               "balatro",
@@ -455,7 +455,7 @@
             "open_issues": 113,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1015,
+            "stars": 1016,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -476,7 +476,7 @@
             "open_issues": 43,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1569,7 +1569,7 @@
                     "open_issues": 3,
                     "owner": "Agoraaa",
                     "repo": "FlushHotkeys",
-                    "stars": 27,
+                    "stars": 26,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -4329,7 +4329,7 @@
             "open_issues": 113,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1015,
+            "stars": 1016,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -4586,7 +4586,7 @@
                     "open_issues": 3,
                     "owner": "Agoraaa",
                     "repo": "FlushHotkeys",
-                    "stars": 27,
+                    "stars": 26,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -5390,8 +5390,8 @@
                     "id": 862946710,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-11T03:08:13Z",
-                    "open_issues": 5,
+                    "last_commit": "2026-11-12T02:55:26Z",
+                    "open_issues": 3,
                     "owner": "stupxd",
                     "repo": "Blueprint",
                     "stars": 70,
@@ -5485,7 +5485,7 @@
                     "open_issues": 1,
                     "owner": "Nitablade",
                     "repo": "Balatro_ProperRussian",
-                    "stars": 126,
+                    "stars": 127,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5558,7 +5558,7 @@
             "open_issues": 43,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 626,
+            "stars": 627,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:02:42.858Z",
+    "last_updated": "2026-11-12T22:26:29.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1292,
+      "stars": 1293,
       "topics": [
         "awesome",
         "balatro"
