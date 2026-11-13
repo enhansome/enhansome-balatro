@@ -455,7 +455,7 @@
             "open_issues": 113,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1016,
+            "stars": 1017,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -473,7 +473,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 43,
+            "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
             "stars": 627,
@@ -4329,7 +4329,7 @@
             "open_issues": 113,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1016,
+            "stars": 1017,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5555,7 +5555,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-23T15:16:33Z",
-            "open_issues": 43,
+            "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
             "stars": 627,
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:26:29.311Z",
+    "last_updated": "2026-11-13T22:10:34.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
