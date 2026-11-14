@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1780,
+            "stars": 1781,
             "topics": [
               "android",
               "balatro",
@@ -451,11 +451,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T01:03:29Z",
+            "last_commit": "2026-11-14T14:32:20Z",
             "open_issues": 113,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1017,
+            "stars": 1018,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2429,6 +2429,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "SilkTouch",
+                  "description": "enable mobile like touch ui everywhere for smoother frictionless gameplay @HuyTheKiller",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Balatro mod that brings touch controls from mobile version to PC/Mac. Built with extensibility, allowing other mods to define their own drag areas.",
+                    "homepage": null,
+                    "id": 1184672646,
+                    "language": "Lua",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-01T12:51:00Z",
+                    "open_issues": 1,
+                    "owner": "HuyTheKiller",
+                    "repo": "SilkTouch",
+                    "stars": 12,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Taikomochi",
                   "description": "New zen game mode, loosing is not the end of the run, just restart the ante. by @Amvoled",
                   "children": [],
@@ -2485,27 +2506,6 @@
                     "open_issues": 2,
                     "owner": "Hellyom",
                     "repo": "HellyomBalatroMods",
-                    "stars": 11,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "SilkTouch",
-                  "description": "enable mobile like touch ui everywhere for smoother frictionless gameplay @HuyTheKiller",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Balatro mod that brings touch controls from mobile version to PC/Mac. Built with extensibility, allowing other mods to define their own drag areas.",
-                    "homepage": null,
-                    "id": 1184672646,
-                    "language": "Lua",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-01T12:51:00Z",
-                    "open_issues": 1,
-                    "owner": "HuyTheKiller",
-                    "repo": "SilkTouch",
                     "stars": 11,
                     "topics": []
                   },
@@ -4325,11 +4325,11 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T01:03:29Z",
+            "last_commit": "2026-11-14T14:32:20Z",
             "open_issues": 113,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1017,
+            "stars": 1018,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:10:34.259Z",
+    "last_updated": "2026-11-14T20:55:47.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1293,
+      "stars": 1294,
       "topics": [
         "awesome",
         "balatro"
