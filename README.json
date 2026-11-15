@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T20:55:10Z",
+            "last_commit": "2026-11-15T16:15:42Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -476,7 +476,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 627,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -497,7 +497,7 @@
             "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 162,
+            "stars": 161,
             "topics": [
               "balamod",
               "balatro",
@@ -2224,7 +2224,7 @@
                     "open_issues": 11,
                     "owner": "DivvyCr",
                     "repo": "Balatro-Preview",
-                    "stars": 160,
+                    "stars": 161,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5048,7 +5048,7 @@
             "open_issues": 9,
             "owner": "balamod",
             "repo": "balamod",
-            "stars": 162,
+            "stars": 161,
             "topics": [
               "balamod",
               "balatro",
@@ -5513,7 +5513,7 @@
                     "open_issues": 13,
                     "owner": "WilsontheWolf",
                     "repo": "DebugPlus",
-                    "stars": 89,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5558,7 +5558,7 @@
             "open_issues": 42,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 627,
+            "stars": 628,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:55:47.888Z",
+    "last_updated": "2026-11-15T21:16:15.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
