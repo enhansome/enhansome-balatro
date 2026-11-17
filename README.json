@@ -1594,7 +1594,7 @@
                     "open_issues": 1,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 20,
+                    "stars": 19,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -1622,7 +1622,7 @@
                     "open_issues": 1,
                     "owner": "LnxFCA",
                     "repo": "balatro-mods",
-                    "stars": 20,
+                    "stars": 19,
                     "topics": [
                       "balatro",
                       "balatro-mod",
@@ -1650,7 +1650,7 @@
                     "open_issues": 0,
                     "owner": "SirMaiquis",
                     "repo": "Balatro-Stickers-Always-Shown",
-                    "stars": 18,
+                    "stars": 17,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1713,7 +1713,7 @@
                     "open_issues": 2,
                     "owner": "xioxin",
                     "repo": "BalatroMods",
-                    "stars": 12,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -2471,27 +2471,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "JokerSellValue",
-                  "description": "QOL mod for Jokers in Buffoon Packs and the shop. by @OppositeWolf770",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 810629862,
-                    "language": "Lua",
-                    "license": null,
-                    "last_commit": "2025-12-11T01:03:33Z",
-                    "open_issues": 3,
-                    "owner": "OppositeWolf770",
-                    "repo": "JokerSellValue",
-                    "stars": 11,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:41:35.075Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Roulette",
                   "description": "Adds a roulette to the game so you can lose all your money and loose your run faster, obviously. by @Hellyom",
                   "children": [],
@@ -2548,6 +2527,27 @@
                     "open_issues": 3,
                     "owner": "Wiwiweb",
                     "repo": "BalatroMods",
+                    "stars": 10,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:41:35.075Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "JokerSellValue",
+                  "description": "QOL mod for Jokers in Buffoon Packs and the shop. by @OppositeWolf770",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 810629862,
+                    "language": "Lua",
+                    "license": null,
+                    "last_commit": "2025-12-11T01:03:33Z",
+                    "open_issues": 3,
+                    "owner": "OppositeWolf770",
+                    "repo": "JokerSellValue",
                     "stars": 10,
                     "topics": []
                   },
@@ -3119,7 +3119,7 @@
                     "open_issues": 0,
                     "owner": "gabepesco",
                     "repo": "BalatroAncientJokerFix",
-                    "stars": 7,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5276,7 +5276,7 @@
                     "id": 802691875,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-27T19:46:17Z",
+                    "last_commit": "2026-11-16T04:19:42Z",
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
@@ -5303,7 +5303,7 @@
                     "open_issues": 27,
                     "owner": "Eremel",
                     "repo": "Malverk",
-                    "stars": 59,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:16:15.685Z",
+    "last_updated": "2026-11-17T00:28:52.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1294,
+      "stars": 1296,
       "topics": [
         "awesome",
         "balatro"
