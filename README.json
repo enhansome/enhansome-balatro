@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1781,
+            "stars": 1782,
             "topics": [
               "android",
               "balatro",
@@ -47,7 +47,7 @@
             "open_issues": 23,
             "owner": "SpectralPack",
             "repo": "Immolate",
-            "stars": 167,
+            "stars": 168,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -132,7 +132,7 @@
             "id": 1026553083,
             "language": "C#",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T16:15:42Z",
+            "last_commit": "2026-11-19T21:05:47Z",
             "open_issues": 8,
             "owner": "OptimusPi",
             "repo": "BalatroSeedOracle",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T23:07:25.233Z",
+    "last_updated": "2026-11-19T23:13:04.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
