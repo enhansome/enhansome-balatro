@@ -452,10 +452,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-11-14T14:32:20Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1018,
+            "stars": 1020,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -476,7 +476,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 627,
+            "stars": 629,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4326,10 +4326,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-11-14T14:32:20Z",
-            "open_issues": 115,
+            "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1018,
+            "stars": 1020,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5280,7 +5280,7 @@
                     "open_issues": 2,
                     "owner": "nh6574",
                     "repo": "JokerDisplay",
-                    "stars": 186,
+                    "stars": 187,
                     "topics": [
                       "balatro"
                     ]
@@ -5558,7 +5558,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 627,
+            "stars": 629,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:13:04.894Z",
+    "last_updated": "2026-11-20T22:48:45.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5581,7 +5581,7 @@
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1297,
+      "stars": 1299,
       "topics": [
         "awesome",
         "balatro"
