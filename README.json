@@ -89,7 +89,7 @@
             "open_issues": 2,
             "owner": "Dimserene",
             "repo": "Balatro-ModpackManager",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "balatro",
               "manager",
@@ -451,7 +451,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T14:32:20Z",
+            "last_commit": "2026-11-21T15:50:29Z",
             "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
@@ -476,7 +476,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 629,
+            "stars": 631,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -4325,7 +4325,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T14:32:20Z",
+            "last_commit": "2026-11-21T15:50:29Z",
             "open_issues": 116,
             "owner": "Steamodded",
             "repo": "smods",
@@ -5513,7 +5513,7 @@
                     "open_issues": 13,
                     "owner": "WilsontheWolf",
                     "repo": "DebugPlus",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5558,7 +5558,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 629,
+            "stars": 631,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5569,7 +5569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:48:45.437Z",
+    "last_updated": "2026-11-21T21:52:53.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
