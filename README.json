@@ -374,6 +374,34 @@
         },
         {
           "node_type": "item",
+          "title": "endless-loop-music",
+          "description": "Browser demo of why Balatro's music never sounds like a loop: five synced tracks that switch with Blind, Shop and Boss Blind, the 0.7× slowdown and the Game Over tape stop, checked against the game's source. Original music synthesized in Web Audio, no game assets. Source. by @JonasJoe233",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Why Balatro's music never feels like a loop: the mechanism rebuilt from the source in Web Audio, plus a zero-dependency module for homepage music that bends with your mouse.",
+            "homepage": "https://jonasjoe233.github.io/endless-loop-music/",
+            "id": 1468575631,
+            "language": "HTML",
+            "license": "MIT",
+            "last_commit": "2026-11-24T11:40:00Z",
+            "open_issues": 0,
+            "owner": "JonasJoe233",
+            "repo": "endless-loop-music",
+            "stars": 3,
+            "topics": [
+              "balatro",
+              "creative-coding",
+              "generative-music",
+              "javascript",
+              "personal-website",
+              "web-audio"
+            ]
+          },
+          "first_seen": "2026-11-25T01:03:49.665Z"
+        },
+        {
+          "node_type": "item",
           "title": "Balatrones",
           "description": "Manage custom modpack instances for Balatro with their own mods and save files in separate directories (Currently Windows only). by @bconlon1",
           "children": [],
@@ -452,7 +480,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-11-21T15:50:29Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 1021,
@@ -3672,6 +3700,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Lynverse Jokers",
+                  "description": "A pack with 30 Jokers of lovely ladies! by @AlexyoTheFirst",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Lynverse Jokers Balatro mod GitHub! Featuring 30 new jokers based on AU versions of Lyn Selensi and some other cute girls :)",
+                    "homepage": null,
+                    "id": 1468024159,
+                    "language": "Lua",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-24T04:13:12Z",
+                    "open_issues": 0,
+                    "owner": "AlexyoTheFirst",
+                    "repo": "Lynverse-Jokers",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-25T01:03:49.665Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Rule Breaker Joker",
                   "description": "Extend balatro hand beyond 5 cards per round. +1 card per joker. by @RakibRyan",
                   "children": [],
@@ -4326,7 +4375,7 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-11-21T15:50:29Z",
-            "open_issues": 117,
+            "open_issues": 118,
             "owner": "Steamodded",
             "repo": "smods",
             "stars": 1021,
@@ -5243,7 +5292,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-01T15:09:02Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "PixeledLobster",
                     "repo": "Quick-Hand-Selector",
                     "stars": 0,
@@ -5569,7 +5618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T03:02:30.872Z",
+    "last_updated": "2026-11-25T01:03:49.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5577,17 +5626,17 @@
       "id": 765516608,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-16T04:37:42Z",
+      "last_commit": "2026-11-24T09:20:58Z",
       "open_issues": 5,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1299,
+      "stars": 1300,
       "topics": [
         "awesome",
         "balatro"
       ]
     },
-    "original_repository_sha": "4be961585050f5c5082e3b8307fda199f4fed4e0",
+    "original_repository_sha": "538208b4a1127ad67589cdce38d9477511f6b486",
     "enhanced_repository": "enhansome/enhansome-balatro",
     "enhanced_repository_description": null,
     "title": "Awesome-Balatro with stars"
