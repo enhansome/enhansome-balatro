@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1781,
+            "stars": 1782,
             "topics": [
               "android",
               "balatro",
@@ -483,7 +483,7 @@
             "open_issues": 118,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1021,
+            "stars": 1023,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -504,7 +504,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 631,
+            "stars": 634,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -1498,7 +1498,7 @@
                     "open_issues": 9,
                     "owner": "larswijn",
                     "repo": "CardSleeves",
-                    "stars": 145,
+                    "stars": 146,
                     "topics": [
                       "balatro",
                       "lovely",
@@ -3700,6 +3700,33 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Cursed Gifts",
+                  "description": "Taiwanese ghost-month folk horror: 19 Jokers, a Joss Paper pack and 3 challenges. Cursed gifts can't be destroyed, only passed on. by @William-Z14",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Taiwanese ghost-month folk-horror mod for Balatro (Steamodded). Cursed gifts can't be destroyed — only passed on.",
+                    "homepage": null,
+                    "id": 1471239974,
+                    "language": "Lua",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-25T10:57:07Z",
+                    "open_issues": 0,
+                    "owner": "William-Z14",
+                    "repo": "cursed-gifts-balatro",
+                    "stars": 0,
+                    "topics": [
+                      "balatro",
+                      "balatro-mod",
+                      "horror",
+                      "steamodded",
+                      "taiwan"
+                    ]
+                  },
+                  "first_seen": "2026-11-26T00:40:01.191Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Lynverse Jokers",
                   "description": "A pack with 30 Jokers of lovely ladies! by @AlexyoTheFirst",
                   "children": [],
@@ -4378,7 +4405,7 @@
             "open_issues": 118,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1021,
+            "stars": 1023,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5129,7 +5156,7 @@
                     "open_issues": 40,
                     "owner": "SpectralPack",
                     "repo": "Talisman",
-                    "stars": 143,
+                    "stars": 144,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:41:35.075Z"
@@ -5168,7 +5195,7 @@
                     "language": "Lua",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-17T20:27:31Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "kasimeka",
                     "repo": "balatro-typist-mod",
                     "stars": 28,
@@ -5607,7 +5634,7 @@
             "open_issues": 41,
             "owner": "ethangreen-dev",
             "repo": "lovely-injector",
-            "stars": 631,
+            "stars": 634,
             "topics": []
           },
           "title": "Mods (Require Lovely)",
@@ -5618,7 +5645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:03:49.665Z",
+    "last_updated": "2026-11-26T00:40:01.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5626,17 +5653,17 @@
       "id": 765516608,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-24T09:20:58Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-25T04:48:07Z",
+      "open_issues": 6,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1300,
+      "stars": 1301,
       "topics": [
         "awesome",
         "balatro"
       ]
     },
-    "original_repository_sha": "538208b4a1127ad67589cdce38d9477511f6b486",
+    "original_repository_sha": "cd61d8d333df568d6237e137fb91ba98e78f3edd",
     "enhanced_repository": "enhansome/enhansome-balatro",
     "enhanced_repository_description": null,
     "title": "Awesome-Balatro with stars"
