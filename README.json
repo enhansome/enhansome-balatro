@@ -19,7 +19,7 @@
             "open_issues": 151,
             "owner": "blake502",
             "repo": "balatro-mobile-maker",
-            "stars": 1782,
+            "stars": 1783,
             "topics": [
               "android",
               "balatro",
@@ -480,10 +480,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-11-21T15:50:29Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "first_seen": "2026-08-29T00:41:35.075Z"
@@ -3710,7 +3710,7 @@
                     "id": 1471239974,
                     "language": "Lua",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-25T10:57:07Z",
+                    "last_commit": "2026-11-26T07:57:04Z",
                     "open_issues": 0,
                     "owner": "William-Z14",
                     "repo": "cursed-gifts-balatro",
@@ -4402,10 +4402,10 @@
             "language": "Lua",
             "license": "GPL-3.0",
             "last_commit": "2026-11-21T15:50:29Z",
-            "open_issues": 118,
+            "open_issues": 119,
             "owner": "Steamodded",
             "repo": "smods",
-            "stars": 1023,
+            "stars": 1024,
             "topics": []
           },
           "title": "Mods (Require Steamodded)",
@@ -5645,7 +5645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:40:01.191Z",
+    "last_updated": "2026-11-27T00:48:36.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
