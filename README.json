@@ -479,7 +479,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T15:50:29Z",
+            "last_commit": "2026-11-27T20:39:08Z",
             "open_issues": 119,
             "owner": "Steamodded",
             "repo": "smods",
@@ -4401,7 +4401,7 @@
             "id": 727742435,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-21T15:50:29Z",
+            "last_commit": "2026-11-27T20:39:08Z",
             "open_issues": 119,
             "owner": "Steamodded",
             "repo": "smods",
@@ -5194,8 +5194,8 @@
                     "id": 937939564,
                     "language": "Lua",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-17T20:27:31Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-11-27T17:52:19Z",
+                    "open_issues": 2,
                     "owner": "kasimeka",
                     "repo": "balatro-typist-mod",
                     "stars": 28,
@@ -5488,7 +5488,7 @@
                     "language": "Lua",
                     "license": "NOASSERTION",
                     "last_commit": "2026-07-09T13:19:07Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "bryanthaboi",
                     "repo": "solatro",
                     "stars": 1,
@@ -5645,7 +5645,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T00:48:36.857Z",
+    "last_updated": "2026-11-28T00:14:05.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of Balatro Mods and Tools",
@@ -5657,7 +5657,7 @@
       "open_issues": 6,
       "owner": "jie65535",
       "repo": "awesome-balatro",
-      "stars": 1301,
+      "stars": 1302,
       "topics": [
         "awesome",
         "balatro"
